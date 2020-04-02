@@ -1,0 +1,4 @@
+---
+title: Mandelbachtal
+url: /mandelbachtal/
+---

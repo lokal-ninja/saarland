@@ -1,0 +1,4 @@
+---
+title: "Welsch Getränke"
+url: /gersheim/welsch-getraenke/
+---

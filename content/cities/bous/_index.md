@@ -1,0 +1,4 @@
+---
+title: Bous
+url: /bous/
+---

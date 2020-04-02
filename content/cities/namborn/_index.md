@@ -1,0 +1,4 @@
+---
+title: Namborn
+url: /namborn/
+---

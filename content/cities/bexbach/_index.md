@@ -1,0 +1,4 @@
+---
+title: Bexbach
+url: /bexbach/
+---
