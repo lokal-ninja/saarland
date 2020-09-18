@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2396855
 longitude: 6.971102
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Breite Straße"
 housenumber: 45

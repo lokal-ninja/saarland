@@ -1,12 +1,12 @@
-id: 87260450
-type: way
+id: 1313187288
+type: node
 shop: Supermarkt
-latitude: 49.2346421
-longitude: 6.9757071
-postcode: 66117
+latitude: 49.2506305
+longitude: 6.963626100000001
+postcode: "66113"
 city: Saarbrücken
-street: "Hohenzollernstraße"
-housenumber: 93
+street: "Rastpfuhl"
+housenumber: 2A
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Rastpfuhl%202a%2066113%20Saarbr%C3%BCcken&Mode=None"

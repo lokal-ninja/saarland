@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.2916814
 longitude: 6.779400000000001
-postcode: 66806
+postcode: "66806"
 city: Ensdorf/Saar
 street: "Unten am Mühlenweg"
 housenumber: 3

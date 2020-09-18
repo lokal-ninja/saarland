@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4754573
 longitude: 6.3856998
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Trierer Straße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.3087681
 longitude: 6.9078394
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "In den Siefen"
 housenumber: 1

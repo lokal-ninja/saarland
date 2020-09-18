@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 49.611736400000005
 longitude: 6.9649706
-postcode: 66620
+postcode: "66620"
 city: Nonnweiler
 street: "Eschenweg"
 housenumber: 2

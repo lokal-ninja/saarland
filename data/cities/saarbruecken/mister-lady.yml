@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2282121
 longitude: 7.0366109
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Breslauer Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.323860200000006
 longitude: 7.340140600000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Eisenbahnstraße"
 housenumber: 28

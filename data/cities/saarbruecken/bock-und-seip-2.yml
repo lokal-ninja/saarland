@@ -1,12 +1,12 @@
 id: 672616999
 type: node
 shop: Bücher
-latitude: 49.2362351
-longitude: 6.9940049
-postcode: 
+latitude: 49.236219500000004
+longitude: 6.9940245
+postcode: ""
 city: Saarbrücken
 street: "Futterstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-18:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-18:00; PH,Su off"
 website: "http://www.bock-seip.de"

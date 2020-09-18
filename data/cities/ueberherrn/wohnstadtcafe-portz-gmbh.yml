@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.236746100000005
 longitude: 6.7072633
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Schillerstraße"
 housenumber: 6

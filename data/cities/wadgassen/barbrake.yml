@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2675216
 longitude: 6.7972543000000005
-postcode: 66787
+postcode: "66787"
 city: Wadgassen
 street: "Lindenstraße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3421333
 longitude: 7.177788700000001
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "Irrgartenstraße"
 housenumber: 15

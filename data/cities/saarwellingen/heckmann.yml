@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 49.3579614
 longitude: 6.7932164
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "Werner-von-Siemens-Straße"
 housenumber: 1

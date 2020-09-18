@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 49.1761586
 longitude: 6.7321343
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Hauptstraße"
 housenumber: 287

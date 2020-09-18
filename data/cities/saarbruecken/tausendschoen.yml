@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.2313356
 longitude: 7.001246200000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 24

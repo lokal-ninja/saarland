@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.2299425
 longitude: 7.0074138
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 86
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: "Mo-Sa 07:00-19:00; Su 08;00-12:00"
 website: ""

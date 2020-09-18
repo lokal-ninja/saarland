@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 49.288552800000005
 longitude: 7.023763400000001
-postcode: 66125
+postcode: "66125"
 city: Saarbrücken
 street: "Camphauser Straße"
 housenumber: 4

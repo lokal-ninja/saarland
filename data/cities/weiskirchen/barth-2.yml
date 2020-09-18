@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.551285400000005
 longitude: 6.8271234000000005
-postcode: 66709
+postcode: "66709"
 city: Weiskirchen
 street: "Auf der Heide"
 housenumber: 8

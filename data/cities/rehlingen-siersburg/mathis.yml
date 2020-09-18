@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.364138100000005
 longitude: 6.6792376
-postcode: 66780
+postcode: "66780"
 city: Rehlingen-Siersburg
 street: "An der Windmühle"
 housenumber: 24

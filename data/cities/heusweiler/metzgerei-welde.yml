@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3307902
 longitude: 6.9813279
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Heusweilerstraße"
 housenumber: 47

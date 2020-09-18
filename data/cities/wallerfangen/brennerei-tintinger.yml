@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.322829500000005
 longitude: 6.604282100000001
-postcode: 66798
+postcode: "66798"
 city: Wallerfangen
 street: "Im Ecken"
 housenumber: 4

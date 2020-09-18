@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.3003106
 longitude: 6.8982482
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Hauptstraße"
 housenumber: 16

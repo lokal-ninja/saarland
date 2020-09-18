@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.3378729
 longitude: 6.929857500000001
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Am Markt"
 housenumber: 6

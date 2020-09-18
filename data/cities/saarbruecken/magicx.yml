@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 49.237250100000004
 longitude: 6.9902791
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Viktoriastraße"
 housenumber: 4

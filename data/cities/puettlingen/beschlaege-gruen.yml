@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.303676100000004
 longitude: 6.899288200000001
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Am Kirchenpfad"
 housenumber: 2

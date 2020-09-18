@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3129008
 longitude: 6.732501600000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Zeppelinstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.238722100000004
 longitude: 6.991633200000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 104-108

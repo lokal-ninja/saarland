@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5374491
 longitude: 6.976861700000001
-postcode: 66620
+postcode: "66620"
 city: Nonnweiler
 street: "Hauptstraße"
 housenumber: 16

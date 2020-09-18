@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.3133367
 longitude: 6.7517073000000005
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Kleiner Markt"
 housenumber: 5a

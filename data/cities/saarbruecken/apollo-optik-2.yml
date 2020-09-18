@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.238976900000004
 longitude: 6.9910588
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Reichsstraße"
 housenumber: 6

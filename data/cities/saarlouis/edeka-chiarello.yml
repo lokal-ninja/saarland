@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.306127800000006
 longitude: 6.7399841
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Metzer Straße"
 housenumber: 42

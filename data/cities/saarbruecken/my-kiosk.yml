@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.239482900000006
 longitude: 6.9719758
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Breite Straße"
 housenumber: 33

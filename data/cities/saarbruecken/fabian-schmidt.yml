@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.235741600000004
 longitude: 6.999849500000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Nauwieserstraße"
 housenumber: 9

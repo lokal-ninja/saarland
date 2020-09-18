@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.324999600000005
 longitude: 6.7503986000000005
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Schanzenstraße"
 housenumber: 20

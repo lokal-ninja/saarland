@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.232519200000006
 longitude: 6.996303
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "St. Johanner Markt"
 housenumber: 29

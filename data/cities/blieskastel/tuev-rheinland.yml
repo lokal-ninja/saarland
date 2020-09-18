@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.244480300000006
 longitude: 7.2591985
-postcode: 66440
+postcode: "66440"
 city: Blieskastel
 street: "Bliesgaustraße"
 housenumber: 48

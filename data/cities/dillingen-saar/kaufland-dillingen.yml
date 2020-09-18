@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.369032100000005
 longitude: 6.7132914
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Daimlerstraße"
 housenumber: 4

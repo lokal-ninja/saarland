@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5834422
 longitude: 7.1162396
-postcode: 66625
+postcode: "66625"
 city: Nohfelden
 street: "Saarbrücker Straße"
 housenumber: 10

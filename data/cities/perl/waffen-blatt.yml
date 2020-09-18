@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 49.4732551
 longitude: 6.375113300000001
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Bahnhofstraße"
 housenumber: 87

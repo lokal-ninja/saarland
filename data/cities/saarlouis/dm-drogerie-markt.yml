@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.315083900000005
 longitude: 6.7494696
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Großer Markt"
 housenumber: 22

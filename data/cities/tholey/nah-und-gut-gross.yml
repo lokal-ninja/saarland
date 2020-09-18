@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4893669
 longitude: 6.977571200000001
-postcode: 66636
+postcode: "66636"
 city: Tholey
 street: "Theeltalstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3019936
 longitude: 6.799651300000001
-postcode: 66773
+postcode: "66773"
 city: Schwalbach
 street: "Zur Langelänge"
 housenumber: 12

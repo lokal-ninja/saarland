@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.230642800000005
 longitude: 7.0160583
-postcode: 
+postcode: ""
 city: Saarbrücken
 street: "Halbergstraße"
 housenumber: 47

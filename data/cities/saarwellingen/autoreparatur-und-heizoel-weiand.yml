@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3614979
 longitude: 6.879323200000001
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "Kirchenstraße"
 housenumber: 79

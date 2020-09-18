@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.397657200000005
 longitude: 6.7123659
-postcode: 66701
+postcode: "66701"
 city: Beckingen
 street: "Sankweg"
 housenumber: 1

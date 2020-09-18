@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.456924
 longitude: 7.0621369000000005
-postcode: 66646
+postcode: "66646"
 city: Marpingen
 street: "Alsweilerstraße"
 housenumber: 60

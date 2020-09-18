@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.335014300000005
 longitude: 6.862183600000001
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "Dorfstraße"
 housenumber: 10

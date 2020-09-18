@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.3534652
 longitude: 6.7268927000000005
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Stummstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.3479966
 longitude: 7.0473249000000004
-postcode: 66589
+postcode: "66589"
 city: Merchweiler
 street: "Auf Pfuhlst"
 housenumber: 8

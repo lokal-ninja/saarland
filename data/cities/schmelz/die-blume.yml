@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.440530700000004
 longitude: 6.856922600000001
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Lindenstraße"
 housenumber: 1

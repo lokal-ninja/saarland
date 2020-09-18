@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.324741700000004
 longitude: 6.7594076
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Bahnhofstraße"
 housenumber: 7

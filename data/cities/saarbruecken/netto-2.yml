@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.205263200000005
 longitude: 7.0561106
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Provinzialstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.2443685
 longitude: 6.6977424
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Hauptstraße"
 housenumber: 63

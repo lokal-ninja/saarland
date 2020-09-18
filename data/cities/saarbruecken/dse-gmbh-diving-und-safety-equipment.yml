@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 49.2452799
 longitude: 7.0598109000000004
-postcode: 66133
+postcode: "66133"
 city: Saarbrücken
 street: "Scheidterbergstraße"
 housenumber: 2

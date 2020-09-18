@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.2238332
 longitude: 7.161820700000001
-postcode: 66399
+postcode: "66399"
 city: Mandelbachtal
 street: "Höllscheider Straße"
 housenumber: 16

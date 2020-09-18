@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.3242946
 longitude: 6.9205769
-postcode: 66292
+postcode: "66292"
 city: Riegelsberg
 street: "Heusweilerstraße"
 housenumber: 18

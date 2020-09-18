@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.249399100000005
 longitude: 6.9542695000000005
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Rheinstraße"
 housenumber: 124

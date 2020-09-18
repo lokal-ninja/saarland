@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.320720300000005
 longitude: 6.7751745
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Saarbrücker Straße"
 housenumber: 91

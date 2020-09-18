@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.3205849
 longitude: 7.337027600000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Talstraße"
 housenumber: 49

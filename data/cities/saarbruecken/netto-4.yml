@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.242516300000005
 longitude: 6.951835900000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Margarethenstraße"
 housenumber: 17b

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2418721
 longitude: 7.0091596
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Meerwiesertalweg"
 housenumber: 27

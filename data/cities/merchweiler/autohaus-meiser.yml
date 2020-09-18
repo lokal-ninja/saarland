@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3577067
 longitude: 7.0538156
-postcode: 66589
+postcode: "66589"
 city: Merchweiler
 street: "Gertrudstraße"
 housenumber: 16

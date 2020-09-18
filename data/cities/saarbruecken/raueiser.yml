@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.2325159
 longitude: 6.9970489
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "St. Johanner Markt"
 housenumber: 26

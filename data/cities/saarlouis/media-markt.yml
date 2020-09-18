@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.3194102
 longitude: 6.747855700000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Dieselstraße"
 housenumber: 1

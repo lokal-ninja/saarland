@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5617838
 longitude: 7.172748500000001
-postcode: 66625
+postcode: "66625"
 city: Nohfelden
 street: "St.Wendeler Straße"
 housenumber: 60

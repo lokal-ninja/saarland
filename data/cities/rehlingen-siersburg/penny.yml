@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.370836700000005
 longitude: 6.6870786
-postcode: 66780
+postcode: "66780"
 city: Rehlingen-Siersburg
 street: "Nordstraße"
 housenumber: 1

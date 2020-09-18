@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.303527300000006
 longitude: 7.265090600000001
-postcode: 66459
+postcode: "66459"
 city: Kirkel
 street: "Konrad-Zuse-Straße"
 housenumber: 1

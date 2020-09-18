@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.464334
 longitude: 6.6202684000000005
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Trierer Straße"
 housenumber: 240

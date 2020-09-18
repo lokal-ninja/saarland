@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.2394814
 longitude: 6.972936000000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Breite Straße"
 housenumber: 19

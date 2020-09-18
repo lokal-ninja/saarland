@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.416146000000005
 longitude: 6.848802200000001
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Primsweilerstraße"
 housenumber: 39A

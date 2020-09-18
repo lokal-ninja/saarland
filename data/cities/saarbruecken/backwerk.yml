@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2358374
 longitude: 6.9935735
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 52

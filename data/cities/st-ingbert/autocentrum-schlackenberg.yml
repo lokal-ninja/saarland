@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.275988600000005
 longitude: 7.0915827
-postcode: 66386
+postcode: "66386"
 city: St. Ingbert
 street: "Schlackenbergstraße"
 housenumber: 1

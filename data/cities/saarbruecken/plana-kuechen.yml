@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.2407228
 longitude: 6.9598371000000006
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Käthe-Kollwitz-Straße"
 housenumber: 3

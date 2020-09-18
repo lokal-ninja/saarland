@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.468938400000006
 longitude: 7.1623068000000005
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Bungertstraße"
 housenumber: 12

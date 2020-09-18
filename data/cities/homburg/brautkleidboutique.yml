@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.319226900000004
 longitude: 7.329391500000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.209079800000005
 longitude: 7.028628
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Saargemünder Straße"
 housenumber: 26a

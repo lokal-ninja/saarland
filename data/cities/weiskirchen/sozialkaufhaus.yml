@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.554909900000006
 longitude: 6.824244200000001
-postcode: 66709
+postcode: "66709"
 city: Weiskirchen
 street: "Konfelder Straße"
 housenumber: 6

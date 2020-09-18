@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3780769
 longitude: 6.7102728
-postcode: 66701
+postcode: "66701"
 city: Beckingen
 street: "Südstraße"
 housenumber: 4

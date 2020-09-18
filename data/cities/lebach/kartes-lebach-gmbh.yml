@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.403322200000005
 longitude: 6.915972
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Saarbrücker Straße"
 housenumber: 49

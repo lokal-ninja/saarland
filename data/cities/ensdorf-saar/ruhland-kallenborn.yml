@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.2914259
 longitude: 6.7808646
-postcode: 66806
+postcode: "66806"
 city: Ensdorf/Saar
 street: "Unten am Mühlenweg"
 housenumber: 1

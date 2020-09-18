@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.3617338
 longitude: 7.069521900000001
-postcode: 66589
+postcode: "66589"
 city: Merchweiler
 street: "In der Wolfskaul"
 housenumber: 18b

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.2069363
 longitude: 6.8392549
-postcode: 66352
+postcode: "66352"
 city: Großrosseln
 street: "Ludweilerstraße"
 housenumber: 16

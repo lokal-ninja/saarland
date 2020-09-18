@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.239774000000004
 longitude: 6.981736400000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "St. Johanner Straße"
 housenumber: 58

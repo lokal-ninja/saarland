@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.2320286
 longitude: 6.975868500000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Deutschherrnstraße"
 housenumber: 82

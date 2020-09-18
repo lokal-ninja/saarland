@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.5381243
 longitude: 6.891624
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Im Brühl"
 housenumber: 3

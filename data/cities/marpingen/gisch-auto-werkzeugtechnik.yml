@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.446305800000005
 longitude: 7.058554300000001
-postcode: 66646
+postcode: "66646"
 city: Marpingen
 street: "Urexweilerstraße"
 housenumber: 59

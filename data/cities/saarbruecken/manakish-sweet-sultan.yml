@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.2394946
 longitude: 6.9718629000000005
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Breite Straße"
 housenumber: 35

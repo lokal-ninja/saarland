@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.313255000000005
 longitude: 6.7524503000000005
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Lothringer Straße"
 housenumber: 3-5

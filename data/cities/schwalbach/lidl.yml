@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.303119800000005
 longitude: 6.801849300000001
-postcode: 66773
+postcode: "66773"
 city: Schwalbach
 street: "Ensdorfer Straße"
 housenumber: 73-77

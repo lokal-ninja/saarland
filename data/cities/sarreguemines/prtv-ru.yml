@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1114158
 longitude: 7.0633615
-postcode: 57200
+postcode: "57200"
 city: Sarreguemines
 street: "Rue de France"
 housenumber: 36

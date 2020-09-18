@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.339905200000004
 longitude: 7.332772800000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Berliner Straße"
 housenumber: 82

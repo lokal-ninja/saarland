@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.4270356
 longitude: 6.6285771
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Dörrmühle"
 housenumber: 6

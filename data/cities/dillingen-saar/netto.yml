@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3559956
 longitude: 6.719531900000001
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Merziger Straße"
 housenumber: 77

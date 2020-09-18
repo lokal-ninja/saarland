@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3181578
 longitude: 6.736059
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Wallerfanger Straße"
 housenumber: 104

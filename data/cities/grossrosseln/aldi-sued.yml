@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.20604590000001
 longitude: 6.8436392
-postcode: 66352
+postcode: "66352"
 city: Großrosseln
 street: "Am Mühlenbach"
 housenumber: 3

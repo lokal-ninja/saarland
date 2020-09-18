@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2329269
 longitude: 6.9986614000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Türkenstraße"
 housenumber: 19

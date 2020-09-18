@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.284853600000005
 longitude: 7.0691882
-postcode: 66280
+postcode: "66280"
 city: Sulzbach/Saar
 street: "Hochstraße"
 housenumber: 63

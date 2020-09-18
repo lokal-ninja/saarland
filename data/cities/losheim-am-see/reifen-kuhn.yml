@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5110778
 longitude: 6.753327100000001
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Haagstraße"
 housenumber: 49

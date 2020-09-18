@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.228018000000006
 longitude: 7.0182582
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 138-144

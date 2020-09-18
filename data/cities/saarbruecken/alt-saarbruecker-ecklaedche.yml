@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.23165100000001
 longitude: 6.973012600000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Deutschhausweg"
 housenumber: 10

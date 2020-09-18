@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3556686
 longitude: 7.0968552
-postcode: 66578
+postcode: "66578"
 city: Schiffweiler
 street: "Schulstraße"
 housenumber: 23

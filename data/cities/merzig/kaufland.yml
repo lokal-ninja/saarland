@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.439877700000004
 longitude: 6.631256100000001
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Rieffstraße"
 housenumber: 12

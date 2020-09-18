@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.465121700000005
 longitude: 7.163462600000001
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Eisenbahnstraße"
 housenumber: 6

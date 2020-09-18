@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.2275312
 longitude: 7.0189117
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 187

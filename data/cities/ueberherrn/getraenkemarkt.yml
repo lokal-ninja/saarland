@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.249573600000005
 longitude: 6.6990011
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Langwies"
 housenumber: 6

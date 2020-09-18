@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 49.3019462
 longitude: 7.0579945
-postcode: 66280
+postcode: "66280"
 city: Sulzbach/Saar
 street: "Quierschieder Weg"
 housenumber: 3e
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

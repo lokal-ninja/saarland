@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2329602
 longitude: 6.9960677
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "St. Johanner Markt"
 housenumber: 6

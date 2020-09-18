@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4737136
 longitude: 6.374129600000001
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Trierer Straße"
 housenumber: 53

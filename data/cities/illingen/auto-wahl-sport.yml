@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3868164
 longitude: 7.0672664
-postcode: 66557
+postcode: "66557"
 city: Illingen
 street: "Provinzialstraße"
 housenumber: 30

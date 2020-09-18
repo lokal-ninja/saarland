@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.240759100000005
 longitude: 6.985053000000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Trierer Straße"
 housenumber: 42

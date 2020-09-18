@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.1582145
 longitude: 7.0277843
-postcode: 57520
+postcode: "57520"
 city: Grosbliederstroff
 street: "Rue de la Liberté"
 housenumber: 36

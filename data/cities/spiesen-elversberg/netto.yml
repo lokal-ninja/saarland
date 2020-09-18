@@ -1,12 +1,12 @@
-id: 358222682
+id: 234977311
 type: way
 shop: Supermarkt
-latitude: 49.3144803
-longitude: 7.1278733
-postcode: 66583
+latitude: 49.3140699
+longitude: 7.1276421
+postcode: "66583"
 city: Spiesen-Elversberg
-street: "Fichtenstraße"
-housenumber: 2
+street: "St.Ingberter Straße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.netto-online.de/ueber-netto/Neu-Wiedereroeffnungen.chtm/6"

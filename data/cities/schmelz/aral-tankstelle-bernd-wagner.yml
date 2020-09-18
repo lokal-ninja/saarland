@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.418687600000005
 longitude: 6.8449822000000005
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Primsweilerstraße"
 housenumber: 9

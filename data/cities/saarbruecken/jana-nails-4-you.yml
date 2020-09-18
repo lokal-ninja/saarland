@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2359613
 longitude: 6.9956455
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 18

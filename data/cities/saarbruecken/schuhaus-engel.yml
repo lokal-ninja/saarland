@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2414168
 longitude: 6.9479185
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Hochstraße"
 housenumber: 156

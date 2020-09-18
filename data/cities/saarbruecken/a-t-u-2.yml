@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.224784400000004
 longitude: 7.0451347
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Kaiserstraße"
 housenumber: 2c

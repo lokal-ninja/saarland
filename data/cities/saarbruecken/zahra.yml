@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.245672500000005
 longitude: 6.969167100000001
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Lebacher Straße"
 housenumber: 80

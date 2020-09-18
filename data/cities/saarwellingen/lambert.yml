@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.335647800000004
 longitude: 6.8728132
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "In der Langwies"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4075556
 longitude: 7.1471355
-postcode: 66564
+postcode: "66564"
 city: Ottweiler
 street: "Maria-Juchacz-Ring"
 housenumber: 2

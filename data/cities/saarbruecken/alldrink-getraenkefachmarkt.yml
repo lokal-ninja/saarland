@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.222018600000006
 longitude: 7.0120199
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Koßmannstraße"
 housenumber: 35

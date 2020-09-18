@@ -1,6 +1,6 @@
 ---
 title: Quierschied
 url: /quierschied/
-latitude: 49.3258972
-longitude: 7.051464
+latitude: 49.326016300000006
+longitude: 7.052847000000001
 ---

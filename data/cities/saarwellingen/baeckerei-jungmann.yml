@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.335035100000006
 longitude: 6.8620839
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "Dorfstraße"
 housenumber: 6

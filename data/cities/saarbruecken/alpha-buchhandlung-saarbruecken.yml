@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.233322400000006
 longitude: 6.989153900000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Stengelstraße"
 housenumber: 5

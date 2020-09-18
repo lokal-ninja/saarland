@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1192416
 longitude: 7.0615082000000005
-postcode: 66271
+postcode: "66271"
 city: Kleinblittersdorf
 street: "Konrad-Adenauer-Straße"
 housenumber: 6

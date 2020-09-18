@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 49.237135900000006
 longitude: 6.992361600000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 78

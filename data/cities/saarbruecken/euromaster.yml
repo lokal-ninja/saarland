@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.205449300000005
 longitude: 7.0210476
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Neumühler Weg"
 housenumber: 83

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.5185369
 longitude: 6.375764200000001
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Erlenweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.219622900000005
 longitude: 7.1595827000000005
-postcode: 66399
+postcode: "66399"
 city: Mandelbachtal
 street: "Oberwürzbacher Straße"
 housenumber: 7

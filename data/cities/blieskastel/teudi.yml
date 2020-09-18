@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.246745100000005
 longitude: 7.260517200000001
-postcode: 66440
+postcode: "66440"
 city: Blieskastel
 street: "Florianstraße"
 housenumber: 24

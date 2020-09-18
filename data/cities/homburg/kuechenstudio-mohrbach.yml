@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.324032
 longitude: 7.3387599
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Kaiserstraße"
 housenumber: 9

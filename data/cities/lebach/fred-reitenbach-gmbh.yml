@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4125943
 longitude: 6.8893846000000005
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Hans-Schardt-Straße"
 housenumber: 2

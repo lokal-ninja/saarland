@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 49.2296479
 longitude: 7.011301700000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 120
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su, PH off"
+opening_hours: "Mo-Sa 07:30-20:00; PH, Su off"
 website: "https://www.penny.de"

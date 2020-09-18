@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.255740100000004
 longitude: 6.856984400000001
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Kühlweinstraße"
 housenumber: 21

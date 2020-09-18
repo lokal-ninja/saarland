@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 49.58381180000001
 longitude: 6.8888702
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Weidenweg"
-housenumber: 10
+housenumber: 8
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.251378
 longitude: 6.977615
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Am Torhaus"
 housenumber: 36

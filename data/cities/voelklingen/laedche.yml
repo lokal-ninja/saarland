@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.270498700000005
 longitude: 6.8346859
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Mettlacher Straße"
 housenumber: 21

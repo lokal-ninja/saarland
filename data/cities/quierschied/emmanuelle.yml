@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.344995600000004
 longitude: 7.0366549
-postcode: 66287
+postcode: "66287"
 city: Quierschied
 street: "Am Wackenberg"
 housenumber: 1

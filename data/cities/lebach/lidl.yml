@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4108126
 longitude: 6.898668600000001
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Auf dem Graben"
 housenumber: 12

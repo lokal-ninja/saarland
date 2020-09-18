@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.267105900000004
 longitude: 6.7993718
-postcode: 66787
+postcode: "66787"
 city: Wadgassen
 street: "Lindenstraße"
 housenumber: 88

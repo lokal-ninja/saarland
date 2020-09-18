@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 49.2333421
 longitude: 6.9958998
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 6

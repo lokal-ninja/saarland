@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.334896400000005
 longitude: 6.9297605
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Am Bahnhof"
 housenumber: 1

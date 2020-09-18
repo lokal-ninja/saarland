@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.249968900000006
 longitude: 7.0064083
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Dudweiler Landstraße"
 housenumber: 141

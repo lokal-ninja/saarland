@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3183237
 longitude: 7.336740600000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Mannlichstraße"
 housenumber: 12

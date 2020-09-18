@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4459875
 longitude: 6.852352700000001
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Trierer Straße"
 housenumber: 50

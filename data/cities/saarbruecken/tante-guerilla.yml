@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2346365
 longitude: 6.988714300000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 27

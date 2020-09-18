@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2461944
 longitude: 6.7085733
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Langwies"
 housenumber: 101

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.2545225
 longitude: 7.0404926
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Campus"
 housenumber: A4 4

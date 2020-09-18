@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3076664
 longitude: 6.755249600000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Provinzialstraße"
 housenumber: 4

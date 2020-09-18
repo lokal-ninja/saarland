@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.237427600000004
 longitude: 6.9896425
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Hafenstraße"
 housenumber: 6

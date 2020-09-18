@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 49.442375600000005
 longitude: 6.8547276
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Saarbrücker Straße"
 housenumber: 8a

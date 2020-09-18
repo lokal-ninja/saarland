@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4073907
 longitude: 6.911588200000001
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Pickardstraße"
 housenumber: 35

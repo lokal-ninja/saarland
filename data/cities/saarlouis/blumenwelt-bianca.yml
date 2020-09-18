@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.2900277
 longitude: 6.759980400000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Provinzialstraße"
 housenumber: 185

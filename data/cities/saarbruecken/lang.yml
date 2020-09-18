@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.221249400000005
 longitude: 7.067478
-postcode: 66132
+postcode: "66132"
 city: Saarbrücken
 street: "Kreuzstraße"
 housenumber: 16

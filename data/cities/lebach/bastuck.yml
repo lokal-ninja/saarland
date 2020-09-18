@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.411714800000006
 longitude: 6.8930514
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "In Bommersfeld"
 housenumber: 11

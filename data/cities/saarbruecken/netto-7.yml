@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2334521
 longitude: 6.9668527000000005
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Gersweilerstraße"
 housenumber: 62

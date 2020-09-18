@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.2736073
 longitude: 7.313816900000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Theo-Greiner-Straße"
 housenumber: 1

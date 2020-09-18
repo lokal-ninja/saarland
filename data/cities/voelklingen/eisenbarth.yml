@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.2499784
 longitude: 6.8568053
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Karl-Janssen-Straße"
 housenumber: 17

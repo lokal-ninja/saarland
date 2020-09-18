@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4079811
 longitude: 6.9644785
-postcode: 66571
+postcode: "66571"
 city: Eppelborn
 street: "Juchem-Straße"
 housenumber: 7

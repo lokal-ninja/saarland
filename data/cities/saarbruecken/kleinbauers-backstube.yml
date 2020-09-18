@@ -1,12 +1,12 @@
-id: 127680769
-type: way
+id: 1675862957
+type: node
 shop: Bäckerei
-latitude: 49.2677746
-longitude: 7.0451766000000005
-postcode: 66125
+latitude: 49.2676948
+longitude: 7.045401200000001
+postcode: "66125"
 city: Saarbrücken
 street: "Hermann-Löns-Straße"
 housenumber: 33
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 6897 72360"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"
+website: "https://www.brotmanufaktur-kleinbauer.de/"

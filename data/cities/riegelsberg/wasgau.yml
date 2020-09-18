@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3081716
 longitude: 6.9389636
-postcode: 66292
+postcode: "66292"
 city: Riegelsberg
 street: "Walter-Wagner-Platz"
 housenumber: 2

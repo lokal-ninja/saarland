@@ -1,12 +1,12 @@
-id: 35868811
-type: way
+id: 7382720926
+type: node
 shop: Supermarkt
-latitude: 49.226417000000005
-longitude: 7.035784700000001
-postcode: 66121
+latitude: 49.249801500000004
+longitude: 6.9787856
+postcode: "66113"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 276
+street: "Am Torhaus"
+housenumber: 45
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: "https://www.lidl.de/filialen/saarbruecken/malstatt-am-torhaus-45.html"

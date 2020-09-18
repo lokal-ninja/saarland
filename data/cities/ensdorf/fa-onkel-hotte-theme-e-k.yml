@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.3080529
 longitude: 6.784065200000001
-postcode: 66806
+postcode: "66806"
 city: Ensdorf
 street: "Ahornweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3227325
 longitude: 6.745957700000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Im Rayon"
 housenumber: 1

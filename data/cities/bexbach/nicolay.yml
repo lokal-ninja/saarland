@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 49.346559000000006
 longitude: 7.2742008
-postcode: 66450
+postcode: "66450"
 city: Bexbach
 street: "Kleinottweilerstraße"
 housenumber: 88

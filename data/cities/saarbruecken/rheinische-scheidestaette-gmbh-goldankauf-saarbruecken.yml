@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.237420500000006
 longitude: 6.9904972
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Viktoriastraße"
 housenumber: 6

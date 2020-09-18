@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.349674
 longitude: 7.2674145
-postcode: 66450
+postcode: "66450"
 city: Bexbach
 street: "Hochstraße"
 housenumber: 8

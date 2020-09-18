@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.2322597
 longitude: 6.9980919
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Obertorstraße"
 housenumber: 4-6

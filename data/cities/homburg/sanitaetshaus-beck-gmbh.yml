@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.3202926
 longitude: 7.3365077
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Talstraße"
 housenumber: 53

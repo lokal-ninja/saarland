@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.3982912
 longitude: 6.709898600000001
-postcode: 66701
+postcode: "66701"
 city: Beckingen
 street: "Talstraße"
 housenumber: 246

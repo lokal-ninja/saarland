@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.234534800000006
 longitude: 6.9949073
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 32

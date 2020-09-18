@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5000019
 longitude: 6.944907700000001
-postcode: 66636
+postcode: "66636"
 city: Tholey
 street: "Limbacher Straße"
 housenumber: 12

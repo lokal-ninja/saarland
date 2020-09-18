@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.2408416
 longitude: 6.9903154
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Am Hauptbahnhof"
 housenumber: 12

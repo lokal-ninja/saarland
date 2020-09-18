@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.318809200000004
 longitude: 7.1470292
-postcode: 66583
+postcode: "66583"
 city: Spiesen-Elversberg
 street: "Neunkircher Straße"
 housenumber: 112

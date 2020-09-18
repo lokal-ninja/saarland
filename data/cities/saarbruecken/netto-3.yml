@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2251484
 longitude: 6.978236300000001
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Lerchesflurweg"
 housenumber: 16

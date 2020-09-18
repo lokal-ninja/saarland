@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.2073711
 longitude: 6.8428886
-postcode: 66352
+postcode: "66352"
 city: Großrosseln
 street: "Bahnhofstraße"
 housenumber: 9

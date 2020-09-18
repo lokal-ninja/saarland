@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.2356428
 longitude: 6.9956551000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 13

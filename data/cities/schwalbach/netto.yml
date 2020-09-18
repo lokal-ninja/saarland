@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.301961600000006
 longitude: 6.8005243
-postcode: 66773
+postcode: "66773"
 city: Schwalbach
 street: "Zur Langelänge"
 housenumber: 16

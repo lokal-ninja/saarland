@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.563634
 longitude: 7.0904262000000005
-postcode: 66625
+postcode: "66625"
 city: Nohfelden
 street: "Nahetalstraße"
 housenumber: 60a

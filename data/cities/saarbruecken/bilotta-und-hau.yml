@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.23731110000001
 longitude: 6.960747700000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Käthe-Kollwitz-Straße"
 housenumber: 15

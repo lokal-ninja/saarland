@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.243913000000006
 longitude: 7.260175200000001
-postcode: 66440
+postcode: "66440"
 city: Blieskastel
 street: "Florianstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.438980900000004
 longitude: 6.8686264
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Franz-Birringer-Straße"
 housenumber: 2

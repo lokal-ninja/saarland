@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.4684442
 longitude: 7.168800600000001
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Grabenstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.249423900000004
 longitude: 6.9539562
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Rheinstraße"
 housenumber: 126

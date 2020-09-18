@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.2074902
 longitude: 7.0515844
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Saarbrücker Straße"
 housenumber: 200

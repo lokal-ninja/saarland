@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.2072942
 longitude: 6.8389489
-postcode: 66352
+postcode: "66352"
 city: Großrosseln
 street: "Ludweilerstraße"
 housenumber: 18

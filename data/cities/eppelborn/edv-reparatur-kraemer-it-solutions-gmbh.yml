@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.404326700000006
 longitude: 6.966329300000001
-postcode: 66571
+postcode: "66571"
 city: Eppelborn
 street: "Koßmannstraße"
 housenumber: 7

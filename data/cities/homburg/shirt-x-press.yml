@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.3204805
 longitude: 7.3394449
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
 housenumber: 19

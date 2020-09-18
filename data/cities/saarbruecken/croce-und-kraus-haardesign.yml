@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2331379
 longitude: 6.996518200000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kappenstraße"
 housenumber: 10

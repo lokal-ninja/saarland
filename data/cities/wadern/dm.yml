@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.5365685
 longitude: 6.8921777
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Poststraße"
 housenumber: 36

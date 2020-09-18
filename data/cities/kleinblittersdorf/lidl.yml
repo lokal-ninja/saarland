@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1528841
 longitude: 7.0383708
-postcode: 66271
+postcode: "66271"
 city: Kleinblittersdorf
 street: "Elsässer Straße"
 housenumber: 76

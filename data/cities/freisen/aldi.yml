@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.550685800000004
 longitude: 7.2404795
-postcode: 66629
+postcode: "66629"
 city: Freisen
 street: "Bahnhofstraße"
 housenumber: 41

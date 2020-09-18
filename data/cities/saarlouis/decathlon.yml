@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.2935844
 longitude: 6.761259000000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Im Hader"
 housenumber: 3

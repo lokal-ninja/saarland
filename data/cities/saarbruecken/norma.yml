@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.247333000000005
 longitude: 6.990180400000001
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Jägersfreuder Straße"
 housenumber: 62

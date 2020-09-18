@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.2303608
 longitude: 7.0178232000000005
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Halbergstraße"
 housenumber: 59

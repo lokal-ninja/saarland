@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.317880900000006
 longitude: 7.3216986
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
 housenumber: 124

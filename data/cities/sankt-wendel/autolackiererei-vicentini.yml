@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.435685500000005
 longitude: 7.125352800000001
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Dr.-Franz-Schmitt-Straße"
 housenumber: 15

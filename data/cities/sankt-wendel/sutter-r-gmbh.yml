@@ -3,7 +3,7 @@ type: way
 shop: Jagd
 latitude: 49.489100300000004
 longitude: 7.2648114
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Am Diesenborn"
 housenumber: 2

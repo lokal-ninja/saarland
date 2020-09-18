@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.2428656
 longitude: 6.99091
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Europaallee"
 housenumber: 22

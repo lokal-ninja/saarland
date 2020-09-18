@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.510896200000005
 longitude: 6.754527400000001
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Haagstraße"
 housenumber: 60a

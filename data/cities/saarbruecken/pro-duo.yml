@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2375514
 longitude: 6.990607300000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Viktoriastraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.253486
 longitude: 6.816973000000001
-postcode: 66787
+postcode: "66787"
 city: Wadgassen
 street: "Provinzialstraße"
 housenumber: 138

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.213912500000006
 longitude: 7.002082100000001
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Im Almet"
 housenumber: 2

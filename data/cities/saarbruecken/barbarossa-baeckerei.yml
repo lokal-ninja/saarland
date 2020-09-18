@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2409983
 longitude: 6.9462779
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Bergstraße"
 housenumber: 1

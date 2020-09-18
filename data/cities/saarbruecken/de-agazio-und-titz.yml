@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 49.247337300000005
 longitude: 7.005771200000001
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Dudweiler Landstraße"
 housenumber: 95
 phone: "+49 681 32852"
-opening_hours: "Mo-Fr 08:00-12:30, 13:00-17:00"
+opening_hours: "Mo-Fr 08:00-12:30,13:00-17:00; PH,Sa-Su closed"
 website: "http://www.deagazio-titz.de/"

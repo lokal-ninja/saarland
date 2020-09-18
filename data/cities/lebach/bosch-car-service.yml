@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.411110900000004
 longitude: 6.896140600000001
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Auf dem Graben"
 housenumber: 9

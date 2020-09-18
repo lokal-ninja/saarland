@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.204144400000004
 longitude: 7.021673900000001
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Neumühler Weg"
 housenumber: 75

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.2651264
 longitude: 6.8051313
-postcode: 66787
+postcode: "66787"
 city: Wadgassen
 street: "Provinzialstraße"
 housenumber: 14

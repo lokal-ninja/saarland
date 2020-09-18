@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.375082000000006
 longitude: 7.049703500000001
-postcode: 66557
+postcode: "66557"
 city: Illingen
 street: "Poststraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4755465
 longitude: 6.3847452
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Trierer Straße"
 housenumber: 47

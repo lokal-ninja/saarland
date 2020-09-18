@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.433212000000005
 longitude: 6.8458043
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Hoher Staden"
 housenumber: 5

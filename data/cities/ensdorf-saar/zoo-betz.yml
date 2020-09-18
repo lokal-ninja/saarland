@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.3055576
 longitude: 6.7774209
-postcode: 66806
+postcode: "66806"
 city: Ensdorf/Saar
 street: "Saarstraße"
 housenumber: 36

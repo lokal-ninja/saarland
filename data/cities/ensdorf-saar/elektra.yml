@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.292413
 longitude: 6.7779955
-postcode: 66806
+postcode: "66806"
 city: Ensdorf/Saar
 street: "Unten am Mühlenweg"
 housenumber: 6

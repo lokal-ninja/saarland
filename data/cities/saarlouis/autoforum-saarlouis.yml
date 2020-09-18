@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3249748
 longitude: 6.754230400000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Bahnhofstraße"
 housenumber: 31

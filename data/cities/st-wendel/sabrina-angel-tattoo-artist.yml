@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.467649300000005
 longitude: 7.166094
-postcode: 66606
+postcode: "66606"
 city: St. Wendel
 street: "Mommstraße"
 housenumber: 7

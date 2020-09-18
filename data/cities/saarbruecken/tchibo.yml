@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 49.2357292
 longitude: 6.993604
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 50

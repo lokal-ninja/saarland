@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.2462121
 longitude: 6.6976119
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Hauptstraße"
 housenumber: 36

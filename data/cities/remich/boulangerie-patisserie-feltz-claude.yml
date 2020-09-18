@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.542755500000005
 longitude: 6.3663635
-postcode: 5553
+postcode: "5553"
 city: Remich
 street: "Quai de la Moselle"
 housenumber: 46

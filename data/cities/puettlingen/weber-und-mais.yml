@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.2887404
 longitude: 6.884729800000001
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Marktplatz"
 housenumber: 30

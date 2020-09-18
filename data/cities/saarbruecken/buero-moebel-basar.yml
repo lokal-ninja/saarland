@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2249933
 longitude: 7.013651100000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Bismarckstraße"
 housenumber: 132

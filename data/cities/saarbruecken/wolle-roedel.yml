@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 49.237534800000006
 longitude: 6.9909539
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Viktoriastraße"
 housenumber: 11a

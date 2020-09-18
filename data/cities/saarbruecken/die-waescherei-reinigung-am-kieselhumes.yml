@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.2305885
 longitude: 7.020245200000001
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Am Kieselhumes"
 housenumber: 3a

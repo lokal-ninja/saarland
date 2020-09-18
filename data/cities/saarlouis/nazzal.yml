@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3178071
 longitude: 6.7316076
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Fasanenallee"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.4402168
 longitude: 6.872032000000001
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Am Erzweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4725789
 longitude: 7.1016322
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Winterbacher Straße"
 housenumber: 29a

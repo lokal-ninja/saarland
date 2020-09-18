@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2360497
 longitude: 6.9978106
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Cecilienstraße"
 housenumber: 6

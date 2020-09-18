@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.239894
 longitude: 6.9533975
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Heinrich-Barth-Straße"
 housenumber: 13

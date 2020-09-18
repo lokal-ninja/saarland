@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.2884596
 longitude: 6.7323285
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "St.Avolder Straße"
 housenumber: 34

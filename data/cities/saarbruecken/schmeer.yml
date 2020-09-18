@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.2387456
 longitude: 6.9674534
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Im Rotfeld"
 housenumber: 16

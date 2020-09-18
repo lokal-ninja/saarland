@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.228541400000005
 longitude: 7.035765700000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Breslauer Straße"
 housenumber: 1a
-phone: "+49 681 98845-0"
+phone: ""
 opening_hours: "Mo-Fr 09:30-20:00, Sa 09:00-20:00"
-website: "https://www.adlermode.com"
+website: ""

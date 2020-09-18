@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.3162743
 longitude: 7.2725394
-postcode: 66459
+postcode: "66459"
 city: Kirkel
 street: "Hauptstraße"
 housenumber: 60

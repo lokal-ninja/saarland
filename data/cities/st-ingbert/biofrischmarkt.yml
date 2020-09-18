@@ -1,12 +1,12 @@
-id: 292443250
-type: way
+id: 7470632328
+type: node
 shop: Supermarkt
-latitude: 49.280773800000006
-longitude: 7.1155384
-postcode: 66386
+latitude: 49.280786500000005
+longitude: 7.1156873
+postcode: "66386"
 city: St. Ingbert
 street: "Kohlenstraße"
-housenumber: 15b
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 15B
+phone: "+49 6894 9298653"
+opening_hours: "Mo-Fr  09:00-18:30; Sa 09:00-14:00; Su,PH off"
+website: "https://www.bfml.de/wo-sind-wir/"

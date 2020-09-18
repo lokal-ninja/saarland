@@ -3,7 +3,7 @@ type: way
 shop: E-Zigaretten
 latitude: 49.2323157
 longitude: 6.9963443000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kronenstraße"
 housenumber: 2

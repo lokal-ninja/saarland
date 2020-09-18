@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.2354725
 longitude: 6.9896133
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 64

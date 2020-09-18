@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3069228
 longitude: 6.774165
-postcode: 66806
+postcode: "66806"
 city: Ensdorf/Saar
 street: "Saarlouiser Straße"
 housenumber: 11

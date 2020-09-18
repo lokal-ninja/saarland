@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2800279
 longitude: 6.7862916
-postcode: 66359
+postcode: "66359"
 city: Bous
 street: "Kantstraße"
 housenumber: 8

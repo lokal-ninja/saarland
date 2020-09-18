@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.391550300000006
 longitude: 6.819675200000001
-postcode: 66809
+postcode: "66809"
 city: Nalbach
 street: "Hauptstraße"
 housenumber: 199

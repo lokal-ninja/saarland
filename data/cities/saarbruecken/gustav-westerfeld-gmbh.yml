@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.2277226
 longitude: 7.0197275
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 150

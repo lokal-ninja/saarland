@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 49.2790983
 longitude: 7.098843400000001
-postcode: 66386
+postcode: "66386"
 city: St. Ingbert
 street: "Schlackenbergstraße"
 housenumber: 41

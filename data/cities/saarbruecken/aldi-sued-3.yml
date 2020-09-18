@@ -1,12 +1,12 @@
-id: 400730416
-type: way
+id: 7080307747
+type: node
 shop: Supermarkt
-latitude: 49.218627100000006
-longitude: 6.9680061
-postcode: 66117
+latitude: 49.234012400000005
+longitude: 6.994828500000001
+postcode: "66111"
 city: Saarbrücken
-street: "Hirtenwies"
-housenumber: 4
+street: "Bahnhofstraße"
+housenumber: 15
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Bahnhofstr.%2015%2066111%20Saarbr%C3%BCcken&Mode=None"

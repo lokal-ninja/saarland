@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.2358844
 longitude: 7.0010864
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Nauwieserstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.2353717
 longitude: 6.9929375
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Berliner Promenade"
 housenumber: 15

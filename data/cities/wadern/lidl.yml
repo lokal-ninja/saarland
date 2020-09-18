@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.535128400000005
 longitude: 6.895284500000001
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Bahnhofstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2304115
 longitude: 7.0199958
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Am Kieselhumes"
 housenumber: 1

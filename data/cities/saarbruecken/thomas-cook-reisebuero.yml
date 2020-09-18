@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.2326612
 longitude: 6.9966935
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "St. Johanner Markt"
 housenumber: 22

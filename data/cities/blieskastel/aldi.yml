@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.236785100000006
 longitude: 7.2673635
-postcode: 66440
+postcode: "66440"
 city: Blieskastel
 street: "Bliestalstraße"
 housenumber: 114

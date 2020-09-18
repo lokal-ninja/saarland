@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.2322701
 longitude: 6.997982400000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Obertorstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH 08:00-12:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH,Su 08:00-12:00"
 website: ""

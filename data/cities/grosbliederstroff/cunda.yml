@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.135478000000006
 longitude: 7.042343300000001
-postcode: 57520
+postcode: "57520"
 city: Grosbliederstroff
 street: "Avenue Marchande"
 housenumber: 10

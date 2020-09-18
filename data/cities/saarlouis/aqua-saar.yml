@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.3185385
 longitude: 6.746577200000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Holtzendorffer Straße"
 housenumber: 6

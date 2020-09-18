@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.2362939
 longitude: 7.001175600000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Nauwieserstraße"
 housenumber: 52

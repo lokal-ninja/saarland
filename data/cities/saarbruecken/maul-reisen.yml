@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.233858600000005
 longitude: 6.988730800000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Stengelstraße"
 housenumber: 8

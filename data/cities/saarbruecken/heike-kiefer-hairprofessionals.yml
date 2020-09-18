@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.234378
 longitude: 6.9880256
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Hohenzollernstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.2943945
 longitude: 6.756938300000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Im Hader"
 housenumber: 4

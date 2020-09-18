@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4894169
 longitude: 6.8384188
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Weiskircher Straße"
 housenumber: 10a

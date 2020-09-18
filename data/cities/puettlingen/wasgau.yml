@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.281593300000004
 longitude: 6.8978524000000006
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Eisenbahnstraße"
 housenumber: 19

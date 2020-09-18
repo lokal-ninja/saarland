@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.3082414
 longitude: 6.939859
-postcode: 66292
+postcode: "66292"
 city: Riegelsberg
 street: "Walter-Wagner-Platz"
 housenumber: 3

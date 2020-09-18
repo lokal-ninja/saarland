@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.371937
 longitude: 6.687329900000001
-postcode: 66780
+postcode: "66780"
 city: Rehlingen-Siersburg
 street: "Im Dürrfeldslach"
 housenumber: 8

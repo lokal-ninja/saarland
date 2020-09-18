@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.445174200000004
 longitude: 6.6593638
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Kettelerstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.4121327
 longitude: 6.8947396
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Heeresstraße"
 housenumber: 30

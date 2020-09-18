@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2320086
 longitude: 6.9968211
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kronenstraße"
 housenumber: 10

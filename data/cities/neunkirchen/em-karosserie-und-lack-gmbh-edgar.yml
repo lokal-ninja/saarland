@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.352247000000006
 longitude: 7.2254529000000005
-postcode: 66539
+postcode: "66539"
 city: Neunkirchen
 street: "Rombachstraße"
 housenumber: 39

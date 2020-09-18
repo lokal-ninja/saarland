@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2376039
 longitude: 6.997408900000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 49A

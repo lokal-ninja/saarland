@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4928011
 longitude: 6.6064743
-postcode: 66693
+postcode: "66693"
 city: Mettlach
 street: "Britter Straße"
 housenumber: 20G

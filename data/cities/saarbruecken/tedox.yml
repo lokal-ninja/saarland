@@ -3,10 +3,10 @@ type: node
 shop: Baumarkt
 latitude: 49.241159200000006
 longitude: 6.9990527
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Ursulinenstraße"
 housenumber: 71
-phone: "+49 681 379972-0"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+phone: "+49 681 3799720"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH,Su closed"
 website: "https://www.tedox.de/index.php?id=25&no_cache=1&tx_tedoxfilialen_pi1[uid]=69"

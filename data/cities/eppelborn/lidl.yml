@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4069737
 longitude: 6.953564500000001
-postcode: 66571
+postcode: "66571"
 city: Eppelborn
 street: "Rathausstraße"
 housenumber: 115

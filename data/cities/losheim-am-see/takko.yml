@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.507151300000004
 longitude: 6.7517830000000005
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Haagstraße"
 housenumber: 14a

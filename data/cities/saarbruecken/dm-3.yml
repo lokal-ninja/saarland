@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2189698
 longitude: 6.966885
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Hirtenwies"
 housenumber: 3

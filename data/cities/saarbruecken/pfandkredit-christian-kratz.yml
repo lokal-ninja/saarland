@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 49.2363652
 longitude: 6.9965346
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Cecilienstraße"
 housenumber: 1

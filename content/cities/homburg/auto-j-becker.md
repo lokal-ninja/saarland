@@ -1,4 +1,4 @@
 ---
-title: "Auto J.Becker"
+title: "Auto J. Becker"
 url: /homburg/auto-j-becker/
 ---

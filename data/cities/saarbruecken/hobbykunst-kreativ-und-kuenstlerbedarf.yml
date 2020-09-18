@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.2372178
 longitude: 6.995527
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Lortzingstraße"
 housenumber: 16

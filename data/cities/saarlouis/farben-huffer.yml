@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3249603
 longitude: 6.7601383
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Bahnhofstraße"
 housenumber: 5

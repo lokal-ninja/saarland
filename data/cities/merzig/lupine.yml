@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.44297
 longitude: 6.6378349000000005
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Friedrichstraße"
 housenumber: 1

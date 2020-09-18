@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 49.2382409
 longitude: 6.9905625
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 107

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3576254
 longitude: 6.978292000000001
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Mangelhauser Straße"
 housenumber: 14

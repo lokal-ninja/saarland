@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.2337664
 longitude: 6.9945865000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 15

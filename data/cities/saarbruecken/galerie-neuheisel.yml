@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.2356636
 longitude: 6.9973345
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Johannisstraße"
 housenumber: 3a

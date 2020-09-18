@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.370691
 longitude: 7.1872609
-postcode: 66540
+postcode: "66540"
 city: Neunkirchen
 street: "Kuchenbergstraße"
 housenumber: 11

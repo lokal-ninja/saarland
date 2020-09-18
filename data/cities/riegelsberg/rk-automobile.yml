@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3133933
 longitude: 6.939206100000001
-postcode: 66292
+postcode: "66292"
 city: Riegelsberg
 street: "Saarbrücker Straße"
 housenumber: 127c

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.270837400000005
 longitude: 6.7925022
-postcode: 66787
+postcode: "66787"
 city: Wadgassen
 street: "Saarstraße"
 housenumber: 20

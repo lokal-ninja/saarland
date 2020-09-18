@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.3558084
 longitude: 7.063625300000001
-postcode: 66589
+postcode: "66589"
 city: Merchweiler
 street: "Allenfeldstraße"
 housenumber: 67A

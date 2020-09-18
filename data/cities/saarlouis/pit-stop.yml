@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3035526
 longitude: 6.7386942
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Metzer Straße"
 housenumber: 65

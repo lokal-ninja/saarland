@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.2885506
 longitude: 6.883741400000001
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Am Marktplatz"
 housenumber: 4

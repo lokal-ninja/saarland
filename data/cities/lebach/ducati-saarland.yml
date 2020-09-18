@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.4492355
 longitude: 6.9685139000000005
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Schaumbergstraße"
 housenumber: 176

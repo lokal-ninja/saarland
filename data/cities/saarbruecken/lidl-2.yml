@@ -1,12 +1,12 @@
-id: 70175697
-type: way
+id: 7382856651
+type: node
 shop: Supermarkt
-latitude: 49.232828500000004
-longitude: 7.006579500000001
-postcode: 66121
+latitude: 49.2328491
+longitude: 7.0070695
+postcode: "66121"
 city: Saarbrücken
 street: "Halbergstraße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
+website: "https://www.lidl.de/filialen/saarbruecken/st-johann-halbergstr-3.html"

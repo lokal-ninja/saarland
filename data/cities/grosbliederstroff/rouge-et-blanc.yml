@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.158434500000006
 longitude: 7.0270609
-postcode: 57520
+postcode: "57520"
 city: Grosbliederstroff
 street: "Rue de la Liberté"
 housenumber: 37

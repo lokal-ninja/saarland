@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.439959800000004
 longitude: 6.8697194
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Am Erzweg"
 housenumber: 5

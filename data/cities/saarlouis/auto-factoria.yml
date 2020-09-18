@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.322062
 longitude: 6.745129400000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "St.Nazairer Allee"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 49.2184594
 longitude: 7.0139626
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Saargemünder Straße"
 housenumber: 129

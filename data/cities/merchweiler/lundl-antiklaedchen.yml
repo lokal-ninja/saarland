@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 49.3709597
 longitude: 7.090059900000001
-postcode: 66589
+postcode: "66589"
 city: Merchweiler
 street: "Ludwigstraße"
 housenumber: 22

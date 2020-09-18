@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5469773
 longitude: 6.831462800000001
-postcode: 66709
+postcode: "66709"
 city: Weiskirchen
 street: "Im Gewerbegebiet"
 housenumber: 22

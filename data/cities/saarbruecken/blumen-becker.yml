@@ -1,12 +1,12 @@
-id: 396750749
-type: way
+id: 7431797073
+type: node
 shop: Blumen
-latitude: 49.2320957
-longitude: 6.9751453
-postcode: 66117
+latitude: 49.2321198
+longitude: 6.9752254
+postcode: "66117"
 city: Saarbrücken
 street: "Gersweilerstraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; We,Sa 09:00-14:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.569711500000004
 longitude: 7.049686
-postcode: 66625
+postcode: "66625"
 city: Nohfelden
 street: "Eiweilerstraße"
 housenumber: 26

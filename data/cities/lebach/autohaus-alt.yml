@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.411678300000005
 longitude: 6.8935544
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Heeresstraße"
 housenumber: 21

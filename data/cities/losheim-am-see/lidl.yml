@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.506904500000005
 longitude: 6.751632900000001
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Haagstraße"
 housenumber: 14a

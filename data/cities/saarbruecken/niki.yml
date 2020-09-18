@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.2485445
 longitude: 7.0061420000000005
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Dudweiler Landstraße"
 housenumber: 113

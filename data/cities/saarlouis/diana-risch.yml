@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.3183718
 longitude: 6.753386600000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Ludwig-Karl-Balzer-Allee"
 housenumber: 18

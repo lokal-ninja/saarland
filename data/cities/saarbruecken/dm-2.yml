@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2457318
 longitude: 6.969087200000001
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Lebacher Straße"
 housenumber: 80

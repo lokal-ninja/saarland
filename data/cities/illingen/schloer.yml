@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3746031
 longitude: 7.0556535
-postcode: 66557
+postcode: "66557"
 city: Illingen
 street: "Gennweilerstraße"
 housenumber: 17

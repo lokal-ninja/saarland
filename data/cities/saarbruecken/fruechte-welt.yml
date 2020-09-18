@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.2273245
 longitude: 7.035560200000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Breslauer Straße"
 housenumber: 1a

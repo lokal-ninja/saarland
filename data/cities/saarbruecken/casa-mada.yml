@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.230536
 longitude: 7.0040437
-postcode: 
+postcode: ""
 city: Saarbrücken
 street: "Mainzer Straße"
 housenumber: 52

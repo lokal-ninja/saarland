@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4234729
 longitude: 6.8444726000000005
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Berliner Straße"
 housenumber: 9

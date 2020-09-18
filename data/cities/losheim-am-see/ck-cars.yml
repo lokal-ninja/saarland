@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.512501400000005
 longitude: 6.738236700000001
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Trierer Straße"
 housenumber: 48a

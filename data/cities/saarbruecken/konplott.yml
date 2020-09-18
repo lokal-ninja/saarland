@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.2323589
 longitude: 6.9961023
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "St. Johanner Markt"
 housenumber: 27-29

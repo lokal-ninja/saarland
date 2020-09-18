@@ -1,12 +1,12 @@
-id: 5264394630
-type: node
+id: 290143673
+type: way
 shop: Drogerie
-latitude: 49.321037200000006
-longitude: 6.774994400000001
-postcode: 66740
+latitude: 49.320980500000005
+longitude: 6.7752856
+postcode: "66740"
 city: Saarlouis
 street: "Saarbrücker Straße"
 housenumber: 83
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
-website: ""
+website: "https://www.rossmann.de/de/filialen/saarland/saarlouis/saarbruecker-strasse-93-f.html"

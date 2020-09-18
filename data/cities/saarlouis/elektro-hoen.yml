@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 49.2882778
 longitude: 6.732186400000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "St.Avolder Straße"
 housenumber: 38

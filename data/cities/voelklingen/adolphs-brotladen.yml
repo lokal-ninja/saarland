@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2473268
 longitude: 6.8240331
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Schaffhauser Straße"
 housenumber: 146

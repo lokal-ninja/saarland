@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.4425779
 longitude: 6.6413910000000005
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Hochwaldstraße"
 housenumber: 62

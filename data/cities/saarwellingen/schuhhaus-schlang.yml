@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.3617852
 longitude: 6.8812328
-postcode: 66793
+postcode: "66793"
 city: Saarwellingen
 street: "Kirchenstraße"
 housenumber: 93

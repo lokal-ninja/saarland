@@ -1,12 +1,12 @@
 id: 5087463371
 type: node
 shop: Kosmetik
-latitude: 49.233856200000005
-longitude: 6.9872677
-postcode: 66117
+latitude: 49.233863500000005
+longitude: 6.987223800000001
+postcode: "66117"
 city: Saarbrücken
 street: "Stengelstraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 14:00-19:00; Tu 10:00-17:00; We-Fr 10:00-13:00, 15:00-17:00; Sa 10:00-14:00, 15:00-19:00; PH, Su off"
 website: ""

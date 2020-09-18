@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3189586
 longitude: 7.332179300000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
 housenumber: 80

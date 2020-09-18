@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2257624
 longitude: 6.9759283000000005
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Zeppelinstraße"
 housenumber: 2

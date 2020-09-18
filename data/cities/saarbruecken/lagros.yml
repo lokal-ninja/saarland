@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.1912846
 longitude: 7.0934258
-postcode: 66130
+postcode: "66130"
 city: Saarbrücken
 street: "Hauptstraße"
 housenumber: 73

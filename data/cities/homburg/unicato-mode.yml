@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3218423
 longitude: 7.338561400000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Talstraße"
 housenumber: 34

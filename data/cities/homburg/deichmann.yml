@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.3207686
 longitude: 7.3373518
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Gerberstraße"
 housenumber: 13

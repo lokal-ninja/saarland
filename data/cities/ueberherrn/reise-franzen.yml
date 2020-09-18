@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.242578900000005
 longitude: 6.6980193
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Alleestraße"
 housenumber: 11

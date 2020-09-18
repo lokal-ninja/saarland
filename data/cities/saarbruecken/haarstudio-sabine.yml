@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.217246
 longitude: 7.009982000000001
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Julius-Kiefer-Straße"
 housenumber: 78

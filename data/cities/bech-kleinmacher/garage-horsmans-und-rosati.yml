@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.520935400000006
 longitude: 6.3569202
-postcode: 5405
+postcode: "5405"
 city: Bech-Kleinmacher
 street: "Quai de la Moselle"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5879411
 longitude: 6.8977056
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Sitzerather Straße"
 housenumber: 99

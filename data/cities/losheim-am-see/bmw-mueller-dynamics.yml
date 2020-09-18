@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.507043900000006
 longitude: 6.7619110000000004
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Wolfsborn"
 housenumber: 65

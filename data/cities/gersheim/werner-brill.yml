@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.173920300000006
 longitude: 7.238117600000001
-postcode: 66453
+postcode: "66453"
 city: Gersheim
 street: "Bliestalstraße"
 housenumber: 16

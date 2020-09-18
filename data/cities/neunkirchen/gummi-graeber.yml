@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.350461100000004
 longitude: 7.1772451
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "Goethestraße"
 housenumber: 4

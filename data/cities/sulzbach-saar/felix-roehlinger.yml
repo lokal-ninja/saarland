@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3130954
 longitude: 7.051318200000001
-postcode: 66280
+postcode: "66280"
 city: Sulzbach/Saar
 street: "Am Kreuzgraben"
 housenumber: 16

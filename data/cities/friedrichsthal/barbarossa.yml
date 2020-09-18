@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3329602
 longitude: 7.095025400000001
-postcode: 66299
+postcode: "66299"
 city: Friedrichsthal
 street: "Illinger Straße"
 housenumber: 2a

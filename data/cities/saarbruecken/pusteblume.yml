@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2353934
 longitude: 6.9895521
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 62

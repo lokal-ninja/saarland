@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4126878
 longitude: 6.7546277
-postcode: 66701
+postcode: "66701"
 city: Beckingen
 street: "Hauptstraße"
 housenumber: 113

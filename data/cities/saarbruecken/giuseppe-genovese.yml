@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.233637300000005
 longitude: 6.9998101
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bleichstraße"
 housenumber: 27

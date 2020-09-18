@@ -1,4 +1,4 @@
 ---
-title: "RIVER nordic design"
+title: "River Nordic Design"
 url: /saarbruecken/river-nordic-design/
 ---

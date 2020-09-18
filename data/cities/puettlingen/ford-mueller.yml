@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.281997700000005
 longitude: 6.8995861000000005
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Am Grubenbahnhof"
 housenumber: 1

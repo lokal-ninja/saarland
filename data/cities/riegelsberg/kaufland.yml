@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.322847100000004
 longitude: 6.9383352
-postcode: 66292
+postcode: "66292"
 city: Riegelsberg
 street: "Saarbrücker Straße"
 housenumber: 262

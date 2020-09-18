@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2164883
 longitude: 6.9887132
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Verlängerte Julius-Kiefer-Straße"
 housenumber: 220

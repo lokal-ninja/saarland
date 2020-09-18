@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.2389908
 longitude: 6.964188600000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Angela-Braun-Straße"
 housenumber: 14

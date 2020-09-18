@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.516741
 longitude: 7.2064941000000005
-postcode: 66629
+postcode: "66629"
 city: Freisen
 street: "Lindenbornstraße"
 housenumber: 25

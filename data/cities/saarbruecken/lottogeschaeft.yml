@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.242026700000004
 longitude: 6.949333
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Hochstraße"
 housenumber: 136

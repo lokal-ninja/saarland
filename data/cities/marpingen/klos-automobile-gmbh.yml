@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4228183
 longitude: 7.074845000000001
-postcode: 66646
+postcode: "66646"
 city: Marpingen
 street: "Illinger Straße"
 housenumber: 48

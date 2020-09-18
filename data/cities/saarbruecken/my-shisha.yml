@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.2375181
 longitude: 6.9973540000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 49

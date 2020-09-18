@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.3351862
 longitude: 7.343350900000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "In den Rohrwiesen"
 housenumber: 6

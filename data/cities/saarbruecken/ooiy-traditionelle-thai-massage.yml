@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.234720700000004
 longitude: 6.987366400000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Hohenzollernstraße"
 housenumber: 24

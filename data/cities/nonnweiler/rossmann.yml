@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.603323800000005
 longitude: 6.988535400000001
-postcode: 66620
+postcode: "66620"
 city: Nonnweiler
 street: "Hochwaldstraße"
 housenumber: 25

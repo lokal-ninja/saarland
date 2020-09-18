@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2332747
 longitude: 6.989876400000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Stengelstraße"
 housenumber: 1

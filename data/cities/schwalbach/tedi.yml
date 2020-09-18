@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.302011400000005
 longitude: 6.7991812000000005
-postcode: 66773
+postcode: "66773"
 city: Schwalbach
 street: "Zur Langelänge"
 housenumber: 8

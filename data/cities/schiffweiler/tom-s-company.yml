@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.3570822
 longitude: 7.133629900000001
-postcode: 66578
+postcode: "66578"
 city: Schiffweiler
 street: "Kreisstraße"
 housenumber: 14

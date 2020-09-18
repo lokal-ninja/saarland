@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4562071
 longitude: 6.63102
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Trierer Straße"
 housenumber: 227

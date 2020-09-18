@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.335016
 longitude: 7.3427528
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "In den Rohrwiesen"
 housenumber: 1

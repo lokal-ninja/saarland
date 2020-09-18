@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1577726
 longitude: 7.0279449000000005
-postcode: 57520
+postcode: "57520"
 city: Grosbliederstroff
 street: "Rue de la Liberté"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.239481000000005
 longitude: 6.9723148
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Breite Straße"
 housenumber: 29

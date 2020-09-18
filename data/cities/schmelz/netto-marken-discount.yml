@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4412286
 longitude: 6.8528117
-postcode: 66839
+postcode: "66839"
 city: Schmelz
 street: "Hüttersdorfer Straße"
 housenumber: 15

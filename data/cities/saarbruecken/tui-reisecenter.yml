@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.235247400000006
 longitude: 6.9951867000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 5

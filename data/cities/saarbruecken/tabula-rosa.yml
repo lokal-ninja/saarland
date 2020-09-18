@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.23554600000001
 longitude: 6.9990622
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Försterstraße"
 housenumber: 9

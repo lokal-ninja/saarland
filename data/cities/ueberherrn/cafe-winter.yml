@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.264560100000004
 longitude: 6.6933179
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Ittersdorfer Straße"
 housenumber: 1

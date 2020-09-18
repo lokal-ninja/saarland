@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.2320895
 longitude: 6.996627800000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kronenstraße"
 housenumber: 6

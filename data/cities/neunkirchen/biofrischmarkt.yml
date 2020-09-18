@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3357048
 longitude: 7.172771
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "An der Alten Ziegelei"
 housenumber: 11

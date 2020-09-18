@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.407757600000004
 longitude: 6.9614703
-postcode: 66571
+postcode: "66571"
 city: Eppelborn
 street: "Juchem-Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.480879
 longitude: 6.364567200000001
-postcode: 5439
+postcode: "5439"
 city: Remerschen
 street: "Schengerwis"
 housenumber: 6

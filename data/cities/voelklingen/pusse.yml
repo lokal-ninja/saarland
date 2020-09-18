@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.271914800000005
 longitude: 6.8381115
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Trierer Straße"
 housenumber: 24

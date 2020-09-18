@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.244185300000005
 longitude: 6.946218600000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Gerhardstraße"
 housenumber: 9

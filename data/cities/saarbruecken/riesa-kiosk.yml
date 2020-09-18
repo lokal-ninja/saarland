@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.237719000000006
 longitude: 6.994277100000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kaiserstraße"
 housenumber: 25

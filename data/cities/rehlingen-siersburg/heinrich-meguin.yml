@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3645209
 longitude: 6.6728787
-postcode: 66780
+postcode: "66780"
 city: Rehlingen-Siersburg
 street: "Hauptstraße"
 housenumber: 1a

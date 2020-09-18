@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5191181
 longitude: 6.375961500000001
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "Erlenweg"
 housenumber: 8

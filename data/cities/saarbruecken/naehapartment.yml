@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.235570700000004
 longitude: 6.9993528000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Nauwieserstraße"
 housenumber: 32-34

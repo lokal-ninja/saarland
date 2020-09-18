@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2231849
 longitude: 6.8113479
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Völklinger Straße"
 housenumber: 29-31

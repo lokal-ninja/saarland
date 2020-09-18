@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.221465300000006
 longitude: 6.808154600000001
-postcode: 66333
+postcode: "66333"
 city: Völklingen
 street: "Völklinger Straße"
 housenumber: 71

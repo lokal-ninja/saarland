@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.276069400000004
 longitude: 7.0361403000000005
-postcode: 66125
+postcode: "66125"
 city: Saarbrücken
 street: "Beethovenstraße"
 housenumber: 1

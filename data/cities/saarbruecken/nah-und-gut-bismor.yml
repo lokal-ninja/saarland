@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2237419
 longitude: 6.9854538
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Spichererbergstraße"
 housenumber: 102-104

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2317295
 longitude: 6.985482800000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Vorstadtstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3562463
 longitude: 6.721982100000001
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Jahnstraße"
 housenumber: 19

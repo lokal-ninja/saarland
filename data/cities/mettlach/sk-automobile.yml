@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4987688
 longitude: 6.585171900000001
-postcode: 66693
+postcode: "66693"
 city: Mettlach
 street: "Von-Boch-Liebig-Straße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.19456
 longitude: 7.0243717000000006
-postcode: 66119
+postcode: "66119"
 city: Saarbrücken
 street: "Großblittersdorfer Straße"
 housenumber: 291

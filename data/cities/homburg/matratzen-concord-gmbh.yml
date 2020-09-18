@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.3183342
 longitude: 7.324657
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
 housenumber: 116

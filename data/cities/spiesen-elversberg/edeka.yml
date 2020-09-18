@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.317526900000004
 longitude: 7.1517691
-postcode: 66583
+postcode: "66583"
 city: Spiesen-Elversberg
 street: "Hauptstraße"
 housenumber: 82a

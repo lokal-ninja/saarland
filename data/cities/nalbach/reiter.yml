@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3763998
 longitude: 6.7864462
-postcode: 66809
+postcode: "66809"
 city: Nalbach
 street: "In der Herrenwies"
 housenumber: 1

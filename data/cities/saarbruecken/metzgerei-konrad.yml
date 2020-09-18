@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.2347191
 longitude: 6.9887614000000005
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 29

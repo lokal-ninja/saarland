@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.2379668
 longitude: 6.990839800000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Viktoriastraße"
 housenumber: 18

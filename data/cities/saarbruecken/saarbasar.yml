@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.22696070000001
 longitude: 7.036302500000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
 street: "Breslauer Straße"
 housenumber: 1a

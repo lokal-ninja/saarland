@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.496306100000005
 longitude: 7.2670421
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Am Krähling"
 housenumber: 6

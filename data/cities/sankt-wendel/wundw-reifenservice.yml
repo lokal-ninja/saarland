@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4672381
 longitude: 7.174458700000001
-postcode: 66606
+postcode: "66606"
 city: Sankt Wendel
 street: "Wendalinusstraße"
 housenumber: 41

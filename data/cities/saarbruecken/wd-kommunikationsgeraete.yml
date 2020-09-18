@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.225895900000005
 longitude: 6.975606300000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Zeppelinstraße"
 housenumber: 4

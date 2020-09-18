@@ -3,7 +3,7 @@ type: way
 shop: Taschen & Koffer
 latitude: 49.2372546
 longitude: 6.9918174
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 87

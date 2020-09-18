@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.245957100000005
 longitude: 7.0059475
-postcode: 66123
+postcode: "66123"
 city: Saarbrücken
 street: "Dudweiler Landstraße"
 housenumber: 65

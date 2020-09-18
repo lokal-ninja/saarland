@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.2474246
 longitude: 6.960770500000001
-postcode: 66113
+postcode: "66113"
 city: Saarbrücken
 street: "Rheinstraße"
 housenumber: 86

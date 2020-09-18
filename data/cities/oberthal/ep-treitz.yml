@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.512363500000006
 longitude: 7.087716100000001
-postcode: 66649
+postcode: "66649"
 city: Oberthal
 street: "Imweilerstraße"
 housenumber: 1

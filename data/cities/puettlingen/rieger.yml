@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.28896760000001
 longitude: 6.884995600000001
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Marktplatz"
 housenumber: 36

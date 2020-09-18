@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.2320836
 longitude: 6.9882295
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 8

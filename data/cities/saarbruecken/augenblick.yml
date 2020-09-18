@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.233288200000004
 longitude: 6.9963962
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Kaltenbachstraße"
 housenumber: 11

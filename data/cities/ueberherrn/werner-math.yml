@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2413255
 longitude: 6.6983087
-postcode: 66802
+postcode: "66802"
 city: Überherrn
 street: "Alleestraße"
 housenumber: 35

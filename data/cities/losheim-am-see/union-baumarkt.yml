@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5026358
 longitude: 6.7566492
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Saarbrücker Straße"
 housenumber: 200

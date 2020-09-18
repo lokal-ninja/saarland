@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.235076600000006
 longitude: 6.9893672
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 56

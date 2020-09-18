@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 49.236747300000005
 longitude: 7.001478700000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Rotenbergstraße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00; PH, Su off"
 website: ""

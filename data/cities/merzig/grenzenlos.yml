@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.4414528
 longitude: 6.6375044
-postcode: 66663
+postcode: "66663"
 city: Merzig
 street: "Bahnhofstraße"
 housenumber: 14

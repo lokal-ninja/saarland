@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.339240600000004
 longitude: 7.1723704
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "Am Gneisenauflöz"
 housenumber: 1

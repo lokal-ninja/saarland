@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.406874800000004
 longitude: 6.9116824
-postcode: 66822
+postcode: "66822"
 city: Lebach
 street: "Pickardstraße"
 housenumber: 24

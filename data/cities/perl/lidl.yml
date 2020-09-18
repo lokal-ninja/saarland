@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4743239
 longitude: 6.3737632
-postcode: 66706
+postcode: "66706"
 city: Perl
 street: "In der Dörrwiese"
 housenumber: 2

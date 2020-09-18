@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.236865200000004
 longitude: 6.958903200000001
-postcode: 66115
+postcode: "66115"
 city: Saarbrücken
 street: "Käthe-Kollwitz-Straße"
 housenumber: 16

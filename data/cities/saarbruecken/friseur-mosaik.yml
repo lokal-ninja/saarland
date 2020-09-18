@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2334199
 longitude: 6.9972253
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Katholisch-Kirch-Straße"
 housenumber: 12

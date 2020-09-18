@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.541609900000005
 longitude: 6.9734939
-postcode: 66620
+postcode: "66620"
 city: Nonnweiler
 street: "Mettnicher Straße"
 housenumber: 35

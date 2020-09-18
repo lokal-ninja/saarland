@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.2111874
 longitude: 6.9671057
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Behrener Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.5040216
 longitude: 6.7584979
-postcode: 66679
+postcode: "66679"
 city: Losheim am See
 street: "Saarbrücker Straße"
 housenumber: 205

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.3535528
 longitude: 6.7275834
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Lotteriestraße"
 housenumber: 3

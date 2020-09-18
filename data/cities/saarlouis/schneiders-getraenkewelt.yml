@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.30374380000001
 longitude: 6.738834000000001
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Metzer Straße"
 housenumber: 63

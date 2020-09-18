@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.2340907
 longitude: 6.988415600000001
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
 street: "Eisenbahnstraße"
 housenumber: 21

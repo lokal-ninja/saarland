@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.34567130000001
 longitude: 6.9342075
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Trierer Straße"
 housenumber: 155

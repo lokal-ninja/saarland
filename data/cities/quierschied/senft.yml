@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.332519100000006
 longitude: 7.0568035
-postcode: 66287
+postcode: "66287"
 city: Quierschied
 street: "Glashüttenstraße"
 housenumber: 54b

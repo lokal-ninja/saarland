@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.337366
 longitude: 6.9384281
-postcode: 66265
+postcode: "66265"
 city: Heusweiler
 street: "Illinger Straße"
 housenumber: 58

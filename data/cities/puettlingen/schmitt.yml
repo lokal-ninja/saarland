@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.301419200000005
 longitude: 6.896012900000001
-postcode: 66346
+postcode: "66346"
 city: Püttlingen
 street: "Fresagrandinariastraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.3543297
 longitude: 6.7284983
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
 street: "Stummstraße"
 housenumber: 53

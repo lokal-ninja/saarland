@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3416968
 longitude: 7.173303600000001
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "Westspange"
 housenumber: 2

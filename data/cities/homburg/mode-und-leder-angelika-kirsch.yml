@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3233948
 longitude: 7.3379794
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Kaiserstraße"
 housenumber: 19-21

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3354712
 longitude: 7.324201400000001
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Cranachstraße"
 housenumber: 30

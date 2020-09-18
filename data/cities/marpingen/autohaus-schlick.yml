@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4734527
 longitude: 7.0631212
-postcode: 66646
+postcode: "66646"
 city: Marpingen
 street: "Tholeyer Straße"
 housenumber: 108

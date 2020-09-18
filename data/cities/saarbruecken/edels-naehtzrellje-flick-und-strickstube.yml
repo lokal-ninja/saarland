@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.2378766
 longitude: 6.9976221
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 55

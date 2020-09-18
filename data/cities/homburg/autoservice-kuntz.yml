@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3131167
 longitude: 7.3197761
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Pirminiusstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.312536400000006
 longitude: 7.067310300000001
-postcode: 66280
+postcode: "66280"
 city: Sulzbach/Saar
 street: "Grühlingstraße"
 housenumber: 109

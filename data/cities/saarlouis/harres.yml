@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 49.3443461
 longitude: 6.7452487
-postcode: 66740
+postcode: "66740"
 city: Saarlouis
 street: "Carl-Zeiss-Straße"
 housenumber: 7

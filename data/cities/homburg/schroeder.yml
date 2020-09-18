@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3394647
 longitude: 7.3381381
-postcode: 66424
+postcode: "66424"
 city: Homburg
 street: "Berliner Straße"
 housenumber: 122

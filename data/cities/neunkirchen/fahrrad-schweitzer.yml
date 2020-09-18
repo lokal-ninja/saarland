@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.338981800000006
 longitude: 7.192545900000001
-postcode: 66538
+postcode: "66538"
 city: Neunkirchen
 street: "Steinwaldstraße"
 housenumber: 99

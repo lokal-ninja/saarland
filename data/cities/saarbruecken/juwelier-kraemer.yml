@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.237447800000005
 longitude: 6.9915631000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 93

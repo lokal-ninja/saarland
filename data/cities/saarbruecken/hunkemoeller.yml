@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.2370974
 longitude: 6.9923986000000005
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Bahnhofstraße"
 housenumber: 78
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
 website: ""

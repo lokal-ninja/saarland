@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.236515000000004
 longitude: 6.994032700000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Rotenhofstraße"
 housenumber: 1a

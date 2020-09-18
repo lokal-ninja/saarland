@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5393897
 longitude: 6.8897846000000005
-postcode: 66687
+postcode: "66687"
 city: Wadern
 street: "Marktplatz"
 housenumber: 8

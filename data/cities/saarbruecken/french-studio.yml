@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.235140300000005
 longitude: 6.9946165
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
 street: "Dudweilerstraße"
 housenumber: 2a
