@@ -1,12 +1,12 @@
 id: 4992991062
 type: node
 shop: Blumen
-latitude: 49.227225100000005
-longitude: 7.036225600000001
+latitude: 49.227264100000006
+longitude: 7.036233
 postcode: "66121"
 city: Saarbrücken
 street: "Breslauer Straße"
 housenumber: 1a
 phone: "+49 681 41620726"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH,Su closed"
 website: "http://www.bloomings.de"

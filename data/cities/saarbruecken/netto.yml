@@ -1,12 +1,12 @@
 id: 295717992
 type: node
 shop: Supermarkt
-latitude: 49.2418721
-longitude: 7.0091596
+latitude: 49.241905100000004
+longitude: 7.009202800000001
 postcode: "66123"
 city: Saarbrücken
 street: "Meerwiesertalweg"
 housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
 website: ""

@@ -1,12 +1,12 @@
-id: 4767454421
+id: 4992742689
 type: node
 shop: Friseur
-latitude: 49.2370255
-longitude: 6.994070700000001
-postcode: "66111"
+latitude: 49.2282385
+longitude: 7.0367668000000005
+postcode: "66121"
 city: Saarbrücken
-street: "Sulzbachstraße"
-housenumber: 11
-phone: "+49 681 34878"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"
+street: "Breslauer Straße"
+housenumber: 1a
+phone: "+49 681 815410"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.figaro-dupre.de/"
