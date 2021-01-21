@@ -1,6 +1,5 @@
 id: 7373640649
 type: node
-shop: Kosmetik
 latitude: 49.2189885
 longitude: 7.0115457
 postcode: "66119"
@@ -8,5 +7,5 @@ city: Saarbrücken
 street: "Saargemünder Straße"
 housenumber: 86
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, 14:00-18:00; PH, Su off || Mittwoch und Samstag Termine nach Vereinbarung;"
+opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00; PH,Su off || Mittwoch und Samstag Termine nach Vereinbarung"
 website: ""
