@@ -1,5 +1,5 @@
 ---
-title: "Mömax"
+title: "mömax"
 url: /saarbruecken/moemax/
 shop: Möbel
 ---
