@@ -1,5 +1,5 @@
 ---
 title: "Würth"
 url: /saarbruecken/wuerth/
-shop: Großhandel
+shop: Eisenwaren
 ---
