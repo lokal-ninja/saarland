@@ -1,0 +1,2 @@
+Das Saarland ist ein Land im Südwesten der Bundesrepublik Deutschland. Das kleinste der Flächenländer und hinsichtlich der Einwohnerzahl mit knapp einer Million das zweitkleinste Land (nach Bremen) grenzt im Norden und Osten an das Land Rheinland-Pfalz, im Süden an die französische Region Grand Est, dort an das Département Moselle, und im Westen an das Großherzogtum Luxemburg. Gemeinsam mit diesen Nachbarn und der belgischen Region Wallonien bildet das Saarland die europäische Großregion Saar-Lor-Lux. (Wikipedia)
+
