@@ -1,6 +1,6 @@
 ---
 title: Saarwellingen
 url: /saarwellingen/
-latitude: 49.352
-longitude: 6.805
+latitude: 49.357
+longitude: 6.792
 ---
