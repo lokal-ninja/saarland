@@ -1,5 +1,5 @@
 ---
 title: "Ismaail Home"
 url: /saarbruecken/ismaail-home/
-shop: Möbel
+shop: Raumausstattung
 ---
