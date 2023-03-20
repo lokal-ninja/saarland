@@ -1,5 +1,5 @@
 ---
 title: "BIKE-SERVICELAB"
-url: /blieskastel/bike-servicelab/
+url: /mandelbachtal/bike-servicelab/
 shop: Fahrrad
 ---

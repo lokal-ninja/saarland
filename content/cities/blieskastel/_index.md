@@ -1,6 +1,6 @@
 ---
 title: Blieskastel
 url: /blieskastel/
-latitude: 49.22
-longitude: 7.203
+latitude: 49.218
+longitude: 7.187
 ---
