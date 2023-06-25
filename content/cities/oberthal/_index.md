@@ -1,6 +1,6 @@
 ---
 title: Oberthal
 url: /oberthal/
-latitude: 49.512
-longitude: 7.088
+latitude: 49.515
+longitude: 7.082
 ---
