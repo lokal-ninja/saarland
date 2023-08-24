@@ -1,6 +1,6 @@
 ---
 title: Sarreguemines
 url: /sarreguemines/
-latitude: 49.112
-longitude: 7.054
+latitude: 49.129
+longitude: 7.044
 ---
