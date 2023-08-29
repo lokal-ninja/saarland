@@ -1,6 +1,6 @@
 ---
 title: Nonnweiler
 url: /nonnweiler/
-latitude: 49.604
+latitude: 49.603
 longitude: 6.988
 ---

@@ -1,6 +1,6 @@
 ---
 title: Völklingen
 url: /voelklingen/
-latitude: 49.221
-longitude: 6.808
+latitude: 49.248
+longitude: 6.905
 ---
