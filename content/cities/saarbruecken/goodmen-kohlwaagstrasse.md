@@ -1,5 +1,5 @@
 ---
 title: "Goodmen"
-url: /saarbruecken/goodmen/
+url: /saarbruecken/goodmen-kohlwaagstrasse/
 shop: Erotik
 ---

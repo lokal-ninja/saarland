@@ -1,5 +1,5 @@
 ---
 title: "Stabile"
-url: /saarbruecken/stabile/
+url: /saarbruecken/stabile-nauwieserstrasse/
 shop: Kunst
 ---

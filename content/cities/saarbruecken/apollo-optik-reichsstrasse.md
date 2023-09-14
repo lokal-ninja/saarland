@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /saarbruecken/apollo-optik/
+url: /saarbruecken/apollo-optik-reichsstrasse/
 shop: Optiker
 ---

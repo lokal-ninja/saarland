@@ -1,5 +1,5 @@
 ---
 title: "Digitaldruck Pirrot GmbH"
-url: /saarbruecken/digitaldruck-pirrot-gmbh/
+url: /saarbruecken/digitaldruck-pirrot-gmbh-mainzer-strasse/
 shop: Kopieren
 ---

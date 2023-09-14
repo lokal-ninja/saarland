@@ -1,5 +1,5 @@
 ---
 title: "Kawumm"
-url: /saarbruecken/kawumm/
+url: /saarbruecken/kawumm-kronenstrasse/
 shop: Kleidung
 ---

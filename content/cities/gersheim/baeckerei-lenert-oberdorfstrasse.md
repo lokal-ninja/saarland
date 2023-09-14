@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Lenert"
-url: /gersheim/baeckerei-lenert/
+url: /gersheim/baeckerei-lenert-oberdorfstrasse/
 shop: Bäckerei
 ---

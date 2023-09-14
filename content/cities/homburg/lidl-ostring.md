@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /homburg/lidl/
+url: /homburg/lidl-ostring/
 shop: Supermarkt
 ---

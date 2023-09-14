@@ -1,5 +1,5 @@
 ---
 title: "Mischo"
-url: /saarbruecken/mischo/
+url: /saarbruecken/mischo-dudweiler-landstrasse/
 shop: Bäckerei
 ---

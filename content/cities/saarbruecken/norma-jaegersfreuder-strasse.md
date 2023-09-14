@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /saarbruecken/norma/
+url: /saarbruecken/norma-jaegersfreuder-strasse/
 shop: Supermarkt
 ---

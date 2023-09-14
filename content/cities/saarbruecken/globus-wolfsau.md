@@ -1,5 +1,5 @@
 ---
 title: "Globus"
-url: /saarbruecken/globus/
+url: /saarbruecken/globus-wolfsau/
 shop: Supermarkt
 ---

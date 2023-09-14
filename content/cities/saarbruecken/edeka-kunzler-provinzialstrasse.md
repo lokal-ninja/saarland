@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Kunzler"
-url: /saarbruecken/edeka-kunzler/
+url: /saarbruecken/edeka-kunzler-provinzialstrasse/
 shop: Supermarkt
 ---

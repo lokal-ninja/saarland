@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /sankt-ingbert/edeka/
+url: /sankt-ingbert/edeka-oststrasse/
 shop: Supermarkt
 ---

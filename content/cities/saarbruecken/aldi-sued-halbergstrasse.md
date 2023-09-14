@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /saarbruecken/aldi-sued/
+url: /saarbruecken/aldi-sued-halbergstrasse/
 shop: Supermarkt
 ---

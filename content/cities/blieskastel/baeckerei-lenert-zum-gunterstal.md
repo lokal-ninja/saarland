@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Lenert"
-url: /blieskastel/baeckerei-lenert/
+url: /blieskastel/baeckerei-lenert-zum-gunterstal/
 shop: Bäckerei
 ---

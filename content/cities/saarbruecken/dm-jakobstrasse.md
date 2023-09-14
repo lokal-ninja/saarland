@@ -1,5 +1,5 @@
 ---
 title: "DM"
-url: /saarbruecken/dm/
+url: /saarbruecken/dm-jakobstrasse/
 shop: Drogerie
 ---

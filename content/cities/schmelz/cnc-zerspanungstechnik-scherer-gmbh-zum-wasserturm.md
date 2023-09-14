@@ -1,5 +1,5 @@
 ---
 title: "CNC-Zerspanungstechnik Scherer GmbH"
-url: /schmelz/cnc-zerspanungstechnik-scherer-gmbh/
+url: /schmelz/cnc-zerspanungstechnik-scherer-gmbh-zum-wasserturm/
 shop: Eisenwaren
 ---

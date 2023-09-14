@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /kleinblittersdorf/dm/
+url: /kleinblittersdorf/dm-brachalmeth/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wasgau"
-url: /kirkel/wasgau/
+url: /kirkel/wasgau-goethestrasse/
 shop: Supermarkt
 ---

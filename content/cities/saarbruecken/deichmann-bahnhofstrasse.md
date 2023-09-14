@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /saarbruecken/deichmann/
+url: /saarbruecken/deichmann-bahnhofstrasse/
 shop: Schuhe
 ---

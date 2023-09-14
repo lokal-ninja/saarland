@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /perl/rewe/
+url: /perl/rewe-trierer-strasse/
 shop: Supermarkt
 ---

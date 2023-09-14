@@ -1,5 +1,5 @@
 ---
 title: "Geers"
-url: /saarbruecken/geers/
+url: /saarbruecken/geers-eisenbahnstrasse/
 shop: Hörgeräte
 ---

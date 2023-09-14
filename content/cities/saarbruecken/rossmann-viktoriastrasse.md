@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /saarbruecken/rossmann/
+url: /saarbruecken/rossmann-viktoriastrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waschhaus"
-url: /saarbruecken/waschhaus/
+url: /saarbruecken/waschhaus-eisenbahnstrasse/
 shop: Wäscherei
 ---

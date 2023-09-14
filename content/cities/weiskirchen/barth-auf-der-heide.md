@@ -1,5 +1,5 @@
 ---
 title: "Barth"
-url: /weiskirchen/barth/
+url: /weiskirchen/barth-auf-der-heide/
 shop: Autohaus
 ---

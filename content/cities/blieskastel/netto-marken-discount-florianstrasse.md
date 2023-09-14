@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /blieskastel/netto-marken-discount/
+url: /blieskastel/netto-marken-discount-florianstrasse/
 shop: Supermarkt
 ---

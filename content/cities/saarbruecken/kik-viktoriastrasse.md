@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /saarbruecken/kik/
+url: /saarbruecken/kik-viktoriastrasse/
 shop: Kleidung
 ---

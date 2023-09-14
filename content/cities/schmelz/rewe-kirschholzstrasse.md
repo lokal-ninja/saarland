@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /schmelz/rewe/
+url: /schmelz/rewe-kirschholzstrasse/
 shop: Supermarkt
 ---

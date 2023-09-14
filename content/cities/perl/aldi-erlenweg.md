@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /perl/aldi/
+url: /perl/aldi-erlenweg/
 shop: Supermarkt
 ---

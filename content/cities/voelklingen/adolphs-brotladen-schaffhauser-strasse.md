@@ -1,5 +1,5 @@
 ---
 title: "Adolphs Brotladen"
-url: /voelklingen/adolphs-brotladen/
+url: /voelklingen/adolphs-brotladen-schaffhauser-strasse/
 shop: Bäckerei
 ---

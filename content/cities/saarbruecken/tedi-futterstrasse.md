@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /saarbruecken/tedi/
+url: /saarbruecken/tedi-futterstrasse/
 shop: Kramladen
 ---

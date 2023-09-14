@@ -1,5 +1,5 @@
 ---
 title: "Richy"
-url: /saarbruecken/richy/
+url: /saarbruecken/richy-fuerstenstrasse/
 shop: Kleidung
 ---
