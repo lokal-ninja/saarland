@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /saarlouis/dm-grosser-markt/
+url: /lebach/dm/
 shop: Drogerie
 ---
