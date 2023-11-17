@@ -1,5 +1,5 @@
 ---
-title: "Edeka Kaiser"
+title: "EDEKA Kaiser"
 url: /beckingen/edeka-kaiser/
 shop: Supermarkt
 ---

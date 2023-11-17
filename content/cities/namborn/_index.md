@@ -1,6 +1,6 @@
 ---
 title: Namborn
 url: /namborn/
-latitude: 49.508
-longitude: 7.149
+latitude: 49.518
+longitude: 7.158
 ---
