@@ -1,5 +1,5 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /schiffweiler/kik/
 shop: Kleidung
 ---
