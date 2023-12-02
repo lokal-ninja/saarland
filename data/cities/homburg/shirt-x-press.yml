@@ -1,11 +1,11 @@
 id: 599813628
 type: node
-latitude: 49.32048
-longitude: 7.33944
+latitude: 49.32043
+longitude: 7.33938
 postcode: "66424"
 city: Homburg
 street: "Saarbrücker Straße"
-housenumber: 19
-phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://shirt-xpress.de/"
+housenumber: 21
+phone: "+49 6841 68053"
+opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-17:00; Sa,Su,PH off"
+website: "https://www.shirt-xpress.eu/"
