@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /saarbruecken/aldi-sued-hirtenwies/
+url: /merchweiler/aldi-sued/
 shop: Supermarkt
 ---

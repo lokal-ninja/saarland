@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /sankt-ingbert/dm/
+url: /tholey/dm/
 shop: Drogerie
 ---
