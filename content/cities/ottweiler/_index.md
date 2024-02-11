@@ -1,6 +1,6 @@
 ---
 title: Ottweiler
 url: /ottweiler/
-latitude: 49.395
-longitude: 7.173
+latitude: 49.408
+longitude: 7.147
 ---
