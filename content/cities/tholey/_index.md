@@ -1,6 +1,6 @@
 ---
 title: Tholey
 url: /tholey/
-latitude: 49.481
-longitude: 7.026
+latitude: 49.483
+longitude: 7.037
 ---
