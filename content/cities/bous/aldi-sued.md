@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /neunkirchen/aldi-sued/
+url: /bous/aldi-sued/
 shop: Supermarkt
 ---
