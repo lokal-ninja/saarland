@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /neunkirchen/lidl-bliesstrasse/
+url: /sankt-ingbert/lidl-oststrasse/
 shop: Supermarkt
 ---
