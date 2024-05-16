@@ -1,6 +1,6 @@
 ---
 title: Marpingen
 url: /marpingen/
-latitude: 49.449
-longitude: 7.057
+latitude: 49.445
+longitude: 7.055
 ---
