@@ -1,5 +1,5 @@
 ---
 title: "Herges"
-url: /st-wendel/herges/
+url: /sankt-wendel/herges/
 shop: Sanitätshaus
 ---

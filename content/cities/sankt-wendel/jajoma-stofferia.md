@@ -1,5 +1,5 @@
 ---
 title: "JAJOMA - Stofferia"
-url: /bliesen/jajoma-stofferia/
+url: /sankt-wendel/jajoma-stofferia/
 shop: Textil
 ---

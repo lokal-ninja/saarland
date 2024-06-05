@@ -1,5 +1,5 @@
 ---
 title: "ZiMMER - Elektro-Sanitär-Heizung"
-url: /bliesen/zimmer-elektro-sanitaer-heizung/
+url: /sankt-wendel/zimmer-elektro-sanitaer-heizung/
 shop: Baumarkt
 ---

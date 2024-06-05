@@ -1,5 +1,5 @@
 ---
 title: "Schönheitsideal"
-url: /buebingen/schoenheitsideal/
+url: /saarbruecken/schoenheitsideal/
 shop: Kosmetik
 ---
