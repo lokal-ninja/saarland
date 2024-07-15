@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /sankt-ingbert/aldi-sued-oststrasse/
+url: /sankt-wendel/aldi-sued-jahnstrasse/
 shop: Supermarkt
 ---
