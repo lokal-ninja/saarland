@@ -1,5 +1,5 @@
 ---
 title: "Schmeer"
 url: /saarbruecken/schmeer/
-shop: Badezimmer
+shop: Baumarkt
 ---
