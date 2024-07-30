@@ -1,6 +1,6 @@
 ---
 title: Weiskirchen
 url: /weiskirchen/
-latitude: 49.547
+latitude: 49.548
 longitude: 6.831
 ---
