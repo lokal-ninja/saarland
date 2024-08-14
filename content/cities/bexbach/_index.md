@@ -1,6 +1,6 @@
 ---
 title: Bexbach
 url: /bexbach/
-latitude: 49.346
-longitude: 7.252
+latitude: 49.36
+longitude: 7.265
 ---
