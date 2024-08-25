@@ -1,5 +1,5 @@
 ---
-title: "Jysk"
+title: "JYSK"
 url: /homburg/jysk/
 shop: Möbel
 ---
