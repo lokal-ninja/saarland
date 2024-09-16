@@ -1,11 +1,11 @@
 id: 232313437
-type: way
+type: node
 latitude: 49.43159
 longitude: 6.84587
 postcode: "66839"
 city: Schmelz
-street: "Bettinger Straße"
-housenumber: 33
+street: Bettinger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

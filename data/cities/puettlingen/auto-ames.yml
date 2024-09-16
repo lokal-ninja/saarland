@@ -1,11 +1,11 @@
 id: 111669322
-type: way
+type: node
 latitude: 49.29148
 longitude: 6.92643
 postcode: "66346"
 city: Püttlingen
-street: "Am Sender"
-housenumber: 5
+street: Am Sender
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

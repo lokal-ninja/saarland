@@ -1,11 +1,11 @@
 id: 69222002
-type: way
+type: node
 latitude: 49.24072
 longitude: 6.95192
 postcode: "66115"
 city: Saarbrücken
-street: "Konrad-Zuse-Straße"
-housenumber: 2
+street: Konrad-Zuse-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH,Su closed"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH,Su closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.32943
 longitude: 6.93229
 postcode: "66265"
 city: Heusweiler
-street: "Saarbrücker Straße"
-housenumber: 88
+street: Saarbrücker Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
-website: "https://www.resch-autoteile.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
+website: https://www.resch-autoteile.de/

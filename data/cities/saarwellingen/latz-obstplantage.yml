@@ -1,11 +1,11 @@
 id: 249477284
-type: way
+type: node
 latitude: 49.35974
 longitude: 6.81454
 postcode: "66793"
 city: Saarwellingen
-street: "Lebacher Straße"
-housenumber: 125
-phone: "+49-6838-82393"
-opening_hours: "Tu-Fr 09:00-13:00; Sa 09:00-13:00"
-website: "https://www.latz-obstplantage.de/"
+street: Lebacher Straße
+housenumber: "125"
+phone: +49-6838-82393
+opening_hours: Tu-Fr 09:00-13:00; Sa 09:00-13:00
+website: https://www.latz-obstplantage.de/

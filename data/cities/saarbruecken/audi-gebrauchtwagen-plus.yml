@@ -1,11 +1,11 @@
 id: 548213232
-type: way
+type: node
 latitude: 49.23672
 longitude: 6.96658
 postcode: "66115"
 city: Saarbrücken
-street: "Wiesenstraße"
-housenumber: 7
+street: Wiesenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

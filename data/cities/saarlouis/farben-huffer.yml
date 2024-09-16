@@ -1,11 +1,11 @@
 id: 183747595
-type: way
+type: node
 latitude: 49.32496
 longitude: 6.76014
 postcode: "66740"
 city: Saarlouis
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

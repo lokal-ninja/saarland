@@ -1,11 +1,11 @@
 id: 267752433
-type: way
+type: node
 latitude: 49.29126
 longitude: 6.83213
 postcode: "66773"
 city: Schwalbach
-street: "Bachtalstraße"
-housenumber: 113
+street: Bachtalstraße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 268609992
-type: way
+type: node
 latitude: 49.47453
 longitude: 6.37505
 postcode: "66706"
 city: Perl
-street: "In der Dörrwiese"
-housenumber: 8
+street: In der Dörrwiese
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

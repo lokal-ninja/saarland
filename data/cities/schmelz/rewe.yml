@@ -1,11 +1,11 @@
 id: 93095474
-type: way
+type: node
 latitude: 49.43552
 longitude: 6.84647
 postcode: "66839"
 city: Schmelz
-street: "Hoher Staden"
-housenumber: 4
+street: Hoher Staden
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

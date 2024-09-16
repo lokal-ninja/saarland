@@ -1,11 +1,11 @@
 id: 119737665
-type: way
+type: node
 latitude: 49.28603
 longitude: 6.88712
 postcode: "66346"
 city: Püttlingen
-street: "Weiherbachstraße"
-housenumber: 2
+street: Weiherbachstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

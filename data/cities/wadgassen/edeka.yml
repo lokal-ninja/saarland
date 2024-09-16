@@ -1,11 +1,11 @@
 id: 250937385
-type: way
+type: node
 latitude: 49.24306
 longitude: 6.7751
 postcode: "66787"
 city: Wadgassen
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 91741590
-type: way
+type: node
 latitude: 49.1203
 longitude: 7.05788
 postcode: "66271"
 city: Kleinblittersdorf
-street: "In der Lach"
-housenumber: 2
+street: In der Lach
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

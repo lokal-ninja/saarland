@@ -4,8 +4,8 @@ latitude: 49.23771
 longitude: 6.99432
 postcode: "66111"
 city: Saarbrücken
-street: "Kaiserstraße"
-housenumber: 25
+street: Kaiserstraße
+housenumber: "25"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

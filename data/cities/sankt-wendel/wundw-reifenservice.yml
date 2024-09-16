@@ -1,11 +1,11 @@
 id: 197502105
-type: way
+type: node
 latitude: 49.46724
 longitude: 7.17446
 postcode: "66606"
 city: Sankt Wendel
-street: "Wendalinusstraße"
-housenumber: 41
+street: Wendalinusstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.wuw-reifen.de/"
+website: https://www.wuw-reifen.de/

@@ -1,11 +1,11 @@
 id: 335576085
-type: way
+type: node
 latitude: 49.30075
 longitude: 6.77868
 postcode: "66806"
 city: Ensdorf/Saar
-street: "Provinzialstraße"
-housenumber: 201
+street: Provinzialstraße
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

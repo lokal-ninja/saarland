@@ -1,11 +1,11 @@
 id: 238195736
-type: way
+type: node
 latitude: 49.52537
 longitude: 7.26307
 postcode: "66629"
 city: Freisen
-street: "Gartenstraße"
-housenumber: 1
+street: Gartenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 428318261
-type: way
+type: node
 latitude: 49.36103
 longitude: 7.18094
 postcode: "66540"
 city: Neunkirchen
-street: "Kuchenbergstraße"
-housenumber: 194
+street: Kuchenbergstraße
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 399119554
-type: way
+type: node
 latitude: 49.23481
 longitude: 7.27135
 postcode: "66440"
 city: Blieskastel
-street: "Auf Scharlen"
-housenumber: 1
+street: Auf Scharlen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

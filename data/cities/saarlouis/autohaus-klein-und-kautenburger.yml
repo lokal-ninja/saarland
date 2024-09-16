@@ -1,11 +1,11 @@
 id: 378520368
-type: way
+type: node
 latitude: 49.31291
 longitude: 6.7325
 postcode: "66740"
 city: Saarlouis
-street: "Zeppelinstraße"
-housenumber: 15
+street: Zeppelinstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

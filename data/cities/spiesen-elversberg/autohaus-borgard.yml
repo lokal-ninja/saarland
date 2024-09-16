@@ -1,11 +1,11 @@
 id: 357744816
-type: way
+type: node
 latitude: 49.31161
 longitude: 7.13701
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Elversberger Straße"
-housenumber: 57
+street: Elversberger Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 357433097
-type: way
+type: node
 latitude: 49.31319
 longitude: 7.07802
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Eisenbahnschachtanlage"
-housenumber: 3
-phone: "+49 6897 98050"
-opening_hours: "Mo-Fr 07:45-12:00,13:00-17:00; Sa 08:00-12:00 open Werkstatt || Mo-Fr 07:00-18:00; Sa 08:00-12:00 open Büro"
-website: "https://jost-pilger.de"
+street: Eisenbahnschachtanlage
+housenumber: "3"
+phone: +49 6897 98050
+opening_hours: Mo-Fr 07:45-12:00,13:00-17:00; Sa 08:00-12:00 open "Werkstatt" || Mo-Fr
+    07:00-18:00; Sa 08:00-12:00 open "Büro"
+website: https://jost-pilger.de

@@ -1,11 +1,11 @@
 id: 749107173
-type: way
+type: node
 latitude: 49.2253
 longitude: 7.02271
 postcode: "66121"
 city: Saarbrücken
-street: "An der Römerbrücke"
-housenumber: 8
+street: An der Römerbrücke
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-20:00
 website: ""

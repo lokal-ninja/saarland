@@ -1,11 +1,11 @@
 id: 83618879
-type: way
+type: node
 latitude: 49.35192
 longitude: 7.20584
 postcode: "66538"
 city: Neunkirchen
-street: "Bliesstraße"
-housenumber: 74
+street: Bliesstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.takko-fashion.com/"
+website: https://www.takko-fashion.com/

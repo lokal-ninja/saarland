@@ -1,11 +1,11 @@
 id: 194981428
-type: way
+type: node
 latitude: 49.35794
 longitude: 6.78056
 postcode: "66793"
 city: Saarwellingen
-street: "Alfred-Nobel-Allee"
-housenumber: 28
+street: Alfred-Nobel-Allee
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

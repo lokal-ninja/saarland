@@ -1,11 +1,11 @@
 id: 25920929
-type: way
+type: node
 latitude: 49.46588
 longitude: 7.16095
 postcode: "66606"
 city: Sankt Wendel
-street: "Am Wirthembösch"
-housenumber: 5
+street: Am Wirthembösch
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.globus.de/"
+website: https://www.globus.de/

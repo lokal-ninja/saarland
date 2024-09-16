@@ -1,11 +1,11 @@
 id: 277508388
-type: way
+type: node
 latitude: 49.32154
 longitude: 7.09728
 postcode: "66299"
 city: Friedrichsthal
-street: "Schulstraße"
-housenumber: 2
+street: Schulstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 222326419
-type: way
+type: node
 latitude: 49.41153
 longitude: 6.89571
 postcode: "66822"
 city: Lebach
-street: "Auf dem Graben"
-housenumber: 11
+street: Auf dem Graben
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

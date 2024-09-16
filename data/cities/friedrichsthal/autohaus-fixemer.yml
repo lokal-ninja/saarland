@@ -1,11 +1,11 @@
 id: 52128957
-type: way
+type: node
 latitude: 49.31327
 longitude: 7.06804
 postcode: ""
 city: Friedrichsthal
-street: "An der Grühlingseiche"
-housenumber: 1
+street: An der Grühlingseiche
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

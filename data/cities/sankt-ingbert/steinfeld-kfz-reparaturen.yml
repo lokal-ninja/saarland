@@ -1,11 +1,11 @@
 id: 292526717
-type: way
+type: node
 latitude: 49.26702
 longitude: 7.12037
 postcode: "66386"
 city: Sankt Ingbert
-street: "Südstraße"
-housenumber: 11
+street: Südstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

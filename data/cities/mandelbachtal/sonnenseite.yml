@@ -4,8 +4,8 @@ latitude: 49.21651
 longitude: 7.15804
 postcode: "66399"
 city: Mandelbachtal
-street: "Saarbrücker Straße"
-housenumber: 36
-phone: "+49 6803 984646"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 09:00-21:00; Su,PH 10:00-20:00"
-website: "http://meine-sonnenseite.de/"
+street: Saarbrücker Straße
+housenumber: "36"
+phone: +49 6803 984646
+opening_hours: Mo-Fr 08:00-22:00; Sa 09:00-21:00; Su,PH 10:00-20:00
+website: http://meine-sonnenseite.de/

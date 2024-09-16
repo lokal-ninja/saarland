@@ -1,11 +1,11 @@
 id: 26388622
-type: way
+type: node
 latitude: 49.28343
 longitude: 6.78486
 postcode: "66359"
 city: Bous
-street: "Saarbrücker Straße"
-housenumber: 197
+street: Saarbrücker Straße
+housenumber: "197"
 phone: ""
 opening_hours: ""
 website: ""

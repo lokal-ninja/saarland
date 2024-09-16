@@ -1,11 +1,11 @@
 id: 138103285
-type: way
+type: node
 latitude: 49.30817
 longitude: 6.93896
 postcode: "66292"
 city: Riegelsberg
-street: "Walter-Wagner-Platz"
-housenumber: 2
+street: Walter-Wagner-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 242466268
-type: way
+type: node
 latitude: 49.45856
 longitude: 6.62362
 postcode: "66663"
 city: Merzig
-street: "Zum Wiesenhof"
-housenumber: 80
+street: Zum Wiesenhof
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

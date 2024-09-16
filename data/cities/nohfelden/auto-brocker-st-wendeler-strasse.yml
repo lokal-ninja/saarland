@@ -1,11 +1,11 @@
 id: 222630581
-type: way
+type: node
 latitude: 49.56178
 longitude: 7.17275
 postcode: "66625"
 city: Nohfelden
-street: "St.Wendeler Straße"
-housenumber: 60
+street: St.Wendeler Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus.ford.de/brocker"
+website: http://www.autohaus.ford.de/brocker

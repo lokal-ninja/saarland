@@ -1,11 +1,11 @@
 id: 241594528
-type: way
+type: node
 latitude: 49.47345
 longitude: 7.06312
 postcode: "66646"
 city: Marpingen
-street: "Tholeyer Straße"
-housenumber: 108
+street: Tholeyer Straße
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

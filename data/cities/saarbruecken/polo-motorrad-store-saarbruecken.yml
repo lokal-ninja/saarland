@@ -1,11 +1,11 @@
 id: 144712159
-type: way
+type: node
 latitude: 49.24064
 longitude: 6.95904
 postcode: "66115"
 city: Saarbrücken
-street: "Käthe-Kollwitz-Straße"
-housenumber: 4
+street: Käthe-Kollwitz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed
 website: ""

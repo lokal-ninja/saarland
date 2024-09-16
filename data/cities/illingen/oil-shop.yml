@@ -1,11 +1,11 @@
 id: 627522131
-type: way
+type: node
 latitude: 49.38429
 longitude: 6.99604
 postcode: "66557"
 city: Illingen
-street: "Humeskreuz"
-housenumber: 1
+street: Humeskreuz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

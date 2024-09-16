@@ -1,11 +1,11 @@
 id: 336642292
-type: way
+type: node
 latitude: 49.28439
 longitude: 7.14923
 postcode: "66386"
 city: Sankt Ingbert
-street: "Jakob-Oberhauser-Straße"
-housenumber: 1
+street: Jakob-Oberhauser-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
 website: ""

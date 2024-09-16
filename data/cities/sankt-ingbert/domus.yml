@@ -4,8 +4,8 @@ latitude: 49.27908
 longitude: 7.09968
 postcode: "66386"
 city: Sankt Ingbert
-street: "Schlackenbergstraße"
+street: Schlackenbergstraße
 housenumber: 41b
-phone: "+49 6894 4192"
-opening_hours: "nach Vereinbarung"
-website: "https://domus-kuechen.de/"
+phone: +49 6894 4192
+opening_hours: '"nach Vereinbarung"'
+website: https://domus-kuechen.de/

@@ -1,11 +1,11 @@
 id: 365003026
-type: way
+type: node
 latitude: 49.26307
 longitude: 7.33148
 postcode: "66424"
 city: Homburg
-street: "Neunmorgenstraße"
-housenumber: 5
+street: Neunmorgenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

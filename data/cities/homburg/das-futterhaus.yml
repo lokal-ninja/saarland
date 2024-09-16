@@ -1,11 +1,11 @@
 id: 237838880
-type: way
+type: node
 latitude: 49.33182
 longitude: 7.33828
 postcode: "66424"
 city: Homburg
-street: "Robert-Bosch-Straße"
-housenumber: 5
+street: Robert-Bosch-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

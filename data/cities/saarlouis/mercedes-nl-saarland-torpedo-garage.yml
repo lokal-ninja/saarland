@@ -1,11 +1,11 @@
 id: 261223625
-type: way
+type: node
 latitude: 49.30949
 longitude: 6.75601
 postcode: "66740"
 city: Saarlouis
-street: "Lisdorfer Straße"
-housenumber: 29
+street: Lisdorfer Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

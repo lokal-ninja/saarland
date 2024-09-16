@@ -4,8 +4,8 @@ latitude: 49.43509
 longitude: 6.84697
 postcode: "66839"
 city: Schmelz
-street: "Hoher Staden"
-housenumber: 2
-phone: "+49 6887 888404"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Hoher Staden
+housenumber: "2"
+phone: +49 6887 888404
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

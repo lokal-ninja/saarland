@@ -1,11 +1,11 @@
 id: 119448715
-type: way
+type: node
 latitude: 49.30041
 longitude: 6.8935
 postcode: "66346"
 city: Püttlingen
-street: "Fresagrandinariastraße"
-housenumber: 7
+street: Fresagrandinariastraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/saarland/puettlingen-koellerbach/fresagrandinaria-strasse-7"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/saarland/puettlingen-koellerbach/fresagrandinaria-strasse-7

@@ -1,11 +1,11 @@
 id: 139261411
-type: way
+type: node
 latitude: 49.20613
 longitude: 6.8419
 postcode: "66352"
 city: Großrosseln
-street: "Emmersweilerstraße"
-housenumber: 4
+street: Emmersweilerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

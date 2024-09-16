@@ -1,11 +1,11 @@
 id: 126290131
-type: way
+type: node
 latitude: 49.20922
 longitude: 7.17845
 postcode: "66399"
 city: Mandelbachtal
-street: "Große Heide"
-housenumber: 2
-phone: "+49 6803 554"
-opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-18:00"
-website: "https://www.baecker-mohr.de/"
+street: Große Heide
+housenumber: "2"
+phone: +49 6803 554
+opening_hours: Mo-Fr 05:00-19:00; Sa 06:00-18:00
+website: https://www.baecker-mohr.de/

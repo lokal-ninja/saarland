@@ -4,8 +4,8 @@ latitude: 49.23517
 longitude: 6.98899
 postcode: "66117"
 city: Saarbrücken
-street: "Eisenbahnstraße"
-housenumber: 35
+street: Eisenbahnstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
+website: https://www.tedi.com/

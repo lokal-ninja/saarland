@@ -1,11 +1,11 @@
 id: 88558801
-type: way
+type: node
 latitude: 49.19128
 longitude: 7.09343
 postcode: "66130"
 city: Saarbrücken
-street: "Hauptstraße"
-housenumber: 73
+street: Hauptstraße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

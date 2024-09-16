@@ -1,11 +1,11 @@
 id: 336697644
-type: way
+type: node
 latitude: 49.28177
 longitude: 7.16722
 postcode: "66386"
 city: Sankt Ingbert
-street: "Im Talgarten"
-housenumber: 2
+street: Im Talgarten
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

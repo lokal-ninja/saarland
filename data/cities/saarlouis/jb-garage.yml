@@ -1,11 +1,11 @@
 id: 911435469
-type: way
+type: node
 latitude: 49.31442
 longitude: 6.73352
 postcode: "66740"
 city: Saarlouis
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.24891
 longitude: 6.99139
 postcode: "66113"
 city: Saarbrücken
-street: "Heinrich-Koehl-Straße"
-housenumber: 58
+street: Heinrich-Koehl-Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa open nach Vereinbarung; PH,Su closed"
+opening_hours: Mo-Sa open "nach Vereinbarung"; PH,Su closed
 website: ""

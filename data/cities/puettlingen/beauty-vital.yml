@@ -1,11 +1,11 @@
 id: 321998127
-type: way
+type: node
 latitude: 49.30094
 longitude: 6.89732
 postcode: "66346"
 city: Püttlingen
-street: "Sprenger Straße"
-housenumber: 9
+street: Sprenger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

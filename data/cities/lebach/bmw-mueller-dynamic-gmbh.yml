@@ -1,11 +1,11 @@
 id: 155571555
-type: way
+type: node
 latitude: 49.413
 longitude: 6.89239
 postcode: "66822"
 city: Lebach
-street: "In Bommersfeld"
-housenumber: 2
+street: In Bommersfeld
+housenumber: "2"
 phone: "+49688192020"
 opening_hours: ""
-website: "https://www.mueller-auto.com/standorte/bmw-lebach/"
+website: https://www.mueller-auto.com/standorte/bmw-lebach/

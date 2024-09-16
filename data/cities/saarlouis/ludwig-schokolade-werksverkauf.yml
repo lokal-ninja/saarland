@@ -1,11 +1,11 @@
 id: 183747602
-type: way
+type: node
 latitude: 49.32565
 longitude: 6.76419
 postcode: "66740"
 city: Saarlouis
-street: "Lebacher Straße"
-housenumber: 20
+street: Lebacher Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

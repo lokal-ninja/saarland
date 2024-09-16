@@ -1,11 +1,11 @@
 id: 406247141
-type: way
+type: node
 latitude: 49.29649
 longitude: 7.05602
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Sulzbachtalstraße"
-housenumber: 32
-phone: "+49 6897 92200"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://mercedes.auto-birkelbach.com"
+street: Sulzbachtalstraße
+housenumber: "32"
+phone: +49 6897 92200
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off
+website: https://mercedes.auto-birkelbach.com

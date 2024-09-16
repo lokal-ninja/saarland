@@ -1,11 +1,11 @@
 id: 350439572
-type: way
+type: node
 latitude: 49.38677
 longitude: 7.04372
 postcode: "66557"
 city: Illingen
-street: "Illinger Straße"
-housenumber: 107
+street: Illinger Straße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

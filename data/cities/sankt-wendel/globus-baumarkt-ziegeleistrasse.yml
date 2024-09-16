@@ -1,11 +1,11 @@
 id: 71008568
-type: way
+type: node
 latitude: 49.46357
 longitude: 7.16068
 postcode: "66606"
 city: Sankt Wendel
-street: "Ziegeleistraße"
-housenumber: 2
-phone: "+49 6851 9100"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/"
+street: Ziegeleistraße
+housenumber: "2"
+phone: +49 6851 9100
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/

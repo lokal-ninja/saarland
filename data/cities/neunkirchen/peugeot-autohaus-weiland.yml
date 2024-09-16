@@ -1,11 +1,11 @@
 id: 233955524
-type: way
+type: node
 latitude: 49.35203
 longitude: 7.21877
 postcode: "66539"
 city: Neunkirchen
-street: "Untere Bliesstraße"
-housenumber: 61
+street: Untere Bliesstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-weiland.de/"
+website: https://www.autohaus-weiland.de/

@@ -1,11 +1,11 @@
 id: 358222677
-type: way
+type: node
 latitude: 49.31479
 longitude: 7.12836
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Fichtenstraße"
-housenumber: 5
+street: Fichtenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

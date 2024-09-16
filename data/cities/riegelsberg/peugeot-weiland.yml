@@ -1,11 +1,12 @@
 id: 167401314
-type: way
+type: node
 latitude: 49.31749
 longitude: 6.91361
 postcode: "66292"
 city: Riegelsberg
-street: "Am Mühlengarten"
-housenumber: 1
-phone: "+49 6806 99481-0"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00 Verkauf || Mo-Fr 07:00-18:00; Sa 08:00-13:00 Service"
-website: "https://www.autohaus-weiland.de"
+street: Am Mühlengarten
+housenumber: "1"
+phone: +49 6806 99481-0
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00 "Verkauf" || Mo-Fr 07:00-18:00; Sa
+    08:00-13:00 "Service"
+website: https://www.autohaus-weiland.de

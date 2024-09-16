@@ -1,11 +1,11 @@
 id: 119130749
-type: way
+type: node
 latitude: 49.27653
 longitude: 6.88188
 postcode: "66346"
 city: Püttlingen
-street: "Industriegelände Steinritsch"
-housenumber: 5
+street: Industriegelände Steinritsch
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://car-inception.de/"
+website: https://car-inception.de/

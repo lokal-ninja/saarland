@@ -1,11 +1,11 @@
 id: 58711627
-type: way
+type: node
 latitude: 49.33446
 longitude: 6.92916
 postcode: "66265"
 city: Heusweiler
-street: "Am Bahnhof"
-housenumber: 4
+street: Am Bahnhof
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/heusweiler/am-bahnhof-4.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/heusweiler/am-bahnhof-4.html

@@ -1,11 +1,11 @@
 id: 998242871
-type: way
+type: node
 latitude: 49.38101
 longitude: 7.33053
 postcode: "66914"
 city: Waldmohr
-street: "Vor der Muhl"
-housenumber: 1
+street: Vor der Muhl
+housenumber: "1"
 phone: "06373505461"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.posten-boerse.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.posten-boerse.de

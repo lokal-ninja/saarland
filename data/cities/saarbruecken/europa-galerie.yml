@@ -1,11 +1,11 @@
 id: 31682223
-type: way
+type: node
 latitude: 49.23945
 longitude: 6.98951
 postcode: "66111"
 city: Saarbrücken
-street: "Trierer Straße"
-housenumber: 1
+street: Trierer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; PH,Su closed"
+opening_hours: Mo-Sa 08:00-20:30; PH,Su closed
 website: ""

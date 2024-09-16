@@ -1,11 +1,11 @@
 id: 213918198
-type: way
+type: node
 latitude: 49.36245
 longitude: 7.06738
 postcode: "66589"
 city: Merchweiler
-street: "Im Solch"
-housenumber: 2
-phone: "+49 6825 952910"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Im Solch
+housenumber: "2"
+phone: +49 6825 952910
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

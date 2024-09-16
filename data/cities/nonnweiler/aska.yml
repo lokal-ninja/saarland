@@ -1,11 +1,11 @@
 id: 524518996
-type: way
+type: node
 latitude: 49.54161
 longitude: 6.97349
 postcode: "66620"
 city: Nonnweiler
-street: "Mettnicher Straße"
-housenumber: 35
+street: Mettnicher Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

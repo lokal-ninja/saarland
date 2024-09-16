@@ -4,8 +4,8 @@ latitude: 49.23915
 longitude: 6.99156
 postcode: "66111"
 city: Saarbrücken
-street: "Karl-Marx-Straße"
-housenumber: 1
+street: Karl-Marx-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

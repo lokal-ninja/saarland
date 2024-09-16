@@ -1,11 +1,11 @@
 id: 657222004
-type: way
+type: node
 latitude: 49.47325
 longitude: 6.3724
 postcode: "66706"
 city: Perl
-street: "Am Dreiländereck"
-housenumber: 15
+street: Am Dreiländereck
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

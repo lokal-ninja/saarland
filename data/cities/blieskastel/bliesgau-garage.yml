@@ -1,11 +1,11 @@
 id: 399119493
-type: way
+type: node
 latitude: 49.23437
 longitude: 7.27303
 postcode: "66440"
 city: Blieskastel
-street: "Zum Gunterstal"
-housenumber: 7
+street: Zum Gunterstal
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

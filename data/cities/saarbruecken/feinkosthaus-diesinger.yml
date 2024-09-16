@@ -4,8 +4,8 @@ latitude: 49.23874
 longitude: 7.01883
 postcode: "66123"
 city: Saarbrücken
-street: "Schwarzenbergstraße"
-housenumber: 18
-phone: "+49 681 36875"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:30; PH,Su closed"
-website: "https://www.feinkost-diesinger.de/"
+street: Schwarzenbergstraße
+housenumber: "18"
+phone: +49 681 36875
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-13:30; PH,Su closed
+website: https://www.feinkost-diesinger.de/

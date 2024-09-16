@@ -4,8 +4,8 @@ latitude: 49.23062
 longitude: 7.01616
 postcode: "66121"
 city: Saarbrücken
-street: "Halbergstraße"
-housenumber: 49
+street: Halbergstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Sa,Su 11:00-16:00; Mo-Fr off || nach Vereinbarung"
+opening_hours: Sa,Su 11:00-16:00; Mo-Fr off || "nach Vereinbarung"
 website: ""

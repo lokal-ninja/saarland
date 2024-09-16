@@ -1,11 +1,11 @@
 id: 218705072
-type: way
+type: node
 latitude: 49.261
 longitude: 7.33415
 postcode: "66482"
 city: Zweibrücken
-street: "Homburger Straße"
-housenumber: 218
+street: Homburger Straße
+housenumber: "218"
 phone: ""
 opening_hours: ""
 website: ""

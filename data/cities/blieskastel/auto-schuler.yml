@@ -1,11 +1,11 @@
 id: 762472440
-type: way
+type: node
 latitude: 49.24645
 longitude: 7.259
 postcode: "66440"
 city: Blieskastel
-street: "Florianstraße"
-housenumber: 45
-phone: "+49 6842 9216930"
+street: Florianstraße
+housenumber: "45"
+phone: +49 6842 9216930
 opening_hours: ""
-website: "www.autohausschuler.de"
+website: www.autohausschuler.de

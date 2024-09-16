@@ -1,11 +1,11 @@
 id: 186570520
-type: way
+type: node
 latitude: 49.36428
 longitude: 6.66857
 postcode: "66780"
 city: Rehlingen-Siersburg
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

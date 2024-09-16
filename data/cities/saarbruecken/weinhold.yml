@@ -4,8 +4,8 @@ latitude: 49.23638
 longitude: 6.99421
 postcode: "66111"
 city: Saarbrücken
-street: "Futterstraße"
-housenumber: 6
+street: Futterstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off
 website: ""

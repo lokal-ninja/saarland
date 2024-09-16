@@ -1,11 +1,11 @@
 id: 246292506
-type: way
+type: node
 latitude: 49.48937
 longitude: 6.97757
 postcode: "66636"
 city: Tholey
-street: "Theeltalstraße"
-housenumber: 10
+street: Theeltalstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

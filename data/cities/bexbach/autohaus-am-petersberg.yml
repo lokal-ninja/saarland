@@ -1,11 +1,11 @@
 id: 148323849
-type: way
+type: node
 latitude: 49.35015
 longitude: 7.2667
 postcode: "66450"
 city: Bexbach
-street: "Hochstraße"
-housenumber: 10
+street: Hochstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

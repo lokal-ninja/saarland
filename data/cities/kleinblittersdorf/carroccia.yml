@@ -1,11 +1,11 @@
 id: 91739610
-type: way
+type: node
 latitude: 49.1297
 longitude: 7.06827
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Zur Wackenmühle"
-housenumber: 1
+street: Zur Wackenmühle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

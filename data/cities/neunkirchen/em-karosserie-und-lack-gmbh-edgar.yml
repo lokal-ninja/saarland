@@ -1,11 +1,11 @@
 id: 234644058
-type: way
+type: node
 latitude: 49.35225
 longitude: 7.22545
 postcode: "66539"
 city: Neunkirchen
-street: "Rombachstraße"
-housenumber: 39
+street: Rombachstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

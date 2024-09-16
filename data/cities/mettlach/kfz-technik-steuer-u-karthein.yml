@@ -1,11 +1,11 @@
 id: 438435496
-type: way
+type: node
 latitude: 49.49946
 longitude: 6.59672
 postcode: "66693"
 city: Mettlach
-street: "Am Ziegelberg"
-housenumber: 4
+street: Am Ziegelberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

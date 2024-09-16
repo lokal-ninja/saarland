@@ -1,11 +1,11 @@
 id: 135625742
-type: way
+type: node
 latitude: 49.41174
 longitude: 6.97717
 postcode: "66571"
 city: Eppelborn
-street: "Dirminger Straße"
+street: Dirminger Straße
 housenumber: 57a
 phone: ""
 opening_hours: ""
-website: "https://busse-kfz.de"
+website: https://busse-kfz.de

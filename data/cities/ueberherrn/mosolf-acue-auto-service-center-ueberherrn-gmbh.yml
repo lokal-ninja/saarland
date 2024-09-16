@@ -1,11 +1,11 @@
 id: 321008424
-type: way
+type: node
 latitude: 49.24619
 longitude: 6.70857
 postcode: "66802"
 city: Überherrn
-street: "Langwies"
-housenumber: 101
+street: Langwies
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "http://www.mosolf.de/netzwerk/d-66802-ueberherrn.html"
+website: http://www.mosolf.de/netzwerk/d-66802-ueberherrn.html

@@ -1,11 +1,11 @@
 id: 26011803
-type: way
+type: node
 latitude: 49.29173
 longitude: 6.78145
 postcode: "66806"
 city: Ensdorf/Saar
-street: "Mathias-Erzberger-Straße"
-housenumber: 2
+street: Mathias-Erzberger-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

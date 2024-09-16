@@ -1,11 +1,11 @@
 id: 1309009419
-type: way
+type: node
 latitude: 49.32964
 longitude: 7.32038
 postcode: "66424"
 city: Homburg
-street: "Am Vierherrenwald"
-housenumber: 8
+street: Am Vierherrenwald
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 192419731
-type: way
+type: node
 latitude: 49.55245
 longitude: 6.37959
 postcode: "5570"
 city: Remich
-street: "Route de Stadtbredimus"
-housenumber: 53
-phone: "+352 23699093"
+street: Route de Stadtbredimus
+housenumber: "53"
+phone: +352 23699093
 opening_hours: ""
-website: "https://gales.lu/"
+website: https://gales.lu/

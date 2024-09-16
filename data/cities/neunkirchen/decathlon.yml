@@ -1,11 +1,11 @@
 id: 138964489
-type: way
+type: node
 latitude: 49.3498
 longitude: 7.17102
 postcode: "66538"
 city: Neunkirchen
-street: "Zum Eisenwerk"
-housenumber: 1
+street: Zum Eisenwerk
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.de/"
+website: https://www.decathlon.de/

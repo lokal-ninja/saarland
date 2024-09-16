@@ -1,11 +1,11 @@
 id: 87760463
-type: way
+type: node
 latitude: 49.22151
 longitude: 7.0132
 postcode: "66119"
 city: Saarbrücken
-street: "Koßmannstraße"
-housenumber: 43
+street: Koßmannstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

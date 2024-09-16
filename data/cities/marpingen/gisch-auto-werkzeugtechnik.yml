@@ -1,11 +1,11 @@
 id: 433279752
-type: way
+type: node
 latitude: 49.44631
 longitude: 7.05855
 postcode: "66646"
 city: Marpingen
-street: "Urexweilerstraße"
-housenumber: 59
+street: Urexweilerstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

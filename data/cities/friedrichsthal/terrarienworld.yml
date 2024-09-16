@@ -1,11 +1,11 @@
 id: 355467260
-type: way
+type: node
 latitude: 49.31932
 longitude: 7.09092
 postcode: "66299"
 city: Friedrichsthal
-street: "Saarbrücker Straße"
-housenumber: 26
-phone: "+49 6897 567947"
-opening_hours: "Tu-Fr 10:00-12:30,15:00-18:00; We,Sa 10:00-12:30"
-website: "https://terrarienworld.de"
+street: Saarbrücker Straße
+housenumber: "26"
+phone: +49 6897 567947
+opening_hours: Tu-Fr 10:00-12:30,15:00-18:00; We,Sa 10:00-12:30
+website: https://terrarienworld.de

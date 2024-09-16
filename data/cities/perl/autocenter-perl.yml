@@ -1,11 +1,11 @@
 id: 106615317
-type: way
+type: node
 latitude: 49.47371
 longitude: 6.37413
 postcode: "66706"
 city: Perl
-street: "Trierer Straße"
-housenumber: 53
+street: Trierer Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

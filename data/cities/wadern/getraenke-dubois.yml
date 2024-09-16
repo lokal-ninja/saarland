@@ -1,11 +1,11 @@
 id: 246869657
-type: way
+type: node
 latitude: 49.53812
 longitude: 6.89162
 postcode: "66687"
 city: Wadern
-street: "Im Brühl"
-housenumber: 3
+street: Im Brühl
+housenumber: "3"
 phone: ""
-opening_hours: "08:00-18:00"
+opening_hours: 08:00-18:00
 website: ""

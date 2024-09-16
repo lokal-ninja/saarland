@@ -1,11 +1,11 @@
 id: 380762494
-type: way
+type: node
 latitude: 49.26711
 longitude: 6.79939
 postcode: "66787"
 city: Wadgassen
-street: "Lindenstraße"
-housenumber: 88
-phone: "+49 6834 - 60 40 0"
+street: Lindenstraße
+housenumber: "88"
+phone: +49 6834 - 60 40 0
 opening_hours: ""
-website: "https://www.visual-contact.eu/"
+website: https://www.visual-contact.eu/

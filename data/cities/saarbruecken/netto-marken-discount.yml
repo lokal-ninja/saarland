@@ -4,8 +4,8 @@ latitude: 49.24191
 longitude: 7.0092
 postcode: "66123"
 city: Saarbrücken
-street: "Meerwiesertalweg"
-housenumber: 27
+street: Meerwiesertalweg
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su closed
+website: https://www.netto-online.de

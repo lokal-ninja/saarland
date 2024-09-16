@@ -1,11 +1,11 @@
 id: 111985047
-type: way
+type: node
 latitude: 49.21185
 longitude: 7.18219
 postcode: "66440"
 city: Blieskastel
-street: "Langwiese"
-housenumber: 5
+street: Langwiese
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

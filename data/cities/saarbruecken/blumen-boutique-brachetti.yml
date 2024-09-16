@@ -4,8 +4,9 @@ latitude: 49.27526
 longitude: 7.03575
 postcode: "66125"
 city: Saarbrücken
-street: "Alter Stadtweg"
+street: Alter Stadtweg
 housenumber: 2a
-phone: "+49 6897 763899"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00, Sa 09:00-13:00, Su 10:00-12:00; Jan: We 09:00-13:00; Feb-Dec: We 09:00-18:00"
-website: "https://blumen-brachetti.de/"
+phone: +49 6897 763899
+opening_hours: 'Mo,Tu,Th,Fr 09:00-18:00, Sa 09:00-13:00, Su 10:00-12:00; Jan: We 09:00-13:00;
+    Feb-Dec: We 09:00-18:00'
+website: https://blumen-brachetti.de/

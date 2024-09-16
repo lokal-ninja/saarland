@@ -1,11 +1,11 @@
 id: 89831433
-type: way
+type: node
 latitude: 49.22612
 longitude: 7.02172
 postcode: "66121"
 city: Saarbrücken
-street: "Zur Ostspange"
-housenumber: 2
+street: Zur Ostspange
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su closed"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su closed
 website: ""

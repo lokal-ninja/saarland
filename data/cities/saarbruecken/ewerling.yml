@@ -4,8 +4,8 @@ latitude: 49.22234
 longitude: 7.01125
 postcode: "66119"
 city: Saarbrücken
-street: "Koßmannstraße"
-housenumber: 31
+street: Koßmannstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.kuechen-ewerling.de/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.kuechen-ewerling.de/

@@ -1,11 +1,11 @@
 id: 733667048
-type: way
+type: node
 latitude: 49.30676
 longitude: 6.75731
 postcode: "66740"
 city: Saarlouis
-street: "Provinzialstraße"
-housenumber: 15
+street: Provinzialstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

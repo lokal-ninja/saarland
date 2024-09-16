@@ -1,11 +1,11 @@
 id: 84673488
-type: way
+type: node
 latitude: 49.46127
 longitude: 7.15835
 postcode: "66606"
 city: Sankt Wendel
-street: "Linxweilerstraße"
-housenumber: 25
+street: Linxweilerstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/"
+website: https://www.atu.de/

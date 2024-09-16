@@ -1,11 +1,11 @@
 id: 355446243
-type: way
+type: node
 latitude: 49.47938
 longitude: 7.03947
 postcode: "66636"
 city: Tholey
-street: "Dirminger Straße"
-housenumber: 12
+street: Dirminger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

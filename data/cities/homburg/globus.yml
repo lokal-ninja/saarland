@@ -1,11 +1,11 @@
 id: 27622240
-type: way
+type: node
 latitude: 49.26366
 longitude: 7.33352
 postcode: "66424"
 city: Homburg
-street: "Neunmorgenstraße"
+street: Neunmorgenstraße
 housenumber: 8-12
-phone: "+49-6848-601-0"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
-website: "https://www.globus.de/"
+phone: +49-6848-601-0
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00
+website: https://www.globus.de/

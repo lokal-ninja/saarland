@@ -1,11 +1,11 @@
 id: 647062697
-type: way
+type: node
 latitude: 49.51525
 longitude: 6.37348
 postcode: "66706"
 city: Perl
-street: "Moselaue"
-housenumber: 3
+street: Moselaue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1089904611
-type: way
+type: node
 latitude: 49.2482
 longitude: 6.69874
 postcode: "66802"
 city: Überherrn
-street: "Langwies"
-housenumber: 5
+street: Langwies
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 360305163
-type: way
+type: node
 latitude: 49.33479
 longitude: 7.35095
 postcode: "66424"
 city: Homburg
-street: "Kaiserslauterer Straße"
+street: Kaiserslauterer Straße
 housenumber: 2b
-phone: "+49 6841 2393"
+phone: +49 6841 2393
 opening_hours: ""
 website: ""

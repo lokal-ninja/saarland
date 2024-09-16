@@ -1,11 +1,11 @@
 id: 109094625
-type: way
+type: node
 latitude: 49.51365
 longitude: 6.52959
 postcode: "66693"
 city: Mettlach
-street: "Zur Keltensiedlung"
-housenumber: 3
+street: Zur Keltensiedlung
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/mettlach/orscholz-zur-keltensiedlung-3.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/mettlach/orscholz-zur-keltensiedlung-3.html

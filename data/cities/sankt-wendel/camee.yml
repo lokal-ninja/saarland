@@ -1,11 +1,11 @@
 id: 71140629
-type: way
+type: node
 latitude: 49.46849
 longitude: 7.16932
 postcode: "66606"
 city: Sankt Wendel
-street: "Luisenstraße"
-housenumber: 33
+street: Luisenstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 332293958
-type: way
+type: node
 latitude: 49.50633
 longitude: 6.73927
 postcode: "66679"
 city: Losheim am See
-street: "Merziger Straße"
-housenumber: 40
+street: Merziger Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

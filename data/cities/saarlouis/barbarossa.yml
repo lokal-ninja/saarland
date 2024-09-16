@@ -1,11 +1,11 @@
 id: 210793532
-type: way
+type: node
 latitude: 49.32578
 longitude: 6.74531
 postcode: "66740"
 city: Saarlouis
-street: "Rodener Schanze"
-housenumber: 3
+street: Rodener Schanze
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

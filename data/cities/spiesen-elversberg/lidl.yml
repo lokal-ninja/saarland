@@ -1,11 +1,11 @@
 id: 53864241
-type: way
+type: node
 latitude: 49.31704
 longitude: 7.12152
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Lindenstraße"
+street: Lindenstraße
 housenumber: 3b
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/f/spiesen-elversberg/lindenstr-3b.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/f/spiesen-elversberg/lindenstr-3b.html

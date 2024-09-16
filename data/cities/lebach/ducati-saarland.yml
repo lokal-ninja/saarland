@@ -1,11 +1,11 @@
 id: 279058756
-type: way
+type: node
 latitude: 49.44924
 longitude: 6.96851
 postcode: "66822"
 city: Lebach
-street: "Schaumbergstraße"
-housenumber: 176
+street: Schaumbergstraße
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

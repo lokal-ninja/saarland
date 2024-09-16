@@ -1,11 +1,11 @@
 id: 119046022
-type: way
+type: node
 latitude: 49.43846
 longitude: 6.86967
 postcode: "66839"
 city: Schmelz
-street: "Franz-Birringer-Straße"
-housenumber: 23
+street: Franz-Birringer-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

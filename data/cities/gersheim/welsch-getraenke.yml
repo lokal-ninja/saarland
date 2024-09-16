@@ -1,11 +1,11 @@
 id: 164056873
-type: way
+type: node
 latitude: 49.15521
 longitude: 7.21124
 postcode: "66453"
 city: Gersheim
-street: "Industriegebiet"
-housenumber: 19
-phone: "+49 6843 90120"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.welsch-getraenke.de/"
+street: Industriegebiet
+housenumber: "19"
+phone: +49 6843 90120
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.welsch-getraenke.de/

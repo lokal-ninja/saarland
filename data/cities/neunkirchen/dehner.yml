@@ -1,11 +1,11 @@
 id: 51600455
-type: way
+type: node
 latitude: 49.3417
 longitude: 7.1733
 postcode: "66538"
 city: Neunkirchen
-street: "Westspange"
-housenumber: 2
+street: Westspange
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

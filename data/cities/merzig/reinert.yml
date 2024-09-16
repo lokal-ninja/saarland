@@ -1,11 +1,11 @@
 id: 462749128
-type: way
+type: node
 latitude: 49.42704
 longitude: 6.62858
 postcode: "66663"
 city: Merzig
-street: "Dörrmühle"
-housenumber: 6
+street: Dörrmühle
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

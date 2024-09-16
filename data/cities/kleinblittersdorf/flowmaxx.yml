@@ -1,11 +1,11 @@
 id: 614098491
-type: way
+type: node
 latitude: 49.13176
 longitude: 7.06537
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Auersmacherstraße"
-housenumber: 12
+street: Auersmacherstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Fr 14:00-17:00"
+opening_hours: Fr 14:00-17:00
 website: ""

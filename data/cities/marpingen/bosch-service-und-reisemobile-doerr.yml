@@ -1,11 +1,11 @@
 id: 353465190
-type: way
+type: node
 latitude: 49.45888
 longitude: 7.06446
 postcode: "66646"
 city: Marpingen
-street: "Hinten auf der Gaß"
-housenumber: 4
+street: Hinten auf der Gaß
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

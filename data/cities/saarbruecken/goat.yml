@@ -4,8 +4,8 @@ latitude: 49.23102
 longitude: 7.00233
 postcode: "66111"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 36
+street: Mainzer Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Th 09:00-18:00; Fr 11:00-20:00; Sa 09:00-15:00; PH,Mo,Su closed"
+opening_hours: Tu-Th 09:00-18:00; Fr 11:00-20:00; Sa 09:00-15:00; PH,Mo,Su closed
 website: ""

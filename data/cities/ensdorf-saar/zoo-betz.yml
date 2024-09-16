@@ -1,11 +1,11 @@
 id: 292414900
-type: way
+type: node
 latitude: 49.30556
 longitude: 6.77742
 postcode: "66806"
 city: Ensdorf/Saar
-street: "Saarstraße"
-housenumber: 36
+street: Saarstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 114127891
-type: way
+type: node
 latitude: 49.31816
 longitude: 6.73606
 postcode: "66740"
 city: Saarlouis
-street: "Wallerfanger Straße"
-housenumber: 104
+street: Wallerfanger Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

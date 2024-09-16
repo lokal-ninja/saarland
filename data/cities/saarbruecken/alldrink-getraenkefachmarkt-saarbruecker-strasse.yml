@@ -1,11 +1,11 @@
 id: 115641296
-type: way
+type: node
 latitude: 49.27402
 longitude: 7.02724
 postcode: "66125"
 city: Saarbrücken
-street: "Saarbrücker Straße"
-housenumber: 145
+street: Saarbrücker Straße
+housenumber: "145"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

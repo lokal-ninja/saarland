@@ -1,11 +1,11 @@
 id: 203625175
-type: way
+type: node
 latitude: 49.37069
 longitude: 7.18726
 postcode: "66540"
 city: Neunkirchen
-street: "Kuchenbergstraße"
-housenumber: 11
+street: Kuchenbergstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.zweirad-finck.de/"
+website: https://www.zweirad-finck.de/

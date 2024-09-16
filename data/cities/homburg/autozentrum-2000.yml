@@ -1,11 +1,11 @@
 id: 370554647
-type: way
+type: node
 latitude: 49.34119
 longitude: 7.35624
 postcode: "66424"
 city: Homburg
-street: "Kaiserslauterer Straße"
-housenumber: 21
+street: Kaiserslauterer Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

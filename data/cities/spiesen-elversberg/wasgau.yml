@@ -1,11 +1,11 @@
 id: 30887518
-type: way
+type: node
 latitude: 49.31795
 longitude: 7.12315
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Lindenstraße"
-housenumber: 19
-phone: "+49 6821 77250"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.wasgau.de/maerkte/wasgau-frischemarkt-elversberg/"
+street: Lindenstraße
+housenumber: "19"
+phone: +49 6821 77250
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.wasgau.de/maerkte/wasgau-frischemarkt-elversberg/

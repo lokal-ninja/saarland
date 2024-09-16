@@ -1,11 +1,11 @@
 id: 82773914
-type: way
+type: node
 latitude: 49.29403
 longitude: 6.77669
 postcode: "66806"
 city: Ensdorf/Saar
-street: "Provinzialstraße"
-housenumber: 300
-phone: "+49 6831 954-0"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"
-website: "https://www.moebel-martin.de/"
+street: Provinzialstraße
+housenumber: "300"
+phone: +49 6831 954-0
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-20:00
+website: https://www.moebel-martin.de/

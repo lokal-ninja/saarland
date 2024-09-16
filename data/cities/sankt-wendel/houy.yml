@@ -4,8 +4,8 @@ latitude: 49.46698
 longitude: 7.16757
 postcode: "66606"
 city: Sankt Wendel
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH,Su off"
-website: "https://www.houy.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH,Su off
+website: https://www.houy.de/

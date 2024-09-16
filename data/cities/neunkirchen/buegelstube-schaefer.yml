@@ -1,11 +1,11 @@
 id: 235036370
-type: way
+type: node
 latitude: 49.33812
 longitude: 7.19076
 postcode: "66538"
 city: Neunkirchen
-street: "Steinwaldstraße"
-housenumber: 73
+street: Steinwaldstraße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

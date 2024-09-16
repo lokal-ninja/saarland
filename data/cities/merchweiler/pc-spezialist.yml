@@ -1,11 +1,11 @@
 id: 261888335
-type: way
+type: node
 latitude: 49.348
 longitude: 7.04732
 postcode: "66589"
 city: Merchweiler
-street: "Auf Pfuhlst"
-housenumber: 8
+street: Auf Pfuhlst
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
 website: ""

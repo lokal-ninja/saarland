@@ -4,8 +4,9 @@ latitude: 49.2297
 longitude: 7.00967
 postcode: "66121"
 city: Saarbrücken
-street: "Arndtstraße"
-housenumber: 29
+street: Arndtstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu-Sa 06:30-18:00; Su,PH 08:00-18:00; Dec 31 08:00-12:00; Dec 25,Dec 26,Jan 01 off"
-website: "https://www.steigleiter.de/"
+opening_hours: Tu-Sa 06:30-18:00; Su,PH 08:00-18:00; Dec 31 08:00-12:00; Dec 25,Dec
+    26,Jan 01 off
+website: https://www.steigleiter.de/

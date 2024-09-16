@@ -1,11 +1,11 @@
 id: 200806241
-type: way
+type: node
 latitude: 49.46223
 longitude: 7.24023
 postcode: "66606"
 city: Sankt Wendel
-street: "Paul-Gerhardt-Straße"
-housenumber: 61
+street: Paul-Gerhardt-Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 353833369
-type: way
+type: node
 latitude: 49.35239
 longitude: 7.09704
 postcode: "66578"
 city: Schiffweiler
-street: "Itzenplitzstraße"
-housenumber: 27
+street: Itzenplitzstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

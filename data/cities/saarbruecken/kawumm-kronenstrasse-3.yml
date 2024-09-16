@@ -1,11 +1,11 @@
 id: 700356864
-type: way
+type: node
 latitude: 49.23219
 longitude: 6.99637
 postcode: "66111"
 city: Saarbrücken
-street: "Kronenstraße"
-housenumber: 2
-phone: "+49 681 37313"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.kawumm.de/"
+street: Kronenstraße
+housenumber: "2"
+phone: +49 681 37313
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.kawumm.de/

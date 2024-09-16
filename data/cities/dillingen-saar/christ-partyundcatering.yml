@@ -1,11 +1,11 @@
 id: 202631534
-type: way
+type: node
 latitude: 49.37142
 longitude: 6.70682
 postcode: "66763"
 city: Dillingen/Saar
-street: "Röntgenstraße"
-housenumber: 2
+street: Röntgenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

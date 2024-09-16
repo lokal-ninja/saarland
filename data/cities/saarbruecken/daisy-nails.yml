@@ -4,8 +4,8 @@ latitude: 49.23509
 longitude: 6.99612
 postcode: "66111"
 city: Saarbrücken
-street: "Rathausplatz"
-housenumber: 2
+street: Rathausplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH,Su off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH,Su off
 website: ""

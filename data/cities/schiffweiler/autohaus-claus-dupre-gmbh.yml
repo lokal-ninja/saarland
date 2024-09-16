@@ -1,11 +1,11 @@
 id: 246461165
-type: way
+type: node
 latitude: 49.37581
 longitude: 7.126
 postcode: "66578"
 city: Schiffweiler
-street: "Ottweilerstraße"
-housenumber: 32
+street: Ottweilerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

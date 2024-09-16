@@ -1,11 +1,11 @@
 id: 364971992
-type: way
+type: node
 latitude: 49.27361
 longitude: 7.31382
 postcode: "66424"
 city: Homburg
-street: "Theo-Greiner-Straße"
-housenumber: 1
-phone: "+49 6848 70060"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.braun-moebel.de/standorte/haus-homburg/"
+street: Theo-Greiner-Straße
+housenumber: "1"
+phone: +49 6848 70060
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.braun-moebel.de/standorte/haus-homburg/

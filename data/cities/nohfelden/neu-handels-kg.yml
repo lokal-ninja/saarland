@@ -1,11 +1,11 @@
 id: 345506584
-type: way
+type: node
 latitude: 49.58681
 longitude: 7.14257
 postcode: "66625"
 city: Nohfelden
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

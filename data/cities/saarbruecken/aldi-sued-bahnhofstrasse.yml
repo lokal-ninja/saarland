@@ -4,8 +4,8 @@ latitude: 49.23398
 longitude: 6.99488
 postcode: "66111"
 city: Saarbrücken
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su closed"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Bahnhofstr.%2015%2066111%20Saarbr%C3%BCcken&Mode=None"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su closed
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Bahnhofstr.%2015%2066111%20Saarbr%C3%BCcken&Mode=None

@@ -1,11 +1,11 @@
 id: 251485410
-type: way
+type: node
 latitude: 49.34535
 longitude: 7.34314
 postcode: "66424"
 city: Homburg
-street: "Vogelbacher Weg"
-housenumber: 50
+street: Vogelbacher Weg
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.saar-rad.de/"
+website: https://www.saar-rad.de/

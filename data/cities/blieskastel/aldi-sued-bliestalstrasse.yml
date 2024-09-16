@@ -1,11 +1,11 @@
 id: 706517576
-type: way
+type: node
 latitude: 49.23678
 longitude: 7.26736
 postcode: "66440"
 city: Blieskastel
-street: "Bliestalstraße"
-housenumber: 114
+street: Bliestalstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/saarland/blieskastel/bliestalstrasse-114"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/saarland/blieskastel/bliestalstrasse-114

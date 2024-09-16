@@ -1,11 +1,11 @@
 id: 106152097
-type: way
+type: node
 latitude: 49.28003
 longitude: 6.78629
 postcode: "66359"
 city: Bous
-street: "Kantstraße"
-housenumber: 8
+street: Kantstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/saarland/bous/kantstrasse-8"
+website: https://filialen.aldi-sued.de/saarland/bous/kantstrasse-8

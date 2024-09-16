@@ -1,11 +1,11 @@
 id: 246500686
-type: way
+type: node
 latitude: 49.3708
 longitude: 7.13059
 postcode: "66578"
 city: Schiffweiler
-street: "Auf der Brück"
-housenumber: 3
+street: Auf der Brück
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

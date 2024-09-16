@@ -1,11 +1,11 @@
 id: 99597096
-type: way
+type: node
 latitude: 49.46077
 longitude: 7.14651
 postcode: "66606"
 city: Sankt Wendel
-street: "Schengener Straße"
-housenumber: 4
+street: Schengener Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.baederstudio-klein.de/"
+website: https://www.baederstudio-klein.de/

@@ -1,11 +1,11 @@
 id: 119212252
-type: way
+type: node
 latitude: 49.23142
 longitude: 6.83058
 postcode: "66333"
 city: Völklingen
-street: "Am Hammergraben"
-housenumber: 3
-phone: "+49 6898 790200"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Am Hammergraben
+housenumber: "3"
+phone: +49 6898 790200
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 184428300
-type: way
+type: node
 latitude: 49.48964
 longitude: 7.26406
 postcode: "66606"
 city: Sankt Wendel
-street: "Neumeyerstraße"
-housenumber: 3
+street: Neumeyerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 49.23178
 longitude: 6.98818
 postcode: "66117"
 city: Saarbrücken
-street: "Eisenbahnstraße"
-housenumber: 2
+street: Eisenbahnstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-We 10:00-12:30; Th-Fr 10:00-12:30,14:00-18:00; Sa 10:00-13:00; PH,Mo,Su closed"
+opening_hours: Tu-We 10:00-12:30; Th-Fr 10:00-12:30,14:00-18:00; Sa 10:00-13:00; PH,Mo,Su
+    closed
 website: ""

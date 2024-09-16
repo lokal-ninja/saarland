@@ -4,8 +4,8 @@ latitude: 49.42454
 longitude: 6.56963
 postcode: "66663"
 city: Merzig
-street: "Büdinger Straße"
-housenumber: 10
-phone: "+49 6869 93444"
-opening_hours: "Fr 15:00-18:00"
-website: "http://www.maries-ziegenhof.de/"
+street: Büdinger Straße
+housenumber: "10"
+phone: +49 6869 93444
+opening_hours: Fr 15:00-18:00
+website: http://www.maries-ziegenhof.de/

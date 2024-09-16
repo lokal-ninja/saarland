@@ -1,11 +1,11 @@
 id: 283338608
-type: way
+type: node
 latitude: 49.50798
 longitude: 7.00606
 postcode: "66636"
 city: Tholey
-street: "Gewerbegebiet Hanacker"
-housenumber: 4
+street: Gewerbegebiet Hanacker
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

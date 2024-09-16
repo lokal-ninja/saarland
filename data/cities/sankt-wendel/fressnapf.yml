@@ -1,11 +1,11 @@
 id: 194524564
-type: way
+type: node
 latitude: 49.46051
 longitude: 7.1561
 postcode: "66606"
 city: Sankt Wendel
-street: "Linxweilerstraße"
-housenumber: 31
+street: Linxweilerstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.fressnapf.de/"
+website: https://www.fressnapf.de/

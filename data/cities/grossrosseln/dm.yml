@@ -1,11 +1,11 @@
 id: 758457603
-type: way
+type: node
 latitude: 49.20754
 longitude: 6.84272
 postcode: "66352"
 city: Großrosseln
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

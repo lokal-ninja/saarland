@@ -1,11 +1,11 @@
 id: 171512715
-type: way
+type: node
 latitude: 49.29138
 longitude: 6.7591
 postcode: "66740"
 city: Saarlouis
-street: "Provinzialstraße"
-housenumber: 169
+street: Provinzialstraße
+housenumber: "169"
 phone: ""
 opening_hours: ""
 website: ""

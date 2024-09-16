@@ -1,11 +1,11 @@
 id: 71765973
-type: way
+type: node
 latitude: 49.31941
 longitude: 6.74786
 postcode: "66740"
 city: Saarlouis
-street: "Dieselstraße"
-housenumber: 1
+street: Dieselstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/saarlouis-253"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/saarlouis-253

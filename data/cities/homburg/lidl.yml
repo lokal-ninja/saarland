@@ -1,11 +1,11 @@
 id: 215799544
-type: way
+type: node
 latitude: 49.31588
 longitude: 7.33307
 postcode: "66424"
 city: Homburg
-street: "Am Stadtbad"
-housenumber: 1
+street: Am Stadtbad
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00;Su,PH off
 website: ""

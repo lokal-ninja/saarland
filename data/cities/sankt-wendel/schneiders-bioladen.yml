@@ -1,11 +1,11 @@
 id: 72138111
-type: way
+type: node
 latitude: 49.46717
 longitude: 7.16184
 postcode: "66606"
 city: Sankt Wendel
-street: "Tholeyer Straße"
-housenumber: 26
-phone: "+49 6851 9125220"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://bioladen.de/schneiders-bioladen-stwendel/"
+street: Tholeyer Straße
+housenumber: "26"
+phone: +49 6851 9125220
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://bioladen.de/schneiders-bioladen-stwendel/

@@ -1,11 +1,11 @@
 id: 348415536
-type: way
+type: node
 latitude: 49.3131
 longitude: 7.05132
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Am Kreuzgraben"
-housenumber: 16
+street: Am Kreuzgraben
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

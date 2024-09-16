@@ -1,11 +1,11 @@
 id: 197335115
-type: way
+type: node
 latitude: 49.37153
 longitude: 7.18761
 postcode: "66540"
 city: Neunkirchen
-street: "Kuchenbergstraße"
-housenumber: 2
-phone: "+49 6821 6342390"
+street: Kuchenbergstraße
+housenumber: "2"
+phone: +49 6821 6342390
 opening_hours: ""
-website: "https://kfz-rauber.de/"
+website: https://kfz-rauber.de/

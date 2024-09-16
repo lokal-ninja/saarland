@@ -1,11 +1,11 @@
 id: 349612351
-type: way
+type: node
 latitude: 49.45079
 longitude: 6.96965
 postcode: "66822"
 city: Lebach
-street: "Schaumbergstraße"
-housenumber: 187
+street: Schaumbergstraße
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38321694
-type: way
+type: node
 latitude: 49.33289
 longitude: 7.09409
 postcode: "66299"
 city: Friedrichsthal
-street: "Illinger Straße"
-housenumber: 2
+street: Illinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

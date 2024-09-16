@@ -1,11 +1,11 @@
 id: 119660915
-type: way
+type: node
 latitude: 49.28823
 longitude: 6.88408
 postcode: "66346"
 city: Püttlingen
-street: "Pickardstraße"
-housenumber: 7
+street: Pickardstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366485589
-type: way
+type: node
 latitude: 49.23731
 longitude: 6.96076
 postcode: "66115"
 city: Saarbrücken
-street: "Käthe-Kollwitz-Straße"
-housenumber: 15
+street: Käthe-Kollwitz-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; PH,Su closed"
-website: "https://bilotta-hau.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; PH,Su closed
+website: https://bilotta-hau.de/

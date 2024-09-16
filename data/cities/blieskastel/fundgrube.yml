@@ -1,11 +1,11 @@
 id: 113467347
-type: way
+type: node
 latitude: 49.21338
 longitude: 7.18258
 postcode: "66440"
 city: Blieskastel
-street: "Saar-Pfalz-Straße"
+street: Saar-Pfalz-Straße
 housenumber: 2B
-phone: "+49 6803 9943760"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"
+phone: +49 6803 9943760
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00
 website: ""

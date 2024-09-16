@@ -1,11 +1,11 @@
 id: 148326618
-type: way
+type: node
 latitude: 49.3441
 longitude: 7.28267
 postcode: "66450"
 city: Bexbach
-street: "Am Butterhügel"
-housenumber: 3
+street: Am Butterhügel
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

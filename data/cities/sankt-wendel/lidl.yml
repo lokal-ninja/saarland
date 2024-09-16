@@ -1,11 +1,11 @@
 id: 70916721
-type: way
+type: node
 latitude: 49.46398
 longitude: 7.15586
 postcode: "66606"
 city: Sankt Wendel
-street: "August-Balthasar-Straße"
-housenumber: 6
+street: August-Balthasar-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

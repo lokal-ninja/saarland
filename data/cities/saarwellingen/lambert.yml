@@ -1,11 +1,11 @@
 id: 74852817
-type: way
+type: node
 latitude: 49.33565
 longitude: 6.87281
 postcode: "66793"
 city: Saarwellingen
-street: "In der Langwies"
-housenumber: 10
+street: In der Langwies
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

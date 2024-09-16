@@ -1,11 +1,11 @@
 id: 302788840
-type: way
+type: node
 latitude: 49.2497
 longitude: 6.83222
 postcode: "66333"
 city: Völklingen
-street: "Vorderster Berg"
-housenumber: 9
+street: Vorderster Berg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

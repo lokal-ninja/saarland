@@ -1,11 +1,11 @@
 id: 1031980001
-type: way
+type: node
 latitude: 49.3221
 longitude: 6.7776
 postcode: "66740"
 city: Saarlouis
-street: "Ostring"
-housenumber: 108
+street: Ostring
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

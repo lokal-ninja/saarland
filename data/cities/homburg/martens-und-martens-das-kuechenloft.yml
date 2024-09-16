@@ -1,11 +1,11 @@
 id: 306879322
-type: way
+type: node
 latitude: 49.32675
 longitude: 7.33689
 postcode: "66424"
 city: Homburg
-street: "Richard-Wagner-Straße"
-housenumber: 20
-phone: "+49-6841 92249-0"
+street: Richard-Wagner-Straße
+housenumber: "20"
+phone: +49-6841 92249-0
 opening_hours: ""
-website: "https://www.kuechenloft-martens.de/"
+website: https://www.kuechenloft-martens.de/

@@ -4,8 +4,8 @@ latitude: 49.47546
 longitude: 6.3857
 postcode: "66706"
 city: Perl
-street: "Trierer Straße"
-housenumber: 45
+street: Trierer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

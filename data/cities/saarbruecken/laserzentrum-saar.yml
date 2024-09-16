@@ -4,8 +4,8 @@ latitude: 49.23555
 longitude: 6.99552
 postcode: "66111"
 city: Saarbrücken
-street: "Dudweilerstraße"
-housenumber: 11
+street: Dudweilerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "open nach Vereinbarung"
+opening_hours: open "nach Vereinbarung"
 website: ""

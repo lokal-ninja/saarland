@@ -1,11 +1,11 @@
 id: 138756241
-type: way
+type: node
 latitude: 49.23822
 longitude: 6.88777
 postcode: "66333"
 city: Völklingen
-street: "Hans-Großwendt-Ring"
-housenumber: 11
+street: Hans-Großwendt-Ring
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

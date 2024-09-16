@@ -1,11 +1,11 @@
 id: 336652943
-type: way
+type: node
 latitude: 49.29201
 longitude: 6.8412
 postcode: "66773"
 city: Schwalbach
-street: "Borneichstraße"
-housenumber: 4
+street: Borneichstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 742136501
-type: way
+type: node
 latitude: 49.25452
 longitude: 7.04052
 postcode: "66123"
 city: Saarbrücken
-street: "Campus"
+street: Campus
 housenumber: A4 4
 phone: ""
-opening_hours: "Mo,Tu,Th 11:00-18:00; Fr 11:00-17:00; Sa,Su off; We 12:00-18:00"
+opening_hours: Mo,Tu,Th 11:00-18:00; Fr 11:00-17:00; Sa,Su off; We 12:00-18:00
 website: ""

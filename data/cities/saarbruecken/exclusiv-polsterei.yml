@@ -4,8 +4,8 @@ latitude: 49.22951
 longitude: 7.0106
 postcode: "66121"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 112
-phone: "+49 681 67975"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH,Su closed"
-website: "https://www.exclusiv-polsterei-ehrreich.de"
+street: Mainzer Straße
+housenumber: "112"
+phone: +49 681 67975
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH,Su closed
+website: https://www.exclusiv-polsterei-ehrreich.de

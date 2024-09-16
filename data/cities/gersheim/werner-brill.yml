@@ -1,11 +1,11 @@
 id: 222956174
-type: way
+type: node
 latitude: 49.17392
 longitude: 7.23812
 postcode: "66453"
 city: Gersheim
-street: "Bliestalstraße"
-housenumber: 16
+street: Bliestalstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

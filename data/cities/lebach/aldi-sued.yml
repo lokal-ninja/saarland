@@ -1,11 +1,11 @@
 id: 37084471
-type: way
+type: node
 latitude: 49.4111
 longitude: 6.89468
 postcode: "66822"
 city: Lebach
-street: "Auf dem Graben"
-housenumber: 1
+street: Auf dem Graben
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 106157812
-type: way
+type: node
 latitude: 49.31854
 longitude: 6.74658
 postcode: "66740"
 city: Saarlouis
-street: "Holtzendorffer Straße"
-housenumber: 6
+street: Holtzendorffer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

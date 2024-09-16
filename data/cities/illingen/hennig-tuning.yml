@@ -1,11 +1,11 @@
 id: 349534720
-type: way
+type: node
 latitude: 49.36487
 longitude: 7.0109
 postcode: "66557"
 city: Illingen
-street: "Zeppelinstraße"
-housenumber: 9
+street: Zeppelinstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.3306
 longitude: 6.97798
 postcode: "66265"
 city: Heusweiler
-street: "Heusweilerstraße"
-housenumber: 88
-phone: "+49 6806 81704"
-opening_hours: "Mo,Tu 08:00-17:00; We 08:00-13:00; Th 08:00-17:00; Fr 08:00-16:00"
+street: Heusweilerstraße
+housenumber: "88"
+phone: +49 6806 81704
+opening_hours: Mo,Tu 08:00-17:00; We 08:00-13:00; Th 08:00-17:00; Fr 08:00-16:00
 website: ""

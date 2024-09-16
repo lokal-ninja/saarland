@@ -1,11 +1,11 @@
 id: 184428273
-type: way
+type: node
 latitude: 49.49016
 longitude: 7.26487
 postcode: "66606"
 city: Sankt Wendel
-street: "Neumeyerstraße"
-housenumber: 7
+street: Neumeyerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.harros-garage.de/"
+website: https://www.harros-garage.de/

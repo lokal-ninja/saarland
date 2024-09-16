@@ -1,11 +1,11 @@
 id: 478238485
-type: way
+type: node
 latitude: 49.14421
 longitude: 7.20128
 postcode: "66453"
 city: Gersheim
-street: "Bliesstraße"
-housenumber: 40
+street: Bliesstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

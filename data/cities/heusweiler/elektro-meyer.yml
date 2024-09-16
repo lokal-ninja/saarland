@@ -1,11 +1,11 @@
 id: 302862320
-type: way
+type: node
 latitude: 49.33005
 longitude: 6.93953
 postcode: "66265"
 city: Heusweiler
-street: "Holzer Straße"
-housenumber: 54
+street: Holzer Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

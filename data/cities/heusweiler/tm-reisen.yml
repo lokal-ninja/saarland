@@ -4,8 +4,8 @@ latitude: 49.33754
 longitude: 6.9302
 postcode: "66265"
 city: Heusweiler
-street: "Am Markt"
-housenumber: 3
-phone: "+49 6806 8695950"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su closed"
-website: "https://www.tm-reisen.de/"
+street: Am Markt
+housenumber: "3"
+phone: +49 6806 8695950
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su closed
+website: https://www.tm-reisen.de/

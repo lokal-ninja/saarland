@@ -1,11 +1,11 @@
 id: 245120202
-type: way
+type: node
 latitude: 49.5
 longitude: 6.94491
 postcode: "66636"
 city: Tholey
-street: "Limbacher Straße"
-housenumber: 12
+street: Limbacher Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

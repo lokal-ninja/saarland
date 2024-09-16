@@ -1,11 +1,11 @@
 id: 545054853
-type: way
+type: node
 latitude: 49.40988
 longitude: 6.89546
 postcode: "66822"
 city: Lebach
-street: "Heeresstraße"
-housenumber: 8
+street: Heeresstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

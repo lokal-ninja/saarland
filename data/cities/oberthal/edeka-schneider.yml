@@ -1,11 +1,11 @@
 id: 442103158
-type: way
+type: node
 latitude: 49.51086
 longitude: 7.0906
 postcode: "66649"
 city: Oberthal
-street: "Im Brühl"
-housenumber: 15
+street: Im Brühl
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

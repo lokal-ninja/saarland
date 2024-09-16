@@ -4,8 +4,8 @@ latitude: 49.23231
 longitude: 6.99792
 postcode: "66111"
 city: Saarbrücken
-street: "Obertorstraße"
-housenumber: 2
+street: Obertorstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00; PH,Su off
 website: ""

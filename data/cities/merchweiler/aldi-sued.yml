@@ -1,11 +1,11 @@
 id: 976254039
-type: way
+type: node
 latitude: 49.34901
 longitude: 7.05132
 postcode: "66589"
 city: Merchweiler
-street: "Quierschieder Straße"
-housenumber: 17
+street: Quierschieder Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/saarland/merchweiler/quierschieder-strasse-17"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/saarland/merchweiler/quierschieder-strasse-17

@@ -1,11 +1,11 @@
 id: 71011638
-type: way
+type: node
 latitude: 49.46512
 longitude: 7.16346
 postcode: "66606"
 city: Sankt Wendel
-street: "Eisenbahnstraße"
-housenumber: 6
+street: Eisenbahnstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

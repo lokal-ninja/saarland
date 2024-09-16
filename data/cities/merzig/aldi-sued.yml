@@ -1,11 +1,11 @@
 id: 28818801
-type: way
+type: node
 latitude: 49.45441
 longitude: 6.63445
 postcode: "66663"
 city: Merzig
-street: "Im Kieselgarten"
-housenumber: 2
+street: Im Kieselgarten
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

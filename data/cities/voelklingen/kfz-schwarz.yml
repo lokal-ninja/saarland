@@ -1,11 +1,11 @@
 id: 236425726
-type: way
+type: node
 latitude: 49.24801
 longitude: 6.83525
 postcode: "66333"
 city: Völklingen
-street: "Schaffhauser Straße"
-housenumber: 38
+street: Schaffhauser Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

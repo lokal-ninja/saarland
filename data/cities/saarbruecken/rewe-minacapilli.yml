@@ -1,11 +1,11 @@
 id: 747025418
-type: way
+type: node
 latitude: 49.24315
 longitude: 7.05726
 postcode: "66133"
 city: Saarbrücken
-street: "Kaiserstraße"
+street: Kaiserstraße
 housenumber: 43b
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su closed
 website: ""

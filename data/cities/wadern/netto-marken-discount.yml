@@ -1,11 +1,11 @@
 id: 164369905
-type: way
+type: node
 latitude: 49.53766
 longitude: 6.89184
 postcode: "66687"
 city: Wadern
-street: "Im Brühl"
-housenumber: 7
+street: Im Brühl
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/wadern/im-bruehl-7-/3636"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/wadern/im-bruehl-7-/3636

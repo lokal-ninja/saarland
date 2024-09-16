@@ -4,8 +4,8 @@ latitude: 49.30178
 longitude: 6.94399
 postcode: "66292"
 city: Riegelsberg
-street: "Saarbrücker Straße"
-housenumber: 68
+street: Saarbrücker Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; 14:00-18:00"
-website: "https://hoerzukunft.de"
+opening_hours: Mo-Fr 09:00-13:00; 14:00-18:00
+website: https://hoerzukunft.de

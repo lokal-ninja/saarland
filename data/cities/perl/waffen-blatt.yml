@@ -1,11 +1,11 @@
 id: 106614965
-type: way
+type: node
 latitude: 49.47326
 longitude: 6.37511
 postcode: "66706"
 city: Perl
-street: "Bahnhofstraße"
-housenumber: 87
+street: Bahnhofstraße
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

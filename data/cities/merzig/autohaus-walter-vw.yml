@@ -1,11 +1,11 @@
 id: 437002160
-type: way
+type: node
 latitude: 49.46507
 longitude: 6.62005
 postcode: "66663"
 city: Merzig
-street: "Trierer Straße"
-housenumber: 242
+street: Trierer Straße
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 112468937
-type: way
+type: node
 latitude: 49.23968
 longitude: 6.95075
 postcode: "66115"
 city: Saarbrücken
-street: "Leibnizstraße"
-housenumber: 4
+street: Leibnizstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,12:30-16:00; Fr 07:30-12:00,12:30-15:00; Sa open Nach Vereinbarung ; PH,Su closed"
+opening_hours: Mo-Th 07:30-12:00,12:30-16:00; Fr 07:30-12:00,12:30-15:00; Sa open
+    "Nach Vereinbarung "; PH,Su closed
 website: ""

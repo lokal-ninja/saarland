@@ -1,11 +1,11 @@
 id: 148518980
-type: way
+type: node
 latitude: 49.31753
 longitude: 7.15177
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 82a
-phone: "+49 6821 740366"
-opening_hours: "Mo-Sa 07:30-20:00"
+phone: +49 6821 740366
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

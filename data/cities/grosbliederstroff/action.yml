@@ -1,11 +1,11 @@
 id: 289098549
-type: way
+type: node
 latitude: 49.13372
 longitude: 7.04296
 postcode: "57520"
 city: Grosbliederstroff
-street: "Avenue Marchande"
-housenumber: 28
+street: Avenue Marchande
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.action.com/fr-fr/points-de-vente/grosbliederstroff-route-de-sarreguemines/"
+website: https://www.action.com/fr-fr/points-de-vente/grosbliederstroff-route-de-sarreguemines/

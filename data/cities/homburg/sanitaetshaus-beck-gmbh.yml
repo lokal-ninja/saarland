@@ -4,8 +4,8 @@ latitude: 49.32029
 longitude: 7.33651
 postcode: "66424"
 city: Homburg
-street: "Talstraße"
-housenumber: 53
-phone: "+49 6841 2259"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00"
-website: "https://www.sani-speer.de/kontakt"
+street: Talstraße
+housenumber: "53"
+phone: +49 6841 2259
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00
+website: https://www.sani-speer.de/kontakt

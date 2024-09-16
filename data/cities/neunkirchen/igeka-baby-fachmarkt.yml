@@ -1,11 +1,11 @@
 id: 234455509
-type: way
+type: node
 latitude: 49.35067
 longitude: 7.20128
 postcode: "66538"
 city: Neunkirchen
-street: "Bliesstraße"
-housenumber: 58
+street: Bliesstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

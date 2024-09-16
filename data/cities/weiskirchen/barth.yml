@@ -1,11 +1,11 @@
 id: 131312390
-type: way
+type: node
 latitude: 49.55115
 longitude: 6.82775
 postcode: "66709"
 city: Weiskirchen
-street: "Auf der Heide"
-housenumber: 6
+street: Auf der Heide
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

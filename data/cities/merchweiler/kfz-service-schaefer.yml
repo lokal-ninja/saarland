@@ -1,11 +1,11 @@
 id: 240272199
-type: way
+type: node
 latitude: 49.35178
 longitude: 7.05116
 postcode: "66589"
 city: Merchweiler
-street: "Hauptstraße"
-housenumber: 230
+street: Hauptstraße
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

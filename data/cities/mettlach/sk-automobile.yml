@@ -1,11 +1,11 @@
 id: 346529350
-type: way
+type: node
 latitude: 49.49877
 longitude: 6.58517
 postcode: "66693"
 city: Mettlach
-street: "Von-Boch-Liebig-Straße"
-housenumber: 69
+street: Von-Boch-Liebig-Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

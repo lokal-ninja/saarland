@@ -4,8 +4,8 @@ latitude: 49.24116
 longitude: 6.99905
 postcode: "66111"
 city: Saarbrücken
-street: "Ursulinenstraße"
-housenumber: 71
-phone: "+49 681 3799720"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH,Su off"
-website: "https://www.tedox.de/index.php?id=25&no_cache=1&tx_tedoxfilialen_pi1[uid]=69"
+street: Ursulinenstraße
+housenumber: "71"
+phone: +49 681 3799720
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH,Su off
+website: https://www.tedox.de/index.php?id=25&no_cache=1&tx_tedoxfilialen_pi1[uid]=69

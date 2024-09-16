@@ -1,11 +1,11 @@
 id: 186895235
-type: way
+type: node
 latitude: 49.2707
 longitude: 6.79253
 postcode: "66787"
 city: Wadgassen
-street: "Saarstraße"
-housenumber: 20
+street: Saarstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://outlet-wadgassen.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://outlet-wadgassen.de/

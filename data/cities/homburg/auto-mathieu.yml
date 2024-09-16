@@ -1,11 +1,11 @@
 id: 320978755
-type: way
+type: node
 latitude: 49.29085
 longitude: 7.31901
 postcode: "66424"
 city: Homburg
-street: "Einöder Straße"
-housenumber: 27
+street: Einöder Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

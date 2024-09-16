@@ -1,11 +1,11 @@
 id: 736770954
-type: way
+type: node
 latitude: 49.22773
 longitude: 7.01972
 postcode: "66121"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 150
+street: Mainzer Straße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-16:30; Sa,Su,PH off"
+opening_hours: Mo-Fr 07:30-12:00,13:00-16:30; Sa,Su,PH off
 website: ""

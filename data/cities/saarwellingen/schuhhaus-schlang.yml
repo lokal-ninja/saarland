@@ -1,11 +1,11 @@
 id: 286924393
-type: way
+type: node
 latitude: 49.36179
 longitude: 6.88123
 postcode: "66793"
 city: Saarwellingen
-street: "Kirchenstraße"
-housenumber: 93
+street: Kirchenstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

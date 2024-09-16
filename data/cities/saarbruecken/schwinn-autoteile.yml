@@ -1,11 +1,11 @@
 id: 92218371
-type: way
+type: node
 latitude: 49.2076
 longitude: 7.04188
 postcode: "66130"
 city: Saarbrücken
-street: "Kurt-Schumacher-Straße"
-housenumber: 42
+street: Kurt-Schumacher-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30; PH,Sa-Su closed"
+opening_hours: Mo-Fr 07:30-16:30; PH,Sa-Su closed
 website: ""

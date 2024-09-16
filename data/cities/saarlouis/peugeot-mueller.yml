@@ -1,11 +1,11 @@
 id: 114556630
-type: way
+type: node
 latitude: 49.30584
 longitude: 6.7398
 postcode: "66740"
 city: Saarlouis
-street: "Fasanenallee"
-housenumber: 3
+street: Fasanenallee
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.peugeot-mueller-saarlouis.de"
+website: http://www.peugeot-mueller-saarlouis.de

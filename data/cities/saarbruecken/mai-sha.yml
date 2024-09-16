@@ -4,8 +4,8 @@ latitude: 49.23599
 longitude: 6.99849
 postcode: "66111"
 city: Saarbrücken
-street: "Cecilienstraße"
-housenumber: 16
+street: Cecilienstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr open nach Vereinbarung , Sa 10:00-16:00; Mo,Su,PH off"
+opening_hours: Tu-Fr open "nach Vereinbarung ", Sa 10:00-16:00; Mo,Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 976254040
-type: way
+type: node
 latitude: 49.34856
 longitude: 7.05127
 postcode: "66589"
 city: Merchweiler
-street: "Quierschieder Straße"
-housenumber: 19
+street: Quierschieder Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 93572385
-type: way
+type: node
 latitude: 49.20758
 longitude: 6.83769
 postcode: "66352"
 city: Großrosseln
-street: "Ludweilerstraße"
-housenumber: 32
+street: Ludweilerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

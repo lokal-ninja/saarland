@@ -1,11 +1,11 @@
 id: 705395678
-type: way
+type: node
 latitude: 49.12375
 longitude: 7.05468
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Brachalmeth"
-housenumber: 1
+street: Brachalmeth
+housenumber: "1"
 phone: "+496805913502"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

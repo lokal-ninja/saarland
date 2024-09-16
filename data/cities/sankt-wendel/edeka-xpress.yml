@@ -1,11 +1,11 @@
 id: 184427855
-type: way
+type: node
 latitude: 49.46445
 longitude: 7.24879
 postcode: "66606"
 city: Sankt Wendel
-street: "Kuseler Straße"
-housenumber: 1
+street: Kuseler Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

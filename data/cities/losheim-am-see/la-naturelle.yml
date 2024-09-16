@@ -4,8 +4,8 @@ latitude: 49.50738
 longitude: 6.75145
 postcode: "66679"
 city: Losheim am See
-street: "Haagstraße"
-housenumber: 16
+street: Haagstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:30"
-website: "https://lanaturelle.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:30
+website: https://lanaturelle.de/

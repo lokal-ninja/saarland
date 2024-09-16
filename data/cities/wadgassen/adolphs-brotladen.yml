@@ -1,11 +1,11 @@
 id: 320051233
-type: way
+type: node
 latitude: 49.25873
 longitude: 6.81196
 postcode: "66787"
 city: Wadgassen
-street: "Provinzialstraße"
-housenumber: 85
+street: Provinzialstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

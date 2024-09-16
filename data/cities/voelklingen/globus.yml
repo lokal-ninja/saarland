@@ -1,11 +1,11 @@
 id: 26758242
-type: way
+type: node
 latitude: 49.24917
 longitude: 6.84965
 postcode: "66333"
 city: Völklingen
-street: "Rathausstraße"
-housenumber: 53
+street: Rathausstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 818040579
-type: way
+type: node
 latitude: 49.23563
 longitude: 7.27045
 postcode: "66440"
 city: Blieskastel
-street: "Zum Gunterstal"
-housenumber: 1
-phone: "+49 6842 8915202"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.baeckerei-lenert.de/"
+street: Zum Gunterstal
+housenumber: "1"
+phone: +49 6842 8915202
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.baeckerei-lenert.de/

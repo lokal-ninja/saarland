@@ -1,11 +1,11 @@
 id: 131598899
-type: way
+type: node
 latitude: 49.35675
 longitude: 6.78921
 postcode: "66793"
 city: Saarwellingen
-street: "Werner-von-Siemens-Straße"
-housenumber: 20
+street: Werner-von-Siemens-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

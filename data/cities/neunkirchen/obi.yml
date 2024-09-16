@@ -1,11 +1,11 @@
 id: 83618880
-type: way
+type: node
 latitude: 49.35106
 longitude: 7.20611
 postcode: "66538"
 city: Neunkirchen
-street: "Bliesstraße"
-housenumber: 80
+street: Bliesstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.obi.de/"
+website: https://www.obi.de/

@@ -1,11 +1,11 @@
 id: 197977858
-type: way
+type: node
 latitude: 49.16439
 longitude: 7.08922
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Wendalinusstraße"
-housenumber: 4
-phone: "+49 6805 7103"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:30; Su, PH off"
-website: "https://bliestal-markt.business.site/"
+street: Wendalinusstraße
+housenumber: "4"
+phone: +49 6805 7103
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:30; Su, PH off
+website: https://bliestal-markt.business.site/

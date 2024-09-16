@@ -1,11 +1,11 @@
 id: 242578493
-type: way
+type: node
 latitude: 49.38112
 longitude: 7.11931
 postcode: "66578"
 city: Schiffweiler
-street: "Zum Klopp"
-housenumber: 42
+street: Zum Klopp
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

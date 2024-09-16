@@ -1,11 +1,11 @@
 id: 590583347
-type: way
+type: node
 latitude: 49.37572
 longitude: 7.09689
 postcode: "66589"
 city: Merchweiler
-street: "Stennweilerstraße"
-housenumber: 43
+street: Stennweilerstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

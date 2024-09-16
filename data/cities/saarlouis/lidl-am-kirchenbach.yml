@@ -1,11 +1,11 @@
 id: 354135245
-type: way
+type: node
 latitude: 49.32752
 longitude: 6.7583
 postcode: "66740"
 city: Saarlouis
-street: "Am Kirchenbach"
-housenumber: 44
+street: Am Kirchenbach
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

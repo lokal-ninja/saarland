@@ -1,11 +1,12 @@
 id: 87290377
-type: way
+type: node
 latitude: 49.23899
 longitude: 6.96419
 postcode: "66115"
 city: Saarbrücken
-street: "Angela-Braun-Straße"
-housenumber: 14
+street: Angela-Braun-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 14:00-17:00 Sonntag keine Beratung und kein Verkauf "
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su 14:00-17:00 "Sonntag keine Beratung
+    und kein Verkauf "
 website: ""

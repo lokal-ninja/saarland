@@ -1,11 +1,11 @@
 id: 334843386
-type: way
+type: node
 latitude: 49.30368
 longitude: 6.89929
 postcode: "66346"
 city: Püttlingen
-street: "Am Kirchenpfad"
-housenumber: 2
+street: Am Kirchenpfad
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

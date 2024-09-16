@@ -4,8 +4,9 @@ latitude: 49.2515
 longitude: 6.88822
 postcode: "66333"
 city: Völklingen
-street: "Straße des 13. Januar"
-housenumber: 198
+street: Straße des 13. Januar
+housenumber: "198"
 phone: ""
-opening_hours: "Apr-Jun,Sep-Nov Mo-Fr 09:00-18:00; Apr-Jun,Sep-Nov Sa 09:00-14:00; PH,Su closed"
+opening_hours: Apr-Jun,Sep-Nov Mo-Fr 09:00-18:00; Apr-Jun,Sep-Nov Sa 09:00-14:00;
+    PH,Su closed
 website: ""

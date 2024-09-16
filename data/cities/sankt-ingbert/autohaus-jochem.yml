@@ -1,11 +1,11 @@
 id: 97682997
-type: way
+type: node
 latitude: 49.27636
 longitude: 7.09018
 postcode: "66386"
 city: Sankt Ingbert
-street: "Dudweilerstraße"
-housenumber: 90
+street: Dudweilerstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
 website: ""

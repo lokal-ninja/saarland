@@ -1,11 +1,11 @@
 id: 219694197
-type: way
+type: node
 latitude: 49.34958
 longitude: 7.18088
 postcode: "66538"
 city: Neunkirchen
-street: "Karl-Schneider-Straße"
-housenumber: 5
+street: Karl-Schneider-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

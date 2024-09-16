@@ -1,11 +1,11 @@
 id: 148323817
-type: way
+type: node
 latitude: 49.34905
 longitude: 7.26757
 postcode: "66450"
 city: Bexbach
-street: "Hochstraße"
-housenumber: 6
+street: Hochstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/bexbach/hochstr-6.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/bexbach/hochstr-6.html

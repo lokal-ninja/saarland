@@ -1,11 +1,11 @@
 id: 360776793
-type: way
+type: node
 latitude: 49.31762
 longitude: 7.32356
 postcode: "66424"
 city: Homburg
-street: "Saarbrücker Straße"
-housenumber: 116
-phone: "+49 6841 1764790"
+street: Saarbrücker Straße
+housenumber: "116"
+phone: +49 6841 1764790
 opening_hours: ""
-website: "https://www.parkettmann.eu/"
+website: https://www.parkettmann.eu/

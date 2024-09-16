@@ -1,11 +1,11 @@
 id: 346258463
-type: way
+type: node
 latitude: 49.46646
 longitude: 6.68038
 postcode: "66663"
 city: Merzig
-street: "Provinzialstraße"
-housenumber: 53
+street: Provinzialstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 196280308
-type: way
+type: node
 latitude: 49.24832
 longitude: 6.87228
 postcode: "66333"
 city: Völklingen
-street: "Zechenstraße"
-housenumber: 8
+street: Zechenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

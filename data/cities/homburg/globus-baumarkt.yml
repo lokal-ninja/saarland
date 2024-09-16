@@ -1,11 +1,11 @@
 id: 27768346
-type: way
+type: node
 latitude: 49.31516
 longitude: 7.33288
 postcode: "66424"
 city: Homburg
-street: "Am Forum"
-housenumber: 6
+street: Am Forum
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.globus-baumarkt.de"
+website: https://www.globus-baumarkt.de

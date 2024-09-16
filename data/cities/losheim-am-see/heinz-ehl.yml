@@ -4,8 +4,8 @@ latitude: 49.50704
 longitude: 6.74799
 postcode: "66679"
 city: Losheim am See
-street: "Saarbrücker Straße"
-housenumber: 31
-phone: "+49 6872 9639852"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.heinz-ehl.de/"
+street: Saarbrücker Straße
+housenumber: "31"
+phone: +49 6872 9639852
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.heinz-ehl.de/

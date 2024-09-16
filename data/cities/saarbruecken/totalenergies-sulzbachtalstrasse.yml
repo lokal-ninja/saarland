@@ -1,11 +1,11 @@
 id: 975298558
-type: way
+type: node
 latitude: 49.26693
 longitude: 7.01107
 postcode: "66125"
 city: Saarbrücken
-street: "Sulzbachtalstraße"
-housenumber: 19
-phone: "+49 681 3908027"
-opening_hours: "PH,Mo-Su 06:00-22:00"
+street: Sulzbachtalstraße
+housenumber: "19"
+phone: +49 681 3908027
+opening_hours: PH,Mo-Su 06:00-22:00
 website: ""

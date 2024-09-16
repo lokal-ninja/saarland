@@ -1,11 +1,11 @@
 id: 215436315
-type: way
+type: node
 latitude: 49.23984
 longitude: 6.96545
 postcode: "66115"
 city: Saarbrücken
-street: "Angela-Braun-Straße"
-housenumber: 8
+street: Angela-Braun-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-16:00; PH,Sa-Su closed"
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-16:00; PH,Sa-Su closed
 website: ""

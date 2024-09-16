@@ -4,8 +4,8 @@ latitude: 49.44409
 longitude: 6.96163
 postcode: "66822"
 city: Lebach
-street: "Schaumbergstraße"
-housenumber: 92
-phone: "+49 6888 900595"
-opening_hours: "Mo-Sa 08:00-12:00; Tu 14:00-17:00; Th-Fr 14:00-17:00"
+street: Schaumbergstraße
+housenumber: "92"
+phone: +49 6888 900595
+opening_hours: Mo-Sa 08:00-12:00; Tu 14:00-17:00; Th-Fr 14:00-17:00
 website: ""

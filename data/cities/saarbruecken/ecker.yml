@@ -1,11 +1,11 @@
 id: 700522365
-type: way
+type: node
 latitude: 49.23786
 longitude: 6.99122
 postcode: "66111"
 city: Saarbrücken
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 101A
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:30, Sa 08:00-19:30; PH,Su off"
+opening_hours: Mo-Fr 06:30-19:30, Sa 08:00-19:30; PH,Su off
 website: ""

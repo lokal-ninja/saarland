@@ -1,11 +1,11 @@
 id: 222218091
-type: way
+type: node
 latitude: 49.51621
 longitude: 7.15655
 postcode: "66640"
 city: Namborn
-street: "Allerburg"
-housenumber: 15
-phone: "+49 6857 675470"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-schneider-allerburg-15/index.jsp"
+street: Allerburg
+housenumber: "15"
+phone: +49 6857 675470
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-schneider-allerburg-15/index.jsp

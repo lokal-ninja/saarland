@@ -1,11 +1,11 @@
 id: 184718033
-type: way
+type: node
 latitude: 49.57003
 longitude: 7.08348
 postcode: "66625"
 city: Nohfelden
-street: "Lindenallee"
-housenumber: 1
+street: Lindenallee
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

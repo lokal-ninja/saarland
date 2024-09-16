@@ -1,11 +1,11 @@
 id: 336642299
-type: way
+type: node
 latitude: 49.28559
 longitude: 7.14961
 postcode: "66386"
 city: Sankt Ingbert
-street: "Obere Kaiserstraße"
-housenumber: 3
+street: Obere Kaiserstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

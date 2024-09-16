@@ -4,8 +4,8 @@ latitude: 49.2319
 longitude: 6.9882
 postcode: "66117"
 city: Saarbrücken
-street: "Eisenbahnstraße"
-housenumber: 4
+street: Eisenbahnstraße
+housenumber: "4"
 phone: "+4968194007325"
-opening_hours: "nach Vereinbarung"
-website: "https://www.beautylounge-spa.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.beautylounge-spa.de/

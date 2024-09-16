@@ -1,11 +1,11 @@
 id: 52349046
-type: way
+type: node
 latitude: 49.32701
 longitude: 7.2206
 postcode: "66539"
 city: Neunkirchen
-street: "Ludwigsthaler Straße"
-housenumber: 2
+street: Ludwigsthaler Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

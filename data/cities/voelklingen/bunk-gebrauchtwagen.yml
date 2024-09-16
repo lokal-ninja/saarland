@@ -1,11 +1,11 @@
 id: 93125308
-type: way
+type: node
 latitude: 49.24812
 longitude: 6.85965
 postcode: "66333"
 city: Völklingen
-street: "Karolingerstraße"
-housenumber: 2
+street: Karolingerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

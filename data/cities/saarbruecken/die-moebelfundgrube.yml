@@ -1,11 +1,11 @@
 id: 93631504
-type: way
+type: node
 latitude: 49.23012
 longitude: 7.02033
 postcode: "66123"
 city: Saarbrücken
-street: "Am Kieselhumes"
-housenumber: 1
+street: Am Kieselhumes
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su closed"
+opening_hours: Mo-Sa 10:00-19:00; PH,Su closed
 website: ""

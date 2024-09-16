@@ -1,11 +1,11 @@
 id: 229039838
-type: way
+type: node
 latitude: 49.44022
 longitude: 6.87203
 postcode: "66839"
 city: Schmelz
-street: "Am Erzweg"
-housenumber: 2
-phone: "+49 6887 90100"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.bodo-schmidt.de"
+street: Am Erzweg
+housenumber: "2"
+phone: +49 6887 90100
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.bodo-schmidt.de

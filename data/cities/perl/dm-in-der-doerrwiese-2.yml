@@ -1,11 +1,11 @@
 id: 657222007
-type: way
+type: node
 latitude: 49.4737
 longitude: 6.37259
 postcode: "66706"
 city: Perl
-street: "In der Dörrwiese"
-housenumber: 3
+street: In der Dörrwiese
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

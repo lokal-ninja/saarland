@@ -1,11 +1,11 @@
 id: 72135541
-type: way
+type: node
 latitude: 49.4677
 longitude: 7.15867
 postcode: "66606"
 city: Sankt Wendel
-street: "Tholeyer Straße"
-housenumber: 56
+street: Tholeyer Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.lampen-kaiser.de/"
+website: https://www.lampen-kaiser.de/

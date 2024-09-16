@@ -1,11 +1,11 @@
 id: 1010723169
-type: way
+type: node
 latitude: 49.48679
 longitude: 7.1252
 postcode: "66606"
 city: Sankt Wendel
-street: "Am Hottenwald"
-housenumber: 1
+street: Am Hottenwald
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

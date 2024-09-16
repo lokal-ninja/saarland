@@ -1,11 +1,11 @@
 id: 944660091
-type: way
+type: node
 latitude: 49.51841
 longitude: 6.37584
 postcode: "66706"
 city: Perl
-street: "Erlenweg"
-housenumber: 6
+street: Erlenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

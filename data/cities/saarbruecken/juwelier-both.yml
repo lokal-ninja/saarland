@@ -4,8 +4,8 @@ latitude: 49.2377
 longitude: 6.99129
 postcode: "66111"
 city: Saarbrücken
-street: "Bahnhofstraße"
-housenumber: 101
+street: Bahnhofstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:00; PH,Su closed"
+opening_hours: Mo-Sa 10:30-18:00; PH,Su closed
 website: ""

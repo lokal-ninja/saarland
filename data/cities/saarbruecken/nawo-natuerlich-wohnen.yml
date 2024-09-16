@@ -4,8 +4,8 @@ latitude: 49.23557
 longitude: 6.99728
 postcode: "66111"
 city: Saarbrücken
-street: "Johannisstraße"
-housenumber: 3
-phone: "+49 681 635561"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-16:00; PH,Mo,Su off"
-website: "https://www.na-wo.de/"
+street: Johannisstraße
+housenumber: "3"
+phone: +49 681 635561
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-16:00; PH,Mo,Su off
+website: https://www.na-wo.de/

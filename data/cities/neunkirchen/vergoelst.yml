@@ -1,11 +1,11 @@
 id: 213217442
-type: way
+type: node
 latitude: 49.35495
 longitude: 7.21692
 postcode: "66539"
 city: Neunkirchen
-street: "Krummeg"
-housenumber: 2
+street: Krummeg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 315864121
-type: way
+type: node
 latitude: 49.28877
 longitude: 7.21896
 postcode: "66459"
 city: Kirkel
-street: "Am Neunkircher Weg"
-housenumber: 1
+street: Am Neunkircher Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

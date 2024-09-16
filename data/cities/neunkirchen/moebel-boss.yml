@@ -1,11 +1,11 @@
 id: 51596719
-type: way
+type: node
 latitude: 49.33918
 longitude: 7.17098
 postcode: "66538"
 city: Neunkirchen
-street: "Am Gneisenauflöz"
-housenumber: 6
+street: Am Gneisenauflöz
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://moebel-boss.de/"
+website: https://moebel-boss.de/

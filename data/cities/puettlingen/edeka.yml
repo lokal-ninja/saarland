@@ -1,11 +1,11 @@
 id: 119448717
-type: way
+type: node
 latitude: 49.30066
 longitude: 6.89433
 postcode: "66346"
 city: Püttlingen
-street: "Fresagrandinariastraße"
-housenumber: 2
+street: Fresagrandinariastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

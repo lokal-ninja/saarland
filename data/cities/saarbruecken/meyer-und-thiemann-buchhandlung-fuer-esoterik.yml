@@ -4,8 +4,8 @@ latitude: 49.23095
 longitude: 6.9909
 postcode: "66119"
 city: Saarbrücken
-street: "Am Schloßberg"
-housenumber: 1
+street: Am Schloßberg
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 13:00-17:00, Sa 13:00-15:00, Su,Mo off"
+opening_hours: Tu-Fr 13:00-17:00, Sa 13:00-15:00, Su,Mo off
 website: ""

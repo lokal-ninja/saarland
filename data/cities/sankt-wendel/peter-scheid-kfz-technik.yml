@@ -1,11 +1,11 @@
 id: 221011591
-type: way
+type: node
 latitude: 49.47258
 longitude: 7.10163
 postcode: "66606"
 city: Sankt Wendel
-street: "Winterbacher Straße"
+street: Winterbacher Straße
 housenumber: 29a
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-peter-scheid.de/"
+website: https://www.kfz-peter-scheid.de/

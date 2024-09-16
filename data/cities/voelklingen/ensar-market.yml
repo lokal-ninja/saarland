@@ -1,11 +1,11 @@
 id: 306620253
-type: way
+type: node
 latitude: 49.25197
 longitude: 6.8543
 postcode: "66333"
 city: Völklingen
-street: "Hofstattstraße"
-housenumber: 36
+street: Hofstattstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

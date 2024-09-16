@@ -1,11 +1,11 @@
 id: 142926162
-type: way
+type: node
 latitude: 49.33969
 longitude: 7.33681
 postcode: "66424"
 city: Homburg
-street: "Berliner Straße"
-housenumber: 120
+street: Berliner Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/saarland/homburg/berliner-strasse-120"
+website: https://filialen.aldi-sued.de/saarland/homburg/berliner-strasse-120

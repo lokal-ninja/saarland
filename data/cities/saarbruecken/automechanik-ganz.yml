@@ -1,11 +1,11 @@
 id: 444714469
-type: way
+type: node
 latitude: 49.20957
 longitude: 7.03705
 postcode: "66130"
 city: Saarbrücken
-street: "Am Zementwerk"
-housenumber: 19
-phone: "+49 171 7560630"
-opening_hours: "Mo-Fr 08:30-17:00; PH off"
-website: "https://amganz.de"
+street: Am Zementwerk
+housenumber: "19"
+phone: +49 171 7560630
+opening_hours: Mo-Fr 08:30-17:00; PH off
+website: https://amganz.de

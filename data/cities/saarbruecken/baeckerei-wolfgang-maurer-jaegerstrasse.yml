@@ -4,8 +4,8 @@ latitude: 49.27575
 longitude: 7.01338
 postcode: "66125"
 city: Saarbrücken
-street: "Jägerstraße"
-housenumber: 30
+street: Jägerstraße
+housenumber: "30"
 phone: "+49689772659"
-opening_hours: "Mo-Fr 06:00-12:00,15:00-18:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 06:00-12:00,15:00-18:00; Sa 06:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 115191352
-type: way
+type: node
 latitude: 49.28119
 longitude: 6.7866
 postcode: "66359"
 city: Bous
-street: "Saarbrücker Straße"
-housenumber: 179
+street: Saarbrücker Straße
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

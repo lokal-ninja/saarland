@@ -1,11 +1,11 @@
 id: 154463697
-type: way
+type: node
 latitude: 49.40756
 longitude: 7.14714
 postcode: "66564"
 city: Ottweiler
-street: "Maria-Juchacz-Ring"
-housenumber: 2
+street: Maria-Juchacz-Ring
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

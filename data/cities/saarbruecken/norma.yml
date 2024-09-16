@@ -1,11 +1,11 @@
 id: 87287271
-type: way
+type: node
 latitude: 49.24579
 longitude: 6.91655
 postcode: "66126"
 city: Saarbrücken
-street: "Provinzialstraße"
-housenumber: 58
+street: Provinzialstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su closed"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su closed
 website: ""

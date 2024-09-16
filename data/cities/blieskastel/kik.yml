@@ -1,11 +1,11 @@
 id: 750942703
-type: way
+type: node
 latitude: 49.24666
 longitude: 7.26013
 postcode: "66440"
 city: Blieskastel
-street: "Florianstraße"
-housenumber: 26
+street: Florianstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

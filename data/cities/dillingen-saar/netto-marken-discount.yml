@@ -1,11 +1,11 @@
 id: 204311494
-type: way
+type: node
 latitude: 49.356
 longitude: 6.71953
 postcode: "66763"
 city: Dillingen/Saar
-street: "Merziger Straße"
-housenumber: 77
+street: Merziger Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

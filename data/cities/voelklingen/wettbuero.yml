@@ -1,11 +1,11 @@
 id: 145579665
-type: way
+type: node
 latitude: 49.17616
 longitude: 6.73213
 postcode: "66333"
 city: Völklingen
-street: "Hauptstraße"
-housenumber: 287
+street: Hauptstraße
+housenumber: "287"
 phone: ""
 opening_hours: ""
 website: ""

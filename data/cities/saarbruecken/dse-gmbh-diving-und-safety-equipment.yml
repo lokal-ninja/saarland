@@ -4,8 +4,8 @@ latitude: 49.24527
 longitude: 7.05983
 postcode: "66133"
 city: Saarbrücken
-street: "Scheidterbergstraße"
-housenumber: 2
+street: Scheidterbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 10:00-13:00,15:00-19:00; We,Sa 10:00-14:00; PH,Su closed"
+opening_hours: Mo-Tu,Th-Fr 10:00-13:00,15:00-19:00; We,Sa 10:00-14:00; PH,Su closed
 website: ""

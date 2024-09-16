@@ -1,11 +1,11 @@
 id: 678829761
-type: way
+type: node
 latitude: 49.31033
 longitude: 7.08058
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Sulzbachtalstraße"
-housenumber: 229
+street: Sulzbachtalstraße
+housenumber: "229"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/Sulzbach/Sulzbachtalstr-227-229/3640/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/Sulzbach/Sulzbachtalstr-227-229/3640/

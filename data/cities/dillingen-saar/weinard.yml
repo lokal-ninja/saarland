@@ -1,11 +1,11 @@
 id: 781273653
-type: way
+type: node
 latitude: 49.3726
 longitude: 6.71188
 postcode: "66763"
 city: Dillingen/Saar
-street: "Dieselstraße"
-housenumber: 26
+street: Dieselstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

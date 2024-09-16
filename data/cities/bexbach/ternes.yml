@@ -1,11 +1,11 @@
 id: 224244055
-type: way
+type: node
 latitude: 49.35844
 longitude: 7.27543
 postcode: "66450"
 city: Bexbach
-street: "Saarpfalz-Park"
-housenumber: 217
+street: Saarpfalz-Park
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

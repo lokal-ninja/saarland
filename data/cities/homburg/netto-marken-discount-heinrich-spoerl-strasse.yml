@@ -1,11 +1,11 @@
 id: 727541514
-type: way
+type: node
 latitude: 49.27509
 longitude: 7.31449
 postcode: "66424"
 city: Homburg
-street: "Heinrich-Spoerl-Straße"
-housenumber: 2
+street: Heinrich-Spoerl-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 320997650
-type: way
+type: node
 latitude: 49.43664
 longitude: 6.63151
 postcode: "66663"
 city: Merzig
-street: "Rieffstraße"
-housenumber: 9
+street: Rieffstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

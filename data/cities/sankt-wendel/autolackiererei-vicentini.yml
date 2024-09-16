@@ -1,11 +1,11 @@
 id: 111732576
-type: way
+type: node
 latitude: 49.43569
 longitude: 7.12535
 postcode: "66606"
 city: Sankt Wendel
-street: "Dr.-Franz-Schmitt-Straße"
-housenumber: 15
+street: Dr.-Franz-Schmitt-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.autolackiererei-vicentini.de"
+website: http://www.autolackiererei-vicentini.de

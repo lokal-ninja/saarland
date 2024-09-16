@@ -1,11 +1,11 @@
 id: 137226538
-type: way
+type: node
 latitude: 49.35173
 longitude: 6.80508
 postcode: "66793"
 city: Saarwellingen
-street: "Vorstadtstraße"
-housenumber: 21
+street: Vorstadtstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00
 website: ""

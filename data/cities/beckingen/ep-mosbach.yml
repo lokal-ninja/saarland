@@ -1,11 +1,11 @@
 id: 230544783
-type: way
+type: node
 latitude: 49.39766
 longitude: 6.71237
 postcode: "66701"
 city: Beckingen
-street: "Sankweg"
-housenumber: 1
-phone: "+49 6835 93020"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.epmosbach.de/"
+street: Sankweg
+housenumber: "1"
+phone: +49 6835 93020
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.epmosbach.de/

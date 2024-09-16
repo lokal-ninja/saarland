@@ -1,11 +1,11 @@
 id: 27693798
-type: way
+type: node
 latitude: 49.34644
 longitude: 7.17386
 postcode: "66538"
 city: Neunkirchen
-street: "Stummplatz"
-housenumber: 1
+street: Stummplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.saarpark-center.de/"
+website: https://www.saarpark-center.de/

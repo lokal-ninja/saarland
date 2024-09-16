@@ -1,11 +1,11 @@
 id: 360776072
-type: way
+type: node
 latitude: 49.33012
 longitude: 7.34762
 postcode: "66424"
 city: Homburg
-street: "Mainzer Straße"
-housenumber: 75
+street: Mainzer Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

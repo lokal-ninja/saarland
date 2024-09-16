@@ -1,11 +1,11 @@
 id: 247486637
-type: way
+type: node
 latitude: 49.44053
 longitude: 6.85692
 postcode: "66839"
 city: Schmelz
-street: "Lindenstraße"
-housenumber: 1
+street: Lindenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

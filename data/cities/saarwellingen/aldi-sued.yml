@@ -1,11 +1,11 @@
 id: 696728021
-type: way
+type: node
 latitude: 49.35043
 longitude: 6.80599
 postcode: "66793"
 city: Saarwellingen
-street: "Zur Breitwies"
-housenumber: 1
+street: Zur Breitwies
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

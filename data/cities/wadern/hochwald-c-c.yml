@@ -1,11 +1,11 @@
 id: 202497208
-type: way
+type: node
 latitude: 49.53257
 longitude: 6.89449
 postcode: "66687"
 city: Wadern
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

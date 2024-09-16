@@ -1,11 +1,11 @@
 id: 357435426
-type: way
+type: node
 latitude: 49.31149
 longitude: 7.06572
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Grühlingstraße"
-housenumber: 94
+street: Grühlingstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/AUTOHAUSULRICHGMBH#about"
+website: https://home.mobile.de/AUTOHAUSULRICHGMBH#about

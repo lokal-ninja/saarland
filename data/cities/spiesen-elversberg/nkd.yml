@@ -1,11 +1,11 @@
 id: 260787181
-type: way
+type: node
 latitude: 49.31308
 longitude: 7.12741
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "St.Ingberter Straße"
-housenumber: 13
+street: St.Ingberter Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

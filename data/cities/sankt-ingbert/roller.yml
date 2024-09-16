@@ -1,11 +1,11 @@
 id: 814275200
-type: way
+type: node
 latitude: 49.27096
 longitude: 7.12922
 postcode: "66386"
 city: Sankt Ingbert
-street: "Oststraße"
-housenumber: 78
+street: Oststraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

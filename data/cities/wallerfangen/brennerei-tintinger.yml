@@ -1,11 +1,11 @@
 id: 335576273
-type: way
+type: node
 latitude: 49.32283
 longitude: 6.60428
 postcode: "66798"
 city: Wallerfangen
-street: "Im Ecken"
-housenumber: 4
+street: Im Ecken
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

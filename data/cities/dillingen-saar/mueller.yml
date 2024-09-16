@@ -1,11 +1,11 @@
 id: 374576379
-type: way
+type: node
 latitude: 49.34701
 longitude: 6.71152
 postcode: "66763"
 city: Dillingen/Saar
-street: "Konrad-Adenauer-Allee"
-housenumber: 8
+street: Konrad-Adenauer-Allee
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 736770956
-type: way
+type: node
 latitude: 49.22837
 longitude: 7.0202
 postcode: "66121"
 city: Saarbrücken
-street: "Halbergstraße"
-housenumber: 122
+street: Halbergstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

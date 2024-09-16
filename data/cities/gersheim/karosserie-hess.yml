@@ -1,11 +1,11 @@
 id: 218233462
-type: way
+type: node
 latitude: 49.15699
 longitude: 7.21215
 postcode: "66453"
 city: Gersheim
-street: "Industriegebiet"
-housenumber: 36
+street: Industriegebiet
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

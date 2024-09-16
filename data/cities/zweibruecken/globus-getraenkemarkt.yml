@@ -1,11 +1,11 @@
 id: 27622239
-type: way
+type: node
 latitude: 49.26247
 longitude: 7.3377
 postcode: "66482"
 city: Zweibrücken
-street: "Saarpfalzstraße"
-housenumber: 14
+street: Saarpfalzstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

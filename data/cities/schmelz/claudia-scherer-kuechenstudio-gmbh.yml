@@ -1,11 +1,11 @@
 id: 155558813
-type: way
+type: node
 latitude: 49.43463
 longitude: 6.84529
 postcode: "66839"
 city: Schmelz
-street: "Hoher Staden"
-housenumber: 13
+street: Hoher Staden
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.schererkuechen.de/"
+website: https://www.schererkuechen.de/

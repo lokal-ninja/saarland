@@ -1,11 +1,11 @@
 id: 142674826
-type: way
+type: node
 latitude: 49.34383
 longitude: 7.23585
 postcode: "66539"
 city: Neunkirchen
-street: "Am Ochsenwald"
-housenumber: 5
+street: Am Ochsenwald
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

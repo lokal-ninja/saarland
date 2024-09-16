@@ -1,11 +1,11 @@
 id: 111748777
-type: way
+type: node
 latitude: 49.39362
 longitude: 7.11263
 postcode: "66578"
 city: Schiffweiler
-street: "Welschbacher Straße"
-housenumber: 21
+street: Welschbacher Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "http://www.mbautomobile.net"
+website: http://www.mbautomobile.net

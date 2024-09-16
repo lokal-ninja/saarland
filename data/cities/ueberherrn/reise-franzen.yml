@@ -1,11 +1,11 @@
 id: 321461728
-type: way
+type: node
 latitude: 49.24258
 longitude: 6.69802
 postcode: "66802"
 city: Überherrn
-street: "Alleestraße"
-housenumber: 11
+street: Alleestraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

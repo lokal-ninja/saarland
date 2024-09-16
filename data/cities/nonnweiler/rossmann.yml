@@ -1,11 +1,11 @@
 id: 155967405
-type: way
+type: node
 latitude: 49.60343
 longitude: 6.98833
 postcode: "66620"
 city: Nonnweiler
-street: "Hochwaldstraße"
-housenumber: 25
+street: Hochwaldstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

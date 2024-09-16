@@ -1,11 +1,11 @@
 id: 26116297
-type: way
+type: node
 latitude: 49.55198
 longitude: 7.24037
 postcode: "66629"
 city: Freisen
-street: "Bahnhofstraße"
-housenumber: 54
+street: Bahnhofstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

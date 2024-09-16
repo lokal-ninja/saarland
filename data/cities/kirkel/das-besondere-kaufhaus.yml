@@ -1,11 +1,11 @@
 id: 265482183
-type: way
+type: node
 latitude: 49.31627
 longitude: 7.27254
 postcode: "66459"
 city: Kirkel
-street: "Hauptstraße"
-housenumber: 60
+street: Hauptstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

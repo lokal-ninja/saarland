@@ -1,11 +1,11 @@
 id: 134520929
-type: way
+type: node
 latitude: 49.40664
 longitude: 6.95466
 postcode: "66571"
 city: Eppelborn
-street: "Rathausstraße"
-housenumber: 114
+street: Rathausstraße
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 207627710
-type: way
+type: node
 latitude: 49.35275
 longitude: 7.18028
 postcode: "66538"
 city: Neunkirchen
-street: "Auguststraße"
-housenumber: 6
+street: Auguststraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

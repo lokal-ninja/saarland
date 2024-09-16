@@ -1,11 +1,11 @@
 id: 304091460
-type: way
+type: node
 latitude: 49.25249
 longitude: 6.8776
 postcode: "66333"
 city: Völklingen
-street: "Straße des 13. Januar"
-housenumber: 88
+street: Straße des 13. Januar
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

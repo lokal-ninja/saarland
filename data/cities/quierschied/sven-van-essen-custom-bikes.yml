@@ -1,11 +1,11 @@
 id: 292166750
-type: way
+type: node
 latitude: 49.30369
 longitude: 7.02577
 postcode: "66287"
 city: Quierschied
-street: "Talstraße"
-housenumber: 38
+street: Talstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

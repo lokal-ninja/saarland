@@ -1,11 +1,11 @@
 id: 241008533
-type: way
+type: node
 latitude: 49.3357
 longitude: 7.17277
 postcode: "66538"
 city: Neunkirchen
-street: "An der Alten Ziegelei"
-housenumber: 11
+street: An der Alten Ziegelei
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:30"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:30
 website: ""

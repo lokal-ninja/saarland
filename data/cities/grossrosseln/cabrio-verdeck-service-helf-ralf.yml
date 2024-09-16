@@ -1,11 +1,11 @@
 id: 220012592
-type: way
+type: node
 latitude: 49.17747
 longitude: 6.81133
 postcode: "66352"
 city: Großrosseln
-street: "Schloßstraße"
+street: Schloßstraße
 housenumber: 31a
-phone: "+49 6809 6483"
+phone: +49 6809 6483
 opening_hours: ""
-website: "http:/www.cabrioverdeck-service.de"
+website: http:/www.cabrioverdeck-service.de

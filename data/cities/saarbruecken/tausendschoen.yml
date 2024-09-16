@@ -4,8 +4,8 @@ latitude: 49.23133
 longitude: 7.00124
 postcode: "66111"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 24
+street: Mainzer Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00; PH,Su off"
-website: "https://www.strickstduschon.de/"
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-14:00; PH,Su off
+website: https://www.strickstduschon.de/

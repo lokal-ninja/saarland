@@ -1,11 +1,11 @@
 id: 113467352
-type: way
+type: node
 latitude: 49.27636
 longitude: 7.18797
 postcode: "66386"
 city: Sankt Ingbert
-street: "Geistkircher Hof"
-housenumber: 4
+street: Geistkircher Hof
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

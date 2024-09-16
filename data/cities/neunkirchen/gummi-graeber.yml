@@ -1,11 +1,11 @@
 id: 175711919
-type: way
+type: node
 latitude: 49.35046
 longitude: 7.17725
 postcode: "66538"
 city: Neunkirchen
-street: "Goethestraße"
-housenumber: 4
+street: Goethestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

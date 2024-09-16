@@ -1,11 +1,11 @@
 id: 109094608
-type: way
+type: node
 latitude: 49.50618
 longitude: 6.52887
 postcode: "66693"
 city: Mettlach
-street: "Moselstraße"
-housenumber: 70
+street: Moselstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

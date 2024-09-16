@@ -4,8 +4,8 @@ latitude: 49.31948
 longitude: 6.75224
 postcode: "66740"
 city: Saarlouis
-street: "Pavillonstraße"
-housenumber: 45
-phone: "+49 6831 46993"
-opening_hours: "Mo-Th 09:00-16:00; We off; Fr 09:00-12:00"
-website: "https://www.diakonie-saar.de/Sozialkaufhaus-Saarlouis"
+street: Pavillonstraße
+housenumber: "45"
+phone: +49 6831 46993
+opening_hours: Mo-Th 09:00-16:00; We off; Fr 09:00-12:00
+website: https://www.diakonie-saar.de/Sozialkaufhaus-Saarlouis

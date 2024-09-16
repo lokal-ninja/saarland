@@ -1,11 +1,11 @@
 id: 150697419
-type: way
+type: node
 latitude: 49.32429
 longitude: 6.92058
 postcode: "66292"
 city: Riegelsberg
-street: "Heusweilerstraße"
-housenumber: 18
+street: Heusweilerstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

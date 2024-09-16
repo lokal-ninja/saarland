@@ -1,11 +1,11 @@
 id: 378532716
-type: way
+type: node
 latitude: 49.31407
 longitude: 6.73212
 postcode: "66740"
 city: Saarlouis
-street: "Zeppelinstraße"
+street: Zeppelinstraße
 housenumber: 4A
-phone: "+49 (0) 6831 - 94979-0"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.segura.de/"
+phone: +49 (0) 6831 - 94979-0
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.segura.de/

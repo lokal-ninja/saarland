@@ -1,11 +1,11 @@
 id: 54367826
-type: way
+type: node
 latitude: 49.30291
 longitude: 7.06101
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Mellinweg"
-housenumber: 12
+street: Mellinweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

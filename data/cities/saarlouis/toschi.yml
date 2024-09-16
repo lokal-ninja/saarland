@@ -1,11 +1,11 @@
 id: 354134094
-type: way
+type: node
 latitude: 49.32421
 longitude: 6.77546
 postcode: "66740"
 city: Saarlouis
-street: "Kohlbrunnenstraße"
-housenumber: 2
+street: Kohlbrunnenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 341168651
-type: way
+type: node
 latitude: 49.36414
 longitude: 6.67924
 postcode: "66780"
 city: Rehlingen-Siersburg
-street: "An der Windmühle"
-housenumber: 24
+street: An der Windmühle
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

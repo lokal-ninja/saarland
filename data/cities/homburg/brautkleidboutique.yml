@@ -1,11 +1,11 @@
 id: 318381886
-type: way
+type: node
 latitude: 49.31923
 longitude: 7.32939
 postcode: "66424"
 city: Homburg
-street: "Saarbrücker Straße"
-housenumber: 87
+street: Saarbrücker Straße
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

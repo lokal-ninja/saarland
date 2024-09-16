@@ -1,11 +1,11 @@
 id: 119130930
-type: way
+type: node
 latitude: 49.28069
 longitude: 6.88329
 postcode: "66346"
 city: Püttlingen
-street: "Industriegelände Am Bahnhof"
-housenumber: 1
+street: Industriegelände Am Bahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 92206367
-type: way
+type: node
 latitude: 49.20545
 longitude: 7.02105
 postcode: "66130"
 city: Saarbrücken
-street: "Neumühler Weg"
-housenumber: 83
+street: Neumühler Weg
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

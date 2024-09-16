@@ -4,8 +4,8 @@ latitude: 49.34604
 longitude: 7.1764
 postcode: "66538"
 city: Neunkirchen
-street: "Hüttenbergstraße"
-housenumber: 20
-phone: "+49 6821 21197"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa nach tel. Vereinbarung"
+street: Hüttenbergstraße
+housenumber: "20"
+phone: +49 6821 21197
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa "nach tel. Vereinbarung"
 website: ""

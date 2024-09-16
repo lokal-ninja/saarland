@@ -1,11 +1,11 @@
 id: 123719191
-type: way
+type: node
 latitude: 49.23714
 longitude: 7.2668
 postcode: "66440"
 city: Blieskastel
-street: "Bliestalstraße"
-housenumber: 116
+street: Bliestalstraße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

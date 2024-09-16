@@ -1,11 +1,11 @@
 id: 383651094
-type: way
+type: node
 latitude: 49.39954
 longitude: 6.71109
 postcode: "66701"
 city: Beckingen
-street: "Talstraße"
-housenumber: 258
+street: Talstraße
+housenumber: "258"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.32302
 longitude: 7.34051
 postcode: "66424"
 city: Homburg
-street: "Eisenbahnstraße"
-housenumber: 14
-phone: "+49 6841 2235"
+street: Eisenbahnstraße
+housenumber: "14"
+phone: +49 6841 2235
 opening_hours: ""
-website: "https://www.caro-mode.de/"
+website: https://www.caro-mode.de/

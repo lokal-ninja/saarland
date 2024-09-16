@@ -1,11 +1,11 @@
 id: 376066388
-type: way
+type: node
 latitude: 49.38536
 longitude: 6.70074
 postcode: "66701"
 city: Beckingen
-street: "Dillinger Straße"
-housenumber: 50
+street: Dillinger Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

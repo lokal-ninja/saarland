@@ -1,11 +1,11 @@
 id: 225993498
-type: way
+type: node
 latitude: 49.53598
 longitude: 6.89343
 postcode: "66687"
 city: Wadern
-street: "Poststraße"
-housenumber: 42
+street: Poststraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

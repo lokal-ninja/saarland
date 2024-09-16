@@ -4,8 +4,9 @@ latitude: 49.23274
 longitude: 6.99007
 postcode: "66117"
 city: Saarbrücken
-street: "Neumarkt"
-housenumber: 3
+street: Neumarkt
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu 09:30-12:30,14:30-17:30; We 09:30-12:30; Th 09:30-12:30,15:00-18:00; Fr 09:30-14:00; Sa 10:00-14:00; PH,Su off"
+opening_hours: Mo,Tu 09:30-12:30,14:30-17:30; We 09:30-12:30; Th 09:30-12:30,15:00-18:00;
+    Fr 09:30-14:00; Sa 10:00-14:00; PH,Su off
 website: ""

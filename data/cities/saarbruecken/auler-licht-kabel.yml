@@ -1,11 +1,11 @@
 id: 401590987
-type: way
+type: node
 latitude: 49.19604
 longitude: 7.02361
 postcode: "66119"
 city: Saarbrücken
-street: "Kirchwies"
-housenumber: 1
+street: Kirchwies
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:30; PH,Sa-Su closed"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-15:30; PH,Sa-Su closed
 website: ""

@@ -1,11 +1,11 @@
 id: 120415206
-type: way
+type: node
 latitude: 49.27121
 longitude: 6.79272
 postcode: "66787"
 city: Wadgassen
-street: "Saarstraße"
-housenumber: 20
+street: Saarstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

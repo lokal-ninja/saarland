@@ -4,8 +4,8 @@ latitude: 49.33789
 longitude: 6.92984
 postcode: "66265"
 city: Heusweiler
-street: "Am Markt"
-housenumber: 6
-phone: "+49 6806 9828575"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,13:30-17:30; We 08:30-12:30"
-website: "http://hörgeräte.saarland"
+street: Am Markt
+housenumber: "6"
+phone: +49 6806 9828575
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,13:30-17:30; We 08:30-12:30
+website: http://hörgeräte.saarland

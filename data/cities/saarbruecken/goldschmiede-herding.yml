@@ -4,8 +4,8 @@ latitude: 49.23276
 longitude: 6.99493
 postcode: "66111"
 city: Saarbrücken
-street: "Fröschengasse"
-housenumber: 12
+street: Fröschengasse
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:45; Sa 10:00-16:00; PH,Su,Mo off"
+opening_hours: Tu-Fr 10:00-17:45; Sa 10:00-16:00; PH,Su,Mo off
 website: ""

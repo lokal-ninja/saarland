@@ -4,8 +4,8 @@ latitude: 49.23517
 longitude: 6.99788
 postcode: "66111"
 city: Saarbrücken
-street: "Nassauerstraße"
-housenumber: 6
+street: Nassauerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; Sa 12:00-16:00; PH,We,Su off"
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; Sa 12:00-16:00; PH,We,Su off
 website: ""

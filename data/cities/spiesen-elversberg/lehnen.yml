@@ -1,11 +1,11 @@
 id: 358222674
-type: way
+type: node
 latitude: 49.31704
 longitude: 7.1335
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Neunkircher Straße"
+street: Neunkircher Straße
 housenumber: 75a
-phone: "+49 6821 7512"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "https://www.zweiradcenter-lehnen.de/"
+phone: +49 6821 7512
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: https://www.zweiradcenter-lehnen.de/

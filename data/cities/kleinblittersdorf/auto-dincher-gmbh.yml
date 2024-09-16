@@ -1,11 +1,11 @@
 id: 91602503
-type: way
+type: node
 latitude: 49.16814
 longitude: 7.03318
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Am Brichelberg"
-housenumber: 2
+street: Am Brichelberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

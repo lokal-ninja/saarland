@@ -1,11 +1,11 @@
 id: 93572213
-type: way
+type: node
 latitude: 49.20605
 longitude: 6.84364
 postcode: "66352"
 city: Großrosseln
-street: "Am Mühlenbach"
-housenumber: 3
+street: Am Mühlenbach
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

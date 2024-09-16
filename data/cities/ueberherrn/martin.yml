@@ -1,11 +1,11 @@
 id: 196778154
-type: way
+type: node
 latitude: 49.24702
 longitude: 6.7024
 postcode: "66802"
 city: Überherrn
-street: "Nauwies"
-housenumber: 12
+street: Nauwies
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

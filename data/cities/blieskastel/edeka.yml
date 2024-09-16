@@ -1,11 +1,11 @@
 id: 586596702
-type: way
+type: node
 latitude: 49.24977
 longitude: 7.25829
 postcode: "66440"
 city: Blieskastel
-street: "Homburger Straße"
-housenumber: 20
+street: Homburger Straße
+housenumber: "20"
 phone: "+496842961030"
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

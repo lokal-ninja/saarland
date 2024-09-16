@@ -4,8 +4,8 @@ latitude: 49.23809
 longitude: 7.0066
 postcode: ""
 city: Saarbrücken
-street: "Martin-Luther-Straße"
-housenumber: 25
+street: Martin-Luther-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

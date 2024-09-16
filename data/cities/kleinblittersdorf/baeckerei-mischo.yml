@@ -4,8 +4,8 @@ latitude: 49.11909
 longitude: 7.06186
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Konrad-Adenauer-Straße"
-housenumber: 6
-phone: "+49 680 562038"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://baecker-mischo.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "6"
+phone: +49 680 562038
+opening_hours: Mo-Sa 07:00-20:00
+website: https://baecker-mischo.de/

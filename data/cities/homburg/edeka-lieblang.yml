@@ -1,11 +1,11 @@
 id: 365728787
-type: way
+type: node
 latitude: 49.33547
 longitude: 7.3242
 postcode: "66424"
 city: Homburg
-street: "Cranachstraße"
-housenumber: 30
+street: Cranachstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

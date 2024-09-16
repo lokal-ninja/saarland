@@ -1,11 +1,11 @@
 id: 92004388
-type: way
+type: node
 latitude: 49.22836
 longitude: 7.02254
 postcode: "66121"
 city: Saarbrücken
-street: "Am Holzbrunnen"
-housenumber: 1
+street: Am Holzbrunnen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; PH,Sa-Su closed"
+opening_hours: Mo-Fr 11:00-18:00; PH,Sa-Su closed
 website: ""

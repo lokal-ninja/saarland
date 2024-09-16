@@ -1,11 +1,11 @@
 id: 51547985
-type: way
+type: node
 latitude: 49.48354
 longitude: 7.03747
 postcode: "66636"
 city: Tholey
-street: "Trierer Straße"
-housenumber: 58
+street: Trierer Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

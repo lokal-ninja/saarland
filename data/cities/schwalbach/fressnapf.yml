@@ -1,11 +1,11 @@
 id: 158385440
-type: way
+type: node
 latitude: 49.30198
 longitude: 6.8
 postcode: "66773"
 city: Schwalbach
-street: "Zur Langelänge"
-housenumber: 14
+street: Zur Langelänge
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-schwalbach/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-schwalbach/

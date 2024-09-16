@@ -1,11 +1,11 @@
 id: 119660911
-type: way
+type: node
 latitude: 49.28886
 longitude: 6.88522
 postcode: "66346"
 city: Püttlingen
-street: "Marktstraße"
-housenumber: 14
+street: Marktstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

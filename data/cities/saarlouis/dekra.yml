@@ -1,11 +1,11 @@
 id: 114923471
-type: way
+type: node
 latitude: 49.34478
 longitude: 6.74701
 postcode: "66740"
 city: Saarlouis
-street: "Carl-Zeiss-Straße"
-housenumber: 23
+street: Carl-Zeiss-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

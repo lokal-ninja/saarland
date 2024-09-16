@@ -1,11 +1,11 @@
 id: 358220187
-type: way
+type: node
 latitude: 49.31445
 longitude: 7.15193
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "Hauptstraße"
-housenumber: 122
-phone: "+49 6821 73507"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:00, 14:30-18:00; We,Sa 08:30-12:00; Su,PH off"
-website: "http://www.fotostudio-spang.de/"
+street: Hauptstraße
+housenumber: "122"
+phone: +49 6821 73507
+opening_hours: Mo,Tu,Th,Fr 08:30-12:00, 14:30-18:00; We,Sa 08:30-12:00; Su,PH off
+website: http://www.fotostudio-spang.de/

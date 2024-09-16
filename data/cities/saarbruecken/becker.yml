@@ -1,11 +1,11 @@
 id: 308871772
-type: way
+type: node
 latitude: 49.2607
 longitude: 6.9121
 postcode: "66126"
 city: Saarbrücken
-street: "Mittelstraße"
-housenumber: 26
+street: Mittelstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

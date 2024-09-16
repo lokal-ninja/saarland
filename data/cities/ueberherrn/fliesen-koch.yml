@@ -1,11 +1,11 @@
 id: 196778124
-type: way
+type: node
 latitude: 49.24797
 longitude: 6.70398
 postcode: "66802"
 city: Überherrn
-street: "Langwies"
-housenumber: 15
+street: Langwies
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.platten-fliesen-kurt-koch.de/"
+website: https://www.platten-fliesen-kurt-koch.de/

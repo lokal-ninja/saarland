@@ -1,11 +1,11 @@
 id: 321254928
-type: way
+type: node
 latitude: 49.24621
 longitude: 6.69761
 postcode: "66802"
 city: Überherrn
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

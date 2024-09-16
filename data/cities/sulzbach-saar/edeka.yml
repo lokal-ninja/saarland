@@ -1,11 +1,11 @@
 id: 54367831
-type: way
+type: node
 latitude: 49.30214
 longitude: 7.0589
 postcode: "66280"
 city: Sulzbach/Saar
-street: "Quierschieder Weg"
+street: Quierschieder Weg
 housenumber: 2c
-phone: "+49 6897 9249730"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-hoffmann-konrad-quierschieder-weg-2c/index.jsp"
+phone: +49 6897 9249730
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-hoffmann-konrad-quierschieder-weg-2c/index.jsp

@@ -1,11 +1,11 @@
 id: 352979477
-type: way
+type: node
 latitude: 49.42864
 longitude: 7.08264
 postcode: "66646"
 city: Marpingen
-street: "Remmesweilerstraße"
-housenumber: 8
+street: Remmesweilerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00 , Sa 08:00-14:00 ; PH off"
+opening_hours: Mo-Fr 08:00-18:00 , Sa 08:00-14:00 ; PH off
 website: ""

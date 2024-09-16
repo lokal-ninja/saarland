@@ -1,11 +1,11 @@
 id: 593921227
-type: way
+type: node
 latitude: 49.25183
 longitude: 6.96205
 postcode: "66113"
 city: Saarbrücken
-street: "Rastpfuhl"
-housenumber: 13
+street: Rastpfuhl
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:00; PH,Su closed"
+opening_hours: Mo-Sa 06:30-19:00; PH,Su closed
 website: ""

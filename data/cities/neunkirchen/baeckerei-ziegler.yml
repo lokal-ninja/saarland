@@ -1,11 +1,11 @@
 id: 484371391
-type: way
+type: node
 latitude: 49.36089
 longitude: 7.18116
 postcode: "66540"
 city: Neunkirchen
-street: "Kuchenbergstraße"
-housenumber: 196
+street: Kuchenbergstraße
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

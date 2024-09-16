@@ -1,11 +1,11 @@
 id: 397315195
-type: way
+type: node
 latitude: 49.50453
 longitude: 7.01097
 postcode: "66636"
 city: Tholey
-street: "Gewerbegebiet Primstalstraße"
-housenumber: 7
+street: Gewerbegebiet Primstalstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

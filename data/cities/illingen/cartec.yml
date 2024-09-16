@@ -1,11 +1,11 @@
 id: 509101557
-type: way
+type: node
 latitude: 49.37176
 longitude: 6.99959
 postcode: "66557"
 city: Illingen
-street: "Auf Maien"
-housenumber: 1
+street: Auf Maien
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

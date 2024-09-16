@@ -1,11 +1,11 @@
 id: 647062701
-type: way
+type: node
 latitude: 49.51471
 longitude: 6.37254
 postcode: "66706"
 city: Perl
-street: "Moselaue"
-housenumber: 12
+street: Moselaue
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.schraeglage-perl.com/"
+website: https://www.schraeglage-perl.com/

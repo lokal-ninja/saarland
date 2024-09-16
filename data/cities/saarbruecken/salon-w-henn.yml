@@ -4,8 +4,8 @@ latitude: 49.21793
 longitude: 7.01498
 postcode: ""
 city: Saarbrücken
-street: "Bruchstraße"
-housenumber: 1
+street: Bruchstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:30; PH,Mo,Su closed"
+opening_hours: Tu-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:30; PH,Mo,Su closed
 website: ""

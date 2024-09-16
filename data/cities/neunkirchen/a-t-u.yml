@@ -1,11 +1,11 @@
 id: 83618886
-type: way
+type: node
 latitude: 49.35057
 longitude: 7.2131
 postcode: "66539"
 city: Neunkirchen
-street: "Untere Bliesstraße"
-housenumber: 19
+street: Untere Bliesstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

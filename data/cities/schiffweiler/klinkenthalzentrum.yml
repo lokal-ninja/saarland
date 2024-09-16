@@ -1,11 +1,11 @@
 id: 148117647
-type: way
+type: node
 latitude: 49.35534
 longitude: 7.12919
 postcode: "66578"
 city: Schiffweiler
-street: "Kreisstraße"
-housenumber: 29
+street: Kreisstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

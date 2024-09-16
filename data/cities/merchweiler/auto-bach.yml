@@ -1,11 +1,11 @@
 id: 238999712
-type: way
+type: node
 latitude: 49.37073
 longitude: 7.08791
 postcode: "66589"
 city: Merchweiler
-street: "Schulstraße"
-housenumber: 77
+street: Schulstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

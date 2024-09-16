@@ -1,11 +1,11 @@
 id: 415148427
-type: way
+type: node
 latitude: 49.345
 longitude: 7.03665
 postcode: "66287"
 city: Quierschied
-street: "Am Wackenberg"
-housenumber: 1
+street: Am Wackenberg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

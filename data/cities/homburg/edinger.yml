@@ -1,11 +1,11 @@
 id: 705524559
-type: way
+type: node
 latitude: 49.36496
 longitude: 7.32501
 postcode: "66424"
 city: Homburg
-street: "Saar-Pfalz-Straße"
-housenumber: 8
+street: Saar-Pfalz-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

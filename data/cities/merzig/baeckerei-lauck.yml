@@ -1,11 +1,11 @@
 id: 136437308
-type: way
+type: node
 latitude: 49.4146
 longitude: 6.65758
 postcode: "66663"
 city: Merzig
-street: "Zum Ziehborn"
-housenumber: 1
+street: Zum Ziehborn
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

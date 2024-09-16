@@ -1,11 +1,11 @@
 id: 344158317
-type: way
+type: node
 latitude: 49.50808
 longitude: 6.76297
 postcode: "66679"
 city: Losheim am See
-street: "Wolfsborn"
-housenumber: 55
+street: Wolfsborn
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

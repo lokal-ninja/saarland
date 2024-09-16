@@ -1,11 +1,11 @@
 id: 87341530
-type: way
+type: node
 latitude: 49.22513
 longitude: 7.03914
 postcode: "66121"
 city: Saarbrücken
-street: "Am Halberg"
-housenumber: 1
+street: Am Halberg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
 website: ""

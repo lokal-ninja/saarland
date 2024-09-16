@@ -1,11 +1,11 @@
 id: 256146507
-type: way
+type: node
 latitude: 49.4971
 longitude: 6.83357
 postcode: "66687"
 city: Wadern
-street: "Im Schachen"
-housenumber: 101
+street: Im Schachen
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

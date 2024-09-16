@@ -4,8 +4,9 @@ latitude: 49.2367
 longitude: 6.9979
 postcode: "66111"
 city: Saarbrücken
-street: "Johannisstraße"
-housenumber: 19
+street: Johannisstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Tu 15:30-18:30 nach Vereinbarung; Th-Fr 15:30-18:30; Sa 11:00-16:00; PH,We,Su closed"
+opening_hours: Mo-Tu 15:30-18:30 "nach Vereinbarung"; Th-Fr 15:30-18:30; Sa 11:00-16:00;
+    PH,We,Su closed
 website: ""

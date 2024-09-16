@@ -4,8 +4,8 @@ latitude: 49.22586
 longitude: 7.02826
 postcode: "66121"
 city: Saarbrücken
-street: "Mainzer Straße"
-housenumber: 172
-phone: "+49 681 564 43"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-saarbruecken"
+street: Mainzer Straße
+housenumber: "172"
+phone: +49 681 564 43
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-saarbruecken

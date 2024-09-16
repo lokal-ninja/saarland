@@ -4,8 +4,9 @@ latitude: 49.21899
 longitude: 7.01155
 postcode: "66119"
 city: Saarbrücken
-street: "Saargemünder Straße"
-housenumber: 86
+street: Saargemünder Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00; PH,Su off || Mittwoch und Samstag Termine nach Vereinbarung"
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:00; PH,Su off || "Mittwoch und Samstag Termine
+    nach Vereinbarung"
 website: ""

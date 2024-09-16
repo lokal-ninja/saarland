@@ -1,11 +1,11 @@
 id: 405650211
-type: way
+type: node
 latitude: 49.20457
 longitude: 7.05737
 postcode: "66130"
 city: Saarbrücken
-street: "Provinzialstraße"
-housenumber: 10
+street: Provinzialstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

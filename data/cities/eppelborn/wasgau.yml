@@ -1,11 +1,11 @@
 id: 41376503
-type: way
+type: node
 latitude: 49.40912
 longitude: 6.96988
 postcode: "66571"
 city: Eppelborn
-street: "Am Markt"
-housenumber: 36
+street: Am Markt
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
 website: ""

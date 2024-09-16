@@ -1,11 +1,11 @@
 id: 222326423
-type: way
+type: node
 latitude: 49.41081
 longitude: 6.89867
 postcode: "66822"
 city: Lebach
-street: "Auf dem Graben"
-housenumber: 12
+street: Auf dem Graben
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/f/lebach/auf-dem-graben-12.html"
+website: https://www.lidl.de/f/lebach/auf-dem-graben-12.html

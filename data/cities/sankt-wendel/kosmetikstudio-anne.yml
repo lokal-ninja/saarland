@@ -1,11 +1,11 @@
 id: 184428039
-type: way
+type: node
 latitude: 49.49429
 longitude: 7.26026
 postcode: "66606"
 city: Sankt Wendel
-street: "Am Steinhübel"
-housenumber: 9
+street: Am Steinhübel
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

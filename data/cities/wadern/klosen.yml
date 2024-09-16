@@ -1,11 +1,11 @@
 id: 670071055
-type: way
+type: node
 latitude: 49.52619
 longitude: 6.89731
 postcode: "66687"
 city: Wadern
-street: "Buttnicher Straße"
-housenumber: 10
+street: Buttnicher Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

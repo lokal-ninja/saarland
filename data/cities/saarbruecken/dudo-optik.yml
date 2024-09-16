@@ -4,8 +4,8 @@ latitude: 49.27679
 longitude: 7.03464
 postcode: "66125"
 city: Saarbrücken
-street: "Trierer Straße"
-housenumber: 12
-phone: "+49 6897 77272"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; Sa 09:00-12:00"
-website: "https://dudo-optik.de/"
+street: Trierer Straße
+housenumber: "12"
+phone: +49 6897 77272
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00; Sa 09:00-12:00
+website: https://dudo-optik.de/

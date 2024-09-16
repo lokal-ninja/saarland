@@ -1,11 +1,11 @@
 id: 354135144
-type: way
+type: node
 latitude: 49.33162
 longitude: 6.79115
 postcode: "66740"
 city: Saarlouis
-street: "Torschlag"
-housenumber: 6
+street: Torschlag
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

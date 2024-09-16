@@ -4,8 +4,8 @@ latitude: 49.23329
 longitude: 6.98988
 postcode: "66117"
 city: Saarbrücken
-street: "Stengelstraße"
-housenumber: 1
+street: Stengelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00; PH,Mo,Su closed"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-16:00; PH,Mo,Su closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.393
 longitude: 6.92275
 postcode: "66822"
 city: Lebach
-street: "Heusweiler Straße"
-housenumber: 10
-phone: "+49 6881 2147"
-opening_hours: "Mo-Sa 08:00-12:00; Tu,Fr 13:30-18:00"
-website: "https://www.eier-feld.de/hofladen/"
+street: Heusweiler Straße
+housenumber: "10"
+phone: +49 6881 2147
+opening_hours: Mo-Sa 08:00-12:00; Tu,Fr 13:30-18:00
+website: https://www.eier-feld.de/hofladen/

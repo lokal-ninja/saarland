@@ -1,11 +1,11 @@
 id: 378534945
-type: way
+type: node
 latitude: 49.30989
 longitude: 6.73347
 postcode: "66740"
 city: Saarlouis
-street: "Lilienthalstraße"
-housenumber: 12
+street: Lilienthalstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

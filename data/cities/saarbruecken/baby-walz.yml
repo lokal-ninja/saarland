@@ -1,11 +1,11 @@
 id: 182710639
-type: way
+type: node
 latitude: 49.2311
 longitude: 7.03163
 postcode: "66123"
 city: Saarbrücken
-street: "Peter-Zimmer-Straße"
+street: Peter-Zimmer-Straße
 housenumber: 3-11
-phone: "+49 681 3799590"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00; PH,Su closed"
+phone: +49 681 3799590
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00; PH,Su closed
 website: ""

@@ -1,11 +1,11 @@
 id: 167401320
-type: way
+type: node
 latitude: 49.31703
 longitude: 6.91337
 postcode: "66292"
 city: Riegelsberg
-street: "Am Mühlengarten"
-housenumber: 3
-phone: "+49 6806 920117"
-opening_hours: "Mo-Fr 07:00-16:00; Sa 07:00-12:00"
+street: Am Mühlengarten
+housenumber: "3"
+phone: +49 6806 920117
+opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-12:00
 website: ""

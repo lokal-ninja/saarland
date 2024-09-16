@@ -1,11 +1,11 @@
 id: 153032774
-type: way
+type: node
 latitude: 49.28671
 longitude: 7.14874
 postcode: "66386"
 city: Sankt Ingbert
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

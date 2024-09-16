@@ -1,11 +1,11 @@
 id: 111549655
-type: way
+type: node
 latitude: 49.35036
 longitude: 6.71959
 postcode: "66763"
 city: Dillingen/Saar
-street: "Gutenbergstraße"
-housenumber: 15
+street: Gutenbergstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

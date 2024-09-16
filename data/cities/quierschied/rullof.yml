@@ -1,11 +1,11 @@
 id: 415149920
-type: way
+type: node
 latitude: 49.34547
 longitude: 7.03162
 postcode: "66287"
 city: Quierschied
-street: "Hauptstraße"
-housenumber: 144
+street: Hauptstraße
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

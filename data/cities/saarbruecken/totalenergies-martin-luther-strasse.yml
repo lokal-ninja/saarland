@@ -1,11 +1,11 @@
 id: 915534703
-type: way
+type: node
 latitude: 49.23765
 longitude: 7.00497
 postcode: "66111"
 city: Saarbrücken
-street: "Martin-Luther-Straße"
-housenumber: 21
+street: Martin-Luther-Straße
+housenumber: "21"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

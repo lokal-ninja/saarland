@@ -1,11 +1,11 @@
 id: 139445440
-type: way
+type: node
 latitude: 49.38206
 longitude: 7.20945
 postcode: "66540"
 city: Neunkirchen
-street: "Wiebelskircher Straße"
-housenumber: 3
+street: Wiebelskircher Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-recktenwald.de/"
+website: http://www.auto-recktenwald.de/

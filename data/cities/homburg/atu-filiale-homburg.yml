@@ -1,11 +1,11 @@
 id: 365833253
-type: way
+type: node
 latitude: 49.326
 longitude: 7.32663
 postcode: "66424"
 city: Homburg
-street: "Bexbacher Straße"
-housenumber: 71
+street: Bexbacher Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/"
+website: https://www.atu.de/

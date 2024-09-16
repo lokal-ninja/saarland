@@ -4,8 +4,8 @@ latitude: 49.24249
 longitude: 7.14621
 postcode: "66386"
 city: Sankt Ingbert
-street: "Hauptstraße"
-housenumber: 63
-phone: "06894 890980"
-opening_hours: "Mo-Sa 06:00-12:00"
-website: "https://baecker-mohr.de/filialen/oberwuerzbach/"
+street: Hauptstraße
+housenumber: "63"
+phone: 06894 890980
+opening_hours: Mo-Sa 06:00-12:00
+website: https://baecker-mohr.de/filialen/oberwuerzbach/

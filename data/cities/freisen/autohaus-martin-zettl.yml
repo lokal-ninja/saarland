@@ -1,11 +1,11 @@
 id: 238186904
-type: way
+type: node
 latitude: 49.5246
 longitude: 7.2637
 postcode: "66629"
 city: Freisen
-street: "Gartenstraße"
-housenumber: 2
+street: Gartenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus.ford.de/martin-zettl/"
+website: http://www.autohaus.ford.de/martin-zettl/

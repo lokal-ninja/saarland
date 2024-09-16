@@ -1,11 +1,11 @@
 id: 83506085
-type: way
+type: node
 latitude: 49.33805
 longitude: 7.1824
 postcode: "66538"
 city: Neunkirchen
-street: "Mantes-La-Ville-Platz"
-housenumber: 8
+street: Mantes-La-Ville-Platz
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

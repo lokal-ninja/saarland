@@ -1,11 +1,11 @@
 id: 349535467
-type: way
+type: node
 latitude: 49.36548
 longitude: 7.00935
 postcode: "66557"
 city: Illingen
-street: "Eseiterstraße"
-housenumber: 6
+street: Eseiterstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

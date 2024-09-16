@@ -1,11 +1,11 @@
 id: 127680767
-type: way
+type: node
 latitude: 49.26673
 longitude: 7.0446
 postcode: "66125"
 city: Saarbrücken
-street: "Liesbet-Dill-Straße"
-housenumber: 8
+street: Liesbet-Dill-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 371229198
-type: way
+type: node
 latitude: 49.503
 longitude: 6.76455
 postcode: "66679"
 city: Losheim am See
-street: "Saarbrücker Straße"
-housenumber: 233
+street: Saarbrücker Straße
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132324716
-type: way
+type: node
 latitude: 49.34567
 longitude: 6.93421
 postcode: "66265"
 city: Heusweiler
-street: "Trierer Straße"
-housenumber: 155
+street: Trierer Straße
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

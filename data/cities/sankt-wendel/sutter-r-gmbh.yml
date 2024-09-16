@@ -1,11 +1,11 @@
 id: 184428040
-type: way
+type: node
 latitude: 49.4891
 longitude: 7.26481
 postcode: "66606"
 city: Sankt Wendel
-street: "Am Diesenborn"
-housenumber: 2
+street: Am Diesenborn
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.sutter-gmbh.com/"
+website: https://www.sutter-gmbh.com/

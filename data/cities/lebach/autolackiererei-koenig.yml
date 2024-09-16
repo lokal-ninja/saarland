@@ -1,11 +1,11 @@
 id: 509101532
-type: way
+type: node
 latitude: 49.41404
 longitude: 6.88864
 postcode: "66822"
 city: Lebach
-street: "Auf Häpelt"
-housenumber: 8
+street: Auf Häpelt
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

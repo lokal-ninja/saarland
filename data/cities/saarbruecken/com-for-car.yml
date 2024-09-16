@@ -1,11 +1,11 @@
 id: 92413839
-type: way
+type: node
 latitude: 49.22571
 longitude: 7.04219
 postcode: "66121"
 city: Saarbrücken
-street: "Bahnstraße"
-housenumber: 3
+street: Bahnstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

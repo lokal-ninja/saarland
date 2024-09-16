@@ -1,11 +1,11 @@
 id: 34853979
-type: way
+type: node
 latitude: 49.22516
 longitude: 6.97825
 postcode: "66119"
 city: Saarbrücken
-street: "Lerchesflurweg"
-housenumber: 16
+street: Lerchesflurweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su closed
+website: https://www.netto-online.de

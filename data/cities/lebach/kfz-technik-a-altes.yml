@@ -1,11 +1,11 @@
 id: 349612347
-type: way
+type: node
 latitude: 49.43565
 longitude: 6.95258
 postcode: "66822"
 city: Lebach
-street: "Koblenzer Straße"
-housenumber: 99
+street: Koblenzer Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

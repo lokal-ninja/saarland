@@ -4,8 +4,8 @@ latitude: 49.32161
 longitude: 7.33653
 postcode: "66424"
 city: Homburg
-street: "Talstraße"
-housenumber: 38
-phone: "+49 6841 93400"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.brinkmann-homburg.de"
+street: Talstraße
+housenumber: "38"
+phone: +49 6841 93400
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.brinkmann-homburg.de

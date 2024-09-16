@@ -1,11 +1,11 @@
 id: 558834678
-type: way
+type: node
 latitude: 49.2352
 longitude: 7.26894
 postcode: "66440"
 city: Blieskastel
-street: "Bliesaue"
-housenumber: 4
+street: Bliesaue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

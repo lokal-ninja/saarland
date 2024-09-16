@@ -1,11 +1,11 @@
 id: 261702404
-type: way
+type: node
 latitude: 49.32598
 longitude: 6.81843
 postcode: "66773"
 city: Schwalbach
-street: "Carl-Benz-Straße"
-housenumber: 18
+street: Carl-Benz-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

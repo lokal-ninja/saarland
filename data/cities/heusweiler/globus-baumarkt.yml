@@ -1,11 +1,11 @@
 id: 58711031
-type: way
+type: node
 latitude: 49.3338
 longitude: 6.92629
 postcode: "66265"
 city: Heusweiler
-street: "Am Bahnhof"
-housenumber: 13
+street: Am Bahnhof
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234977311
-type: way
+type: node
 latitude: 49.31406
 longitude: 7.12763
 postcode: "66583"
 city: Spiesen-Elversberg
-street: "St.Ingberter Straße"
-housenumber: 5
+street: St.Ingberter Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

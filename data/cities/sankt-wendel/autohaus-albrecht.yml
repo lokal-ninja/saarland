@@ -1,11 +1,11 @@
 id: 84689667
-type: way
+type: node
 latitude: 49.46228
 longitude: 7.15092
 postcode: "66606"
 city: Sankt Wendel
-street: "Leipziger Straße"
-housenumber: 1
+street: Leipziger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-albrecht.com/"
+website: https://autohaus-albrecht.com/

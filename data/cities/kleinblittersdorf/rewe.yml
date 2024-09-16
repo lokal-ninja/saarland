@@ -1,11 +1,11 @@
 id: 146468050
-type: way
+type: node
 latitude: 49.15355
 longitude: 7.03794
 postcode: "66271"
 city: Kleinblittersdorf
-street: "Elsässer Straße"
-housenumber: 74
+street: Elsässer Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157770788
-type: way
+type: node
 latitude: 49.30284
 longitude: 6.80203
 postcode: "66773"
 city: Schwalbach
-street: "Zur Langelänge"
-housenumber: 1
+street: Zur Langelänge
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

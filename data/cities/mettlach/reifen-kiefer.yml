@@ -1,11 +1,11 @@
 id: 110246140
-type: way
+type: node
 latitude: 49.51131
 longitude: 6.52696
 postcode: "66693"
 city: Mettlach
-street: "Zum Leukbachtal"
-housenumber: 45
+street: Zum Leukbachtal
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

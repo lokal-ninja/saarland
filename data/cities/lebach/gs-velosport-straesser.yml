@@ -1,11 +1,11 @@
 id: 232413074
-type: way
+type: node
 latitude: 49.40687
 longitude: 6.91168
 postcode: "66822"
 city: Lebach
-street: "Pickardstraße"
-housenumber: 24
+street: Pickardstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 16:00-19:00; Sa 09:30-13:00"
-website: "https://www.gs-velosport.de/"
+opening_hours: Mo,Tu,Th,Fr 16:00-19:00; Sa 09:30-13:00
+website: https://www.gs-velosport.de/

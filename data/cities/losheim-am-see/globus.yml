@@ -1,11 +1,11 @@
 id: 101219010
-type: way
+type: node
 latitude: 49.51281
 longitude: 6.75574
 postcode: "66679"
 city: Losheim am See
-street: "Haagstraße"
-housenumber: 60
+street: Haagstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.33851
 longitude: 6.92856
 postcode: "66265"
 city: Heusweiler
-street: "Trierer Straße"
-housenumber: 1
+street: Trierer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
-website: "https://www.optik-steinebrey.de"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
+website: https://www.optik-steinebrey.de

@@ -1,11 +1,11 @@
 id: 99941191
-type: way
+type: node
 latitude: 49.49458
 longitude: 7.11458
 postcode: "66606"
 city: Sankt Wendel
-street: "Kirchstraße"
-housenumber: 2
+street: Kirchstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

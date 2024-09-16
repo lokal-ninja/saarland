@@ -1,11 +1,11 @@
 id: 279060482
-type: way
+type: node
 latitude: 49.44688
 longitude: 6.96374
 postcode: "66822"
 city: Lebach
-street: "Schaumbergstraße"
-housenumber: 131
+street: Schaumbergstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.bikesport-scheid.de/"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.bikesport-scheid.de/

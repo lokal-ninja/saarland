@@ -1,11 +1,11 @@
 id: 364973180
-type: way
+type: node
 latitude: 49.27638
 longitude: 7.3179
 postcode: "66424"
 city: Homburg
-street: "Heinrich-Spoerl-Straße"
-housenumber: 3
+street: Heinrich-Spoerl-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.garten-zoo-martin.de/"
+website: http://www.garten-zoo-martin.de/

@@ -1,11 +1,11 @@
 id: 32551555
-type: way
+type: node
 latitude: 49.22696
 longitude: 7.0363
 postcode: "66121"
 city: Saarbrücken
-street: "Breslauer Straße"
+street: Breslauer Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.saarbasar.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.saarbasar.de/

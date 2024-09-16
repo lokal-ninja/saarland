@@ -1,11 +1,11 @@
 id: 98523558
-type: way
+type: node
 latitude: 49.29143
 longitude: 6.78086
 postcode: "66806"
 city: Ensdorf/Saar
-street: "Unten am Mühlenweg"
-housenumber: 1
+street: Unten am Mühlenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

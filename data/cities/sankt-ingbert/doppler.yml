@@ -1,11 +1,11 @@
 id: 292830667
-type: way
+type: node
 latitude: 49.2789
 longitude: 7.09679
 postcode: "66386"
 city: Sankt Ingbert
-street: "Schlackenbergstraße"
-housenumber: 37
+street: Schlackenbergstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""
