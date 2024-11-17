@@ -1,6 +1,6 @@
 ---
 title: Schmelz
 url: /schmelz/
-latitude: 49.419
-longitude: 6.845
+latitude: 49.436
+longitude: 6.846
 ---
