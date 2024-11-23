@@ -1,5 +1,5 @@
 ---
-title: "takko fashion"
+title: "Takko Fashion"
 url: /saarbruecken/takko-fashion/
 shop: Kleidung
 ---

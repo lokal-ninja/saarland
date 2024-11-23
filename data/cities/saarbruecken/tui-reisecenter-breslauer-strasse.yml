@@ -1,11 +1,11 @@
 id: 4992989876
 type: node
-latitude: 49.22729
-longitude: 7.03599
+latitude: 49.22727
+longitude: 7.03615
 postcode: "66121"
 city: Saarbrücken
 street: Breslauer Straße
 housenumber: 1a
 phone: +49 681 980370
-opening_hours: Mo-Sa 09:30-20:00
+opening_hours: Mo-Sa 09:30-20:00; PH,Su closed
 website: https://www.tui-reisecenter.de/saarbruecken1
