@@ -1,6 +1,6 @@
 ---
 title: Lebach
 url: /lebach/
-latitude: 49.403
-longitude: 6.916
+latitude: 49.449
+longitude: 6.968
 ---
