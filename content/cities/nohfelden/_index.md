@@ -1,6 +1,6 @@
 ---
 title: Nohfelden
 url: /nohfelden/
-latitude: 49.57
-longitude: 7.054
+latitude: 49.572
+longitude: 7.058
 ---
