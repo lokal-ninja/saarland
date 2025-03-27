@@ -1,6 +1,6 @@
 ---
 title: Heusweiler
 url: /heusweiler/
-latitude: 49.331
-longitude: 6.981
+latitude: 49.351
+longitude: 6.94
 ---
