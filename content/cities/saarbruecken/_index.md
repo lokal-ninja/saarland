@@ -1,6 +1,6 @@
 ---
 title: Saarbrücken
 url: /saarbruecken/
-latitude: 49.232
-longitude: 6.998
+latitude: 49.242
+longitude: 7.009
 ---
