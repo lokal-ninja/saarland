@@ -1,6 +1,6 @@
 ---
 title: Perl
 url: /perl/
-latitude: 49.474
-longitude: 6.386
+latitude: 49.475
+longitude: 6.385
 ---
