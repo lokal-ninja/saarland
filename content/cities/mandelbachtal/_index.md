@@ -1,6 +1,6 @@
 ---
 title: Mandelbachtal
 url: /mandelbachtal/
-latitude: 49.195
-longitude: 7.183
+latitude: 49.219
+longitude: 7.158
 ---
