@@ -7,5 +7,6 @@ city: Schmelz
 street: Franz-Birringer-Straße
 housenumber: "13"
 phone: ""
-opening_hours: Mo,We,Fr 10:00-18:30; Sa 09:00-14:00
+opening_hours: Mo 10:00-18:00; Tu 09:00-13:00; We 10:00-18:00; Th 09:00-13:00; Fr
+    10:00-18:00; Sa 09:00-13:00; PH off
 website: ""
