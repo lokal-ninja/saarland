@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Groß"
-url: /tholay/edeka-gross/
+url: /tholey/edeka-gross/
 shop: Supermarkt
 ---

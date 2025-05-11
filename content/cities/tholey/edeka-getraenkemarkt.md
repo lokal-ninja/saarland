@@ -1,5 +1,5 @@
 ---
 title: "Edeka Getränkemarkt"
-url: /tholay/edeka-getraenkemarkt/
+url: /tholey/edeka-getraenkemarkt/
 shop: Getränke
 ---
