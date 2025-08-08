@@ -7,5 +7,6 @@ city: Grosbliederstroff
 street: Rue de l'Église
 housenumber: "26"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Fr 08:30-11:15,14:00-18:00; Th 08:30-11:15,14:00-17:00; Sa 08:30-16:00;
+    PH,Mo,We,Su closed
 website: ""

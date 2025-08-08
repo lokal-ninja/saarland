@@ -1,5 +1,5 @@
 ---
-title: "Rofu Kinderland"
+title: "ROFU Kinderland"
 url: /perl/rofu-kinderland/
 shop: Spielzeug
 ---

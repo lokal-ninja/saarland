@@ -1,11 +1,11 @@
 id: 90428070
 type: node
 latitude: 49.13584
-longitude: 7.04468
+longitude: 7.04465
 postcode: "57520"
 city: Grosbliederstroff
 street: Avenue Marchande
 housenumber: "15"
 phone: +33 3 87 27 65 00
-opening_hours: Mo-Sa 08:00-20:00
+opening_hours: Mo-Sa 08:00-20:00; PH,Su closed
 website: https://www.cora.fr/grosbliederstroff/
