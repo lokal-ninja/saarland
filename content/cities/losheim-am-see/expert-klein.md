@@ -1,5 +1,5 @@
 ---
 title: "expert klein"
-url: /voelklingen/expert-klein/
+url: /losheim-am-see/expert-klein/
 shop: Elektronik
 ---
