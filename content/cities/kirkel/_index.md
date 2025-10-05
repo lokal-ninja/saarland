@@ -1,6 +1,6 @@
 ---
 title: Kirkel
 url: /kirkel/
-latitude: 49.316
-longitude: 7.273
+latitude: 49.288
+longitude: 7.224
 ---
