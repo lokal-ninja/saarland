@@ -1,6 +1,6 @@
 ---
 title: Kleinblittersdorf
 url: /kleinblittersdorf/
-latitude: 49.157
-longitude: 7.035
+latitude: 49.175
+longitude: 7.07
 ---
