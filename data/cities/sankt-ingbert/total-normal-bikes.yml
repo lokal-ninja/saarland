@@ -7,5 +7,7 @@ city: Sankt Ingbert
 street: Kaiserstraße
 housenumber: "331"
 phone: 06894 87530
-opening_hours: ""
+opening_hours: Mo 13:30 - 18:00 Uhr  Di 10:00 - 12:00 und 13:30 - 18:00 Uhr  Mi 13:30
+    - 18:00 Uhr  Do 13:30 - 18:00 Uhr  Fr 10:00 - 12:00 und 13:30 - 18:00 Uhr  Sa
+    9:30 - 13:00 Uhr
 website: https://total-normal.com
