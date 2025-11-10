@@ -7,5 +7,5 @@ city: Saarlouis
 street: Kaiser-Friedrich-Ring
 housenumber: "32"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th 07:30-16:00; We 07:30-16:30; Fr 07:30-13:30
 website: ""
