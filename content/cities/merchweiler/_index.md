@@ -1,6 +1,6 @@
 ---
 title: Merchweiler
 url: /merchweiler/
-latitude: 49.359
-longitude: 7.058
+latitude: 49.362
+longitude: 7.07
 ---
