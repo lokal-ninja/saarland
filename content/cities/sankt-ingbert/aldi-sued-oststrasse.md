@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /losheim-am-see/aldi-sued/
+url: /sankt-ingbert/aldi-sued-oststrasse/
 shop: Supermarkt
 ---
