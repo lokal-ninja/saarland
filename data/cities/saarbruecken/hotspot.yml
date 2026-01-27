@@ -7,6 +7,5 @@ city: Saarbrücken
 street: Dudweilerstraße
 housenumber: "31"
 phone: ""
-opening_hours: Tu-Th 16:00-24:00; Fr 16:00-02:00; Sa 14:00-02:00; Su 14:00-24:00;
-    Mo closed
+opening_hours: Tu-Th 16:00-24:00; Fr-Sa 16:00-02:00; Su 16:00-24:00; Mo closed
 website: ""

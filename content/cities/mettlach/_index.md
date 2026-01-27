@@ -1,6 +1,6 @@
 ---
 title: Mettlach
 url: /mettlach/
-latitude: 49.498
-longitude: 6.587
+latitude: 49.493
+longitude: 6.606
 ---
