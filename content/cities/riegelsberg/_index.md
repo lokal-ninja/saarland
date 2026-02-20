@@ -1,6 +1,6 @@
 ---
 title: Riegelsberg
 url: /riegelsberg/
-latitude: 49.318
-longitude: 6.94
+latitude: 49.301
+longitude: 6.945
 ---
