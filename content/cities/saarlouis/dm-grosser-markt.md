@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /saarlouis/dm-im-hader/
+url: /saarlouis/dm-grosser-markt/
 shop: Drogerie
 ---
