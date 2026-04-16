@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /merchweiler/rewe-schulstrasse/
+url: /merchweiler/rewe-auf-pfuhlst/
 shop: Supermarkt
 ---
