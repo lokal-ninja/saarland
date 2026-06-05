@@ -1,6 +1,6 @@
 ---
 title: Merzig
 url: /merzig/
-latitude: 49.468
-longitude: 6.677
+latitude: 49.471
+longitude: 6.679
 ---
