@@ -7,5 +7,5 @@ city: Saarbrücken
 street: Lortzingstraße
 housenumber: "2"
 phone: +49 6897 73750
-opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-14:00; PH off
+opening_hours: Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; Mo,PH off
 website: ""
