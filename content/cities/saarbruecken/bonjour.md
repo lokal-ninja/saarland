@@ -1,5 +1,5 @@
 ---
-title: "Bonjour"
+title: "bonjour"
 url: /saarbruecken/bonjour/
 shop: Lebensmittel
 ---
