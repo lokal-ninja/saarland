@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
 url: /quierschied/rewe/
-shop: Supermarkt
+shop: Leerstehend
 ---
