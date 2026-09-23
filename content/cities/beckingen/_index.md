@@ -1,6 +1,6 @@
 ---
 title: Beckingen
 url: /beckingen/
-latitude: 49.394
-longitude: 6.702
+latitude: 49.393
+longitude: 6.7
 ---
