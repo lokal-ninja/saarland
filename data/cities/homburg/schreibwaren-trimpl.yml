@@ -7,6 +7,5 @@ city: Homburg
 street: Dürerstraße
 housenumber: "176"
 phone: ""
-opening_hours: 'mo-fr. 7:00 - 12:00 Uhr und 14:00 - 18:00 Uhr, Samstag: 07:00 - 13:00
-    Uhr'
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:00, Sa 07:00-13:00
 website: ""
